@@ -117,3 +117,21 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.xybp888.callassist15.fugu15
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: xybp888 <8657156@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy
+Filename: ./debs/电话助手IOS15-正式版(完整越狱).deb
+Size: 2512300
+MD5sum: 67bb66ff3ffbf4e6e399ff11cdb419cd
+SHA1: 226ddc1c979b3773b3408e474adb57c767cb85c1
+SHA256: 7fa7d3eccc02a028c2f091075a63aab006d878f9ba2eeab2b5eb7abe7e846554
+Section: Tweaks
+Description: 官方源下架，新版无微信功能，上架备份
+ * 电话助手授权版本,通话记录合并,通话录音,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,大部分刚需常用功能等的强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/830
+Name: 电话助手iOS15-正式版(Rootless)
+Sileodepiction: https://apt.htv123.com/sileo/830
+
