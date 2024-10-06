@@ -14,21 +14,22 @@ Author: ash
 Name: Fix Repair System Power
 Sponsor: ash
 
-Package: com.initnil.wcenableshowcontactaddcreatetime
-Version: 1.1-1
+Package: com.hui.instalauncher2.zh-hans
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: INITNIL
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com_initnil_wcenableshowcontactaddcreatetime_1_1_1_iphoneos_arm64.deb
-Size: 3802
-MD5sum: 19f77e2cb117db09d3c5738b13000db4
-SHA1: e1e30162f0391720bdf3b618ffb7422dc065fe62
-SHA256: 07bc1cd438e54819c8c31bce63e713b0917e548baf259227f1d21e3751b23a1b
+Maintainer: 灰灰
+Depends: com.jontelang.instalauncher2, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/zh-Hans for InstaLauncher 2_0.0.1_iphoneos-arm64.deb
+Size: 2612
+MD5sum: 12074d653da62aa81976c53898e8da1d
+SHA1: 0e0410135d6b30452808bf6862a1cf027a0cebf3
+SHA256: 11d18ec64b49d41284802ac7380b81ab57d5d03c51a7b99344a5bbba5876a28a
 Section: Tweaks
-Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
-Author: INITNIL
-Name: WCEnableShowContactAddCreateTime
+Description: InstaLauncher 2 简单汉化
+Author: 灰灰
+Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
+Name: zh-Hans for InstaLauncher 2
 
 Package: com.jontelang.instalauncher2
 Version: 1.11.0
