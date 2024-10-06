@@ -32,6 +32,23 @@ Description: 将 VPN 状态和无线状态合并为一个图标，可在设置�
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
+Package: com.82flex.singlevpn
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 416
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/debs/Single VPN.deb
+Size: 28316
+MD5sum: ec4d4a506eac8be21489c896f16af551
+SHA1: 84fbeb491ff55e173de8ea58133aca635ea6e8b0
+SHA256: bc675c74afe7b1bc23b5c3f222dab9d0d2b058a5fdc7f7f27a12ef37ff57496c
+Section: Tweaks
+Description: 将VPN 状态和无线状态合并为一个图标，可在设 置中自定义颜色
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
