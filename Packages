@@ -107,7 +107,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 304
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/recorder-bubble_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/录屏花瓣.deb
 Size: 41856
 MD5sum: 686ec5ec22d73af42d9ddb3345df41d9
 SHA1: f87ec24c278ea1f7967414f455e5638ade66c8a1
