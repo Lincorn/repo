@@ -1,3 +1,37 @@
+Package: com.initnil.wcenableshowcontactaddcreatetime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com_initnil_wcenableshowcontactaddcreatetime_1_1_1_iphoneos_arm64.deb
+Size: 3802
+MD5sum: 19f77e2cb117db09d3c5738b13000db4
+SHA1: e1e30162f0391720bdf3b618ffb7422dc065fe62
+SHA256: 07bc1cd438e54819c8c31bce63e713b0917e548baf259227f1d21e3751b23a1b
+Section: Tweaks
+Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Name: WCEnableShowContactAddCreateTime
+
+Package: com.jontelang.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/InstaLauncher 2_1.11.0_iphoneos-arm64.deb
+Size: 204056
+MD5sum: f99038afecaedf3f54a9d10a20dd2567
+SHA1: 9df92a335ee531836c6574015f045696192cd762
+SHA256: 65a757be77b76f0f1135a52fe3a38235e26b365e2aea9b0b16e2ef8d067d41f6
+Section: Tweaks
+Description: Launch ANY app instantly
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
+Name: InstaLauncher 2
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
