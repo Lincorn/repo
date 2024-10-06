@@ -1,3 +1,19 @@
+Package: com.ash.fixrepairsystempower
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ash
+Depends: mobilesubstrate
+Filename: ./debs/Fix Repair System Power_0.0.1_iphoneos-arm64.deb
+Size: 4564
+MD5sum: 8ce1a5f5d4772bfa1b304f65e67a5057
+SHA1: 883cc6187b0683d81ac98567630018922787b96b
+SHA256: 67622e821ed2af2338e5a97233e8a11d1a112aaf6f50eeeabb1e1a527dbf4fc6
+Section: Tweaks
+Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Author: ash
+Name: Fix Repair System Power
+Sponsor: ash
+
 Package: com.initnil.wcenableshowcontactaddcreatetime
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -47,4 +63,20 @@ Section: Tweaks
 Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
+
+Package: com.sunshinesong.recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 304
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/recorder-bubble_0.0.1_iphoneos-arm64.deb
+Size: 41800
+MD5sum: eb35c7983978da3b0d79199f058e7b12
+SHA1: 3f81439dd8087fc8161008b0106ab366fb9ed94e
+SHA256: 451041aafe4f161041e18a175e7f4af90ae4f48b5fcb989526dfd32207a241d0
+Section: Tweaks
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Author: sunshinesong
+Name: recorder-bubble
 
