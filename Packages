@@ -21,7 +21,7 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/Single VPN.deb
+Filename: ./debs/history/Single VPN.deb
 Size: 27532
 MD5sum: 0a460e107ae7f0b7b3da65c762b9e1a3
 SHA1: b028dec8c0598110f4ed961a8c437b94a26048ec
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 416
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/debs/Single VPN.deb
+Filename: ./debs/Single VPN.deb
 Size: 28316
 MD5sum: ec4d4a506eac8be21489c896f16af551
 SHA1: 84fbeb491ff55e173de8ea58133aca635ea6e8b0
