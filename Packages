@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.82flex.singlemute_1.4_iphoneos-arm64.deb
+Filename: ./debs/Single Mute.deb
 Size: 23752
 MD5sum: 9a96b5f03641cead1a1fc71eb42b588d
 SHA1: 640eeb211c6a3c44faa2059e2830de8f39f5f34d
