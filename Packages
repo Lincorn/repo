@@ -4,12 +4,13 @@ Architecture: iphoneos-arm64
 Maintainer: ash
 Depends: mobilesubstrate
 Filename: ./debs/Fix Repair System Power_0.0.1_iphoneos-arm64.deb
-Size: 4564
-MD5sum: 8ce1a5f5d4772bfa1b304f65e67a5057
-SHA1: 883cc6187b0683d81ac98567630018922787b96b
-SHA256: 67622e821ed2af2338e5a97233e8a11d1a112aaf6f50eeeabb1e1a527dbf4fc6
+Size: 4888
+MD5sum: f72879eaa8cebe8b5185fc6b5acb73c8
+SHA1: 18f008b9df832c634329d607f5282df020055c61
+SHA256: 39fa67cf95d693dc604c5dff8445506d0a0dd5cc129aa23f3f283623f336838c
 Section: Tweaks
-Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Description: CPU电池保护器电池连接状态不更改删除受监控区域不使用后台位置服务不更新WiFi状态删除假装在电话管理器中搜索没有WiFi扫描结果禁用WiFi充电器队列有蜂窝电话专用位置应用程序不使用位置和详细信息删除动画删除动画虚假服务如果不必要不扫描更新删除检查时区时区（固定）AdBlock-阻止某些iAds没有自动同步隐藏iAds设备
+ * CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
 Author: ash
 Name: Fix Repair System Power
 Sponsor: ash
@@ -38,13 +39,14 @@ Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/InstaLauncher 2_1.11.0_iphoneos-arm64.deb
-Size: 204056
-MD5sum: f99038afecaedf3f54a9d10a20dd2567
-SHA1: 9df92a335ee531836c6574015f045696192cd762
-SHA256: 65a757be77b76f0f1135a52fe3a38235e26b365e2aea9b0b16e2ef8d067d41f6
+Filename: ./debs/InstaLauncher2_1.11.0_iphoneos-arm64.deb
+Size: 203608
+MD5sum: ceaac989ce08fafcb4f8b1254ee4c158
+SHA1: 95d4ddb7523c2925e4840e836320452d5078e693
+SHA256: e8beaa14a6d12991d308ab87fa29b5abf3bc14393e0e7a7a7e3884ec12d141cd
 Section: Tweaks
-Description: Launch ANY app instantly
+Description: 通过侧边栏打开APP
+ * Launch ANY app instantly
 Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
 Name: InstaLauncher 2
@@ -72,12 +74,12 @@ Maintainer: sunshinesong
 Installed-Size: 304
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/recorder-bubble_0.0.1_iphoneos-arm64.deb
-Size: 41800
-MD5sum: eb35c7983978da3b0d79199f058e7b12
-SHA1: 3f81439dd8087fc8161008b0106ab366fb9ed94e
-SHA256: 451041aafe4f161041e18a175e7f4af90ae4f48b5fcb989526dfd32207a241d0
+Size: 41856
+MD5sum: 686ec5ec22d73af42d9ddb3345df41d9
+SHA1: f87ec24c278ea1f7967414f455e5638ade66c8a1
+SHA256: d191751cfc475aea4b36693789704cffc2b7089c2ce16350b8a05aaf928f7393
 Section: Tweaks
-Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。作者源已下架，备份上架。
 Author: sunshinesong
 Name: recorder-bubble
 
