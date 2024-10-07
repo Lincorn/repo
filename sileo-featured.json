@@ -1,0 +1,12 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{266, 199}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://github.com/Lincorn/repo/blob/91dc07beba2c62d694866293de2603d7aee6dab0/happy.png",
+   "title": "",
+   "hideShadow": true
+  }
+ ]
+}
