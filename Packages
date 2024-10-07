@@ -72,7 +72,7 @@ Architecture: iphoneos-arm64
 Maintainer: 灰灰
 Depends: com.jontelang.instalauncher2, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/zh-Hans for InstaLauncher 2_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/InstaLauncher 2中文包.deb
 Size: 2612
 MD5sum: 12074d653da62aa81976c53898e8da1d
 SHA1: 0e0410135d6b30452808bf6862a1cf027a0cebf3
