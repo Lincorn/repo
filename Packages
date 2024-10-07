@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/Single Mute.deb
+Filename: ./debs/iphoneos-arm64/Single Mute.deb
 Size: 23752
 MD5sum: 9a96b5f03641cead1a1fc71eb42b588d
 SHA1: 640eeb211c6a3c44faa2059e2830de8f39f5f34d
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 416
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/Single VPN.deb
+Filename: ./debs/iphoneos-arm64/Single VPN.deb
 Size: 28316
 MD5sum: ec4d4a506eac8be21489c896f16af551
 SHA1: 84fbeb491ff55e173de8ea58133aca635ea6e8b0
@@ -54,7 +54,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: ash
 Depends: mobilesubstrate
-Filename: ./debs/Fix Repair System Power_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/Fix Repair System Power_0.0.1_iphoneos-arm64.deb
 Size: 4888
 MD5sum: f72879eaa8cebe8b5185fc6b5acb73c8
 SHA1: 18f008b9df832c634329d607f5282df020055c61
@@ -72,7 +72,7 @@ Architecture: iphoneos-arm64
 Maintainer: 灰灰
 Depends: com.jontelang.instalauncher2, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/InstaLauncher 2中文包.deb
+Filename: ./debs/iphoneos-arm64/InstaLauncher 2中文包.deb
 Size: 2612
 MD5sum: 12074d653da62aa81976c53898e8da1d
 SHA1: 0e0410135d6b30452808bf6862a1cf027a0cebf3
@@ -90,7 +90,7 @@ Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/InstaLauncher2_1.11.0_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/InstaLauncher2_1.11.0.deb
 Size: 203608
 MD5sum: ceaac989ce08fafcb4f8b1254ee4c158
 SHA1: 95d4ddb7523c2925e4840e836320452d5078e693
@@ -108,7 +108,7 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/系统键盘圆角.deb
+Filename: ./debs/iphoneos-arm64/系统键盘圆角.deb
 Size: 3680
 MD5sum: db23c5f573186f1b929cd3873b9004fe
 SHA1: 1cb96326ccad40bf178a070f52f296935eb5dfca
@@ -124,7 +124,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 304
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/录屏花瓣.deb
+Filename: ./debs/iphoneos-arm64/录屏花瓣.deb
 Size: 41856
 MD5sum: 686ec5ec22d73af42d9ddb3345df41d9
 SHA1: f87ec24c278ea1f7967414f455e5638ade66c8a1
@@ -134,21 +134,45 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
-Package: com.xybp888.callassist15.fugu15
-Version: 2.2.2
+Package: misakahelper
+Version: 2.1-0
 Architecture: iphoneos-arm64
-Maintainer: xybp888 <8657156@qq.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy
-Filename: ./debs/电话助手IOS15-正式版(完整越狱).deb
-Size: 2512300
-MD5sum: 67bb66ff3ffbf4e6e399ff11cdb419cd
-SHA1: 226ddc1c979b3773b3408e474adb57c767cb85c1
-SHA256: 7fa7d3eccc02a028c2f091075a63aab006d878f9ba2eeab2b5eb7abe7e846554
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: misakahelper
+Replaces: misakahelper
+Provides: misakahelper
+Filename: ./debs/iphoneos-arm64/微信misaka end.deb
+Size: 13177372
+MD5sum: b9eec8553739306b0db9708ce2d20649
+SHA1: 90f0a8b06bf7e37927ffdbb44e29f87246c6becf
+SHA256: 120e37372a8cf1d0a22e82336185cfde161948a130b2ab209d475285d0cff165
 Section: Tweaks
-Description: 官方源下架，新版无微信功能，上架备份
- * 电话助手授权版本,通话记录合并,通话录音,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,大部分刚需常用功能等的强大插件
-Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/830
-Name: 电话助手iOS15-正式版(Rootless)
-Sileodepiction: https://apt.htv123.com/sileo/830
+Priority: optional
+Description: 微信插件misaka，作者退圈，备份上架。
+ * MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: netskao.wechatpurification
+Version: 4.2-7
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/微信净化 4.2-7.deb
+Size: 6272304
+MD5sum: 158abf07c9ab8e72919ee56cf0640f88
+SHA1: 691752891a3d76200c36e96ed43161408e43b53d
+SHA256: 0367155e186114226b98ab38d9aed3d19a673754986917cd3b2e8d70337590e4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+ * 备份上架
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
 
