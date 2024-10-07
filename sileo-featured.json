@@ -4,9 +4,9 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://github.com/Lincorn/repo/blob/91dc07beba2c62d694866293de2603d7aee6dab0/happy.png",
-   "title": "",
-   "hideShadow": true
+   "url": "https://Lincorn.github.io/sileodepiction/Default/happy.png",
+   "title": "Stranger Things",
+   "package": "",
+   "hideShadow": false
   }
- ]
-}
+ }
