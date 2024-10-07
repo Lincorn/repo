@@ -54,12 +54,28 @@
         br {
             display: none; /* 隐藏额外的换行 */
         }
+        .email-button {
+            display: block; /* 使链接表现为块级元素 */
+            background-color: #f0ad4e;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            margin: 20px auto; /* 按钮居中 */
+            width: fit-content; /* 适应内容宽度 */
+        }
+        .email-button:hover {
+            background-color: #ec971f;
+        }
     </style>
 </head>
 <body>
     <div class="main-bg">
         <h1>Lemonas's Repo</h1>
-        <a href="https://t.me/Lemoncorn" class="bottom-text-w3ls">联系我TG</a>
+        <a href="https://t.me/Lemoncorn" class="bottom-text-w3ls">Telegram联系我</a>
+        <a href="mailto:lincorn412@gmail.com" class="email-button">邮件联系我</a>
     </div>
 </body>
 </html>
