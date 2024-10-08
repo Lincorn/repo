@@ -7,25 +7,25 @@
    "url": "https://lincorn.github.io/repo/image/pink1.png",
    "title": "",
    "package": "com.liuf.jpyj",
-   "hideShadow": false
+   "hideShadow": true
   }
   {
    "url": "https://lincorn.github.io/repo/image/bule1.png",
    "title": "",
    "package": "com.ash.fixrepairsystempower",
-   "hideShadow": false
+   "hideShadow": true
   },
   {
    "url": "https://lincorn.github.io/repo/image/pink2.png",
    "title": "",
    "package": "com.82flex.singlemute",
-   "hideShadow": false
+   "hideShadow": true
   },
   {
    "url": "https://lincorn.github.io/repo/image/bule2.png",
    "title": "",
    "package": "com.82flex.singlemute",
-   "hideShadow": false
+   "hideShadow": true
   }
  ]
 }
