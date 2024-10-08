@@ -23,7 +23,7 @@
             background-attachment: fixed; /* 固定背景 */
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start; /* 修改这里从center改为flex-start */
             height: 100vh;
             flex-direction: column;
         }
@@ -35,7 +35,7 @@
             width: 80%;
             max-width: 400px;
             text-align: center; /* 所有文字居中 */
-            margin: auto; /* 自动边距 */
+            /* 去掉 margin: auto; 以防止自动上下居中 */
         }
         h1 {
             color: #333;
