@@ -1,29 +1,29 @@
 {
  "class": "FeaturedBannersView",
- "itemSize": "{266, 199}",
+ "itemSize": "{266, 166}",
  "itemCornerRadius": 10,
  "banners": [
   {
    "url": "https://lincorn.github.io/repo/image/pink1.png",
-   /*"title": "Stranger Things",*/
+   "title": "",
    "package": "com.liuf.jpyj",
    "hideShadow": false
   }
   {
    "url": "https://lincorn.github.io/repo/image/bule1.png",
-   "title": "dpkg-fill",
+   "title": "",
    "package": "com.liuf.jpyj",
    "hideShadow": false
   },
   {
    "url": "https://lincorn.github.io/repo/image/pink2.png",
-  /* "title": "crc",*/
+   "title": "",
    "package": "com.liuf.jpyj",
    "hideShadow": false
   },
   {
    "url": "https://lincorn.github.io/repo/image/bule2.png",
-   /*"title": "cac",*/
+   "title": "",
    "package": "com.liuf.jpyj",
    "hideShadow": false
   }
