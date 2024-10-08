@@ -4,8 +4,26 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://lincorn.github.io/repo/happy.png",
-   "title": "Stranger Things",
+   "url": "https://lincorn.github.io/repo/image/pink1.png",
+   /*"title": "Stranger Things",*/
+   "package": "com.liuf.jpyj",
+   "hideShadow": false
+  }
+  {
+   "url": "https://lincorn.github.io/repo/image/bule1.png",
+   "title": "dpkg-fill",
+   "package": "com.liuf.jpyj",
+   "hideShadow": false
+  },
+  {
+   "url": "https://lincorn.github.io/repo/image/pink2.png",
+  /* "title": "crc",*/
+   "package": "com.liuf.jpyj",
+   "hideShadow": false
+  },
+  {
+   "url": "https://lincorn.github.io/repo/image/bule2.png",
+   /*"title": "cac",*/
    "package": "com.liuf.jpyj",
    "hideShadow": false
   }
