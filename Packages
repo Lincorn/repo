@@ -134,6 +134,23 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.xx.dyhook
+Version: 2.0.6+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhook_2.0.6+8_iphoneos-arm64.deb
+Size: 3902232
+MD5sum: 9078b9869047fbb516bda0ddbc5b85c4
+SHA1: c18dfd243c2b8ccefd4b35c34fac5cd320266e6b
+SHA256: 9d38ff6617f47cf276d539bdd29aba7767c4e8c6b0ed318cdacee65c1185bc1e
+Section: Tweaks
+Description: 仅越狱可用，抖音图层2.0.6+8
+ * 作者源可能不在维护，上架备份
+Author: x✨
+Name: 抖音图层
+
 Package: misakahelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
