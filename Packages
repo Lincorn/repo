@@ -118,6 +118,35 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.5-8_iphoneos-arm64.deb
+Size: 186624
+MD5sum: bf5b745ade6cd4576eeeeea781b4d0cf
+SHA1: 9d55216fc6b0030ec9be5709cda8fc4ed823848a
+SHA256: 3c32e12e0dcef46c6daa26e6923e6394a460c57277155c70aa928cd526830c95
+Section: Tweaks
+Description: 新分屏，作者停更，上架备份
+ * 功能介绍：
+  * 1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试)
+  * 2.浮窗底部快速上滑关闭浮窗
+  * 3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑
+  * 4.小屏脑门和下巴都没了,操作区域底部宽度降低了
+  * 5.底部左右滑动，切换app
+  * 6.底部长按不松手拖动改变窗口位置
+  * 7.底部长按后松手可双指缩放，单指移动，双击恢复
+   * 7.1 双指上 .右. 下边缘也可缩放,难度自适应
+  * 8.底部上拉一定距离震动后松手，进入app选择界面，
+  * 1）左侧Mirror为已添加，点击图标可置顶app
+  * 2）User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.
+  * 3）快速右滑关闭app选择窗口,慢速不让退
+Author: Crassna
+Name: App Lecard
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
