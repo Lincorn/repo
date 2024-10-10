@@ -1,6 +1,6 @@
 {
  "class": "FeaturedBannersView",
- "itemSize": "{266, 166}",
+ "itemSize": "{380, 200}",
  "itemCornerRadius": 10,
  "banners": [
   {
@@ -12,19 +12,19 @@
   {
    "url": "https://lincorn.github.io/repo/image/bule1.png",
    "title": "",
-   "package": "com.ash.fixrepairsystempower",
+   "package": "",
    "hideShadow": true
   },
   {
    "url": "https://lincorn.github.io/repo/image/pink2.png",
    "title": "",
-   "package": "com.82flex.singlemute",
+   "package": "",
    "hideShadow": true
   },
   {
    "url": "https://lincorn.github.io/repo/image/bule2.png",
    "title": "",
-   "package": "com.82flex.singlemute",
+   "package": "",
    "hideShadow": true
   }
  ]
