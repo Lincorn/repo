@@ -118,6 +118,22 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.5-8_iphoneos-arm64.deb
+Size: 201068
+MD5sum: 3097fdc8ae506a565bd4386bfd3e0003
+SHA1: 978a271c74bd5ffcbc8a1bdbd90b31d39e6b315d
+SHA256: 996a4d135eb9375d160741f7bad85dc853c2b78b0c804c1a9ac4bbe0165a3487
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
