@@ -1,5 +1,7 @@
 {
   "class": "DepictionTabView",
+  "tintColor": "#FF4455",
+  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -7,14 +9,25 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "版本 1.0.0",
+          "title": "版本 0.1.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "修复了一些 bug，优化了性能。",
+          "markdown": "初始版本，增加基本功能",
           "useRawFormat": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionTableTextView",
+          "text": "这个包的描述信息",
+          "title": "描述"
         }
       ]
     }
