@@ -26,7 +26,6 @@ jobs:
         run: |
           echo '{
             "class": "DepictionTabView",
-            "headerImage": "your_header_image_url",
             "tabs": [
               {
                 "class": "DepictionStackView",
@@ -46,7 +45,7 @@ jobs:
                 ]
               }
             ]
-          }' > ./path/to/your/Depiction.json
+          }' > ./Depiction.json
 
       - name: Refresh Packages
         if: success()
