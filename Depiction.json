@@ -9,13 +9,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "版本 0.1.0",  # 可以动态设置版本号
+          "title": "版本 0.1.0",  
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "初始版本，增加基本功能",  # 这里可以设置具体的更新日志
+          "markdown": "初始版本，增加基本功能",  
           "useRawFormat": true
         }
       ]
