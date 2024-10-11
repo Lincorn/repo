@@ -16,16 +16,29 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Install dependencies
+      - name: install depend
         if: success()
         run: |
           sudo apt update 2>>/dev/null 1>>/dev/null
           sudo apt install dpkg-dev bzip2 xz-utils zstd -y
 
-      - name: Generate Update Log
+      - name: Refresh Packages
+        if: success()
+        run: |
+          rm -rf ./Packages*
+          dpkg-scanpackages -m ./debs /dev/null >./Packages
+          bzip2 -v -k -9 Packages
+          xz -v -k -9 --extreme Packages
+          zstd --ultra -22 -k Packages -o Packages.zst
+
+      - name: Generate Depiction.json for updates
+        if: success()
         run: |
           echo '{
             "class": "DepictionTabView",
+            "headerImage": "https://example.com/image.png",
+            "tintColor": "#FF4455",
+            "minVersion": "0.3",
             "tabs": [
               {
                 "class": "DepictionStackView",
@@ -33,58 +46,49 @@ jobs:
                 "views": [
                   {
                     "class": "DepictionSubheaderView",
-                    "title": "版本 1.0.0",
+                    "title": "版本 0.1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                   },
                   {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复了一些 bug，优化了性能。",
+                    "markdown": "初始版本，增加基本功能",
                     "useRawFormat": true
+                  }
+                ]
+              },
+              {
+                "class": "DepictionStackView",
+                "tabname": "描述",
+                "views": [
+                  {
+                    "class": "DepictionTableTextView",
+                    "text": "这个包的描述信息",
+                    "title": "描述"
                   }
                 ]
               }
             ]
-          }' > ./UpdateLog.json
+          }' > ./debs/Depiction.json
 
-      - name: Generate Package Description
-        run: |
-          echo "Source: your-package-name" > debian/control
-          echo "Section: misc" >> debian/control
-          echo "Priority: optional" >> debian/control
-          echo "Maintainer: Your Name <youremail@example.com>" >> debian/control
-          echo "Build-Depends: debhelper (>= 9), other-dependencies" >> debian/control
-          echo "Standards-Version: 4.5.0" >> debian/control
-          echo "" >> debian/control
-          echo "Package: your-package-name" >> debian/control
-          echo "Architecture: any" >> debian/control
-          echo "Depends: \${shlibs:Depends}, \${misc:Depends}" >> debian/control
-          echo "Description: 这是你的包的简短描述" >> debian/control
-          echo "  这是一个更详细的描述，可以包含多行内容。" >> debian/control
-
-      - name: Build New .deb Package
-        if: success()
-        run: |
-          dpkg-deb --build your-package-folder
-
-      - name: Save changes if local change
+      - name: save change if local change
         if: success()
         run: |
           git config --global user.email 'action@github.com'
           git config --global user.name 'GitHub Action'
           git add .
           if ! git diff --staged --exit-code 1>>/dev/null; then
-            git commit -m 'Refresh Packages and Update Logs'
+            git commit -m 'Refresh Packages and update Depiction.json'
             git push
           fi
-
-      - name: Download remove_all_actions
+          
+      - name: download remove_all_actions
         if: success()
         run: |
           sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
           sudo chmod -R 0755 '/usr/bin/remove_all_actions'
 
-      - name: Remove all old actions
+      - name: remove all old actions
         if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
