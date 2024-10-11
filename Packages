@@ -147,22 +147,6 @@ Description: 新分屏，作者停更，上架备份
 Author: Crassna
 Name: App Lecard
 
-Package: com.nx.appcardlite
-Version: 2.2.6
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 908
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.6_iphoneos-arm64.deb
-Size: 186414
-MD5sum: a978f011d75889b09aa96b71df6c433d
-SHA1: 1c818328a5cfaf013d1046bde247203de9026271
-SHA256: 093637e43345db82145a71028746aaacdf7ba61bd7dcfd0846ddbac81b81a413
-Section: Tweaks
-Description: A !
-Author: Crassna
-Name: App Lecard
-
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
