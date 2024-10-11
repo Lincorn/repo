@@ -9,13 +9,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "版本 0.1.0",
+          "title": "版本 2.2.6",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "初始版本，增加基本功能",
+          "markdown": "横屏键盘移到中间,不喜欢的用版本:2.2.5-8",
           "useRawFormat": true
         }
       ]
@@ -26,7 +26,21 @@
       "views": [
         {
           "class": "DepictionTableTextView",
-          "text": "这个包的描述信息",
+          "text": "备份上架，侵权联系删除
+          功能介绍：
+          * 1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试)
+          * 2.浮窗底部快速上滑关闭浮窗
+          * 3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑
+          * 4.小屏脑门和下巴都没了,操作区域底部宽度降低了
+          * 5.底部左右滑动，切换app
+          * 6.底部长按不松手拖动改变窗口位置
+          * 7.底部长按后松手可双指缩放，单指移动，双击恢复
+          * 7.1 双指上 .右. 下边缘也可缩放,难度自适应
+          * 8.底部上拉一定距离震动后松手，进入app选择界面，
+          * 1）左侧Mirror为已添加，点击图标可置顶app
+          * 2）User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.
+          * 3）快速右滑关闭app选择窗口,慢速不让退
+          ",
           "title": "描述"
         }
       ]
