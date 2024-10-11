@@ -68,7 +68,7 @@ jobs:
                 ]
               }
             ]
-          }' > ./debs/Depiction.json
+          }' > ./Depiction.json
 
       - name: save change if local change
         if: success()
