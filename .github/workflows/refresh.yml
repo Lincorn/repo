@@ -36,7 +36,6 @@ jobs:
         run: |
           echo '{
             "class": "DepictionTabView",
-            "headerImage": "https://example.com/image.png",
             "tintColor": "#FF4455",
             "minVersion": "0.3",
             "tabs": [
