@@ -22,7 +22,7 @@ jobs:
           sudo apt update 2>>/dev/null 1>>/dev/null
           sudo apt install dpkg-dev bzip2 xz-utils zstd -y
 
-      - name: Generate Depiction.json
+      - name: Generate Update Log
         run: |
           echo '{
             "class": "DepictionTabView",
@@ -45,16 +45,27 @@ jobs:
                 ]
               }
             ]
-          }' > ./Depiction.json
+          }' > ./UpdateLog.json
 
-      - name: Refresh Packages
+      - name: Generate Package Description
+        run: |
+          echo "Source: your-package-name" > debian/control
+          echo "Section: misc" >> debian/control
+          echo "Priority: optional" >> debian/control
+          echo "Maintainer: Your Name <youremail@example.com>" >> debian/control
+          echo "Build-Depends: debhelper (>= 9), other-dependencies" >> debian/control
+          echo "Standards-Version: 4.5.0" >> debian/control
+          echo "" >> debian/control
+          echo "Package: your-package-name" >> debian/control
+          echo "Architecture: any" >> debian/control
+          echo "Depends: \${shlibs:Depends}, \${misc:Depends}" >> debian/control
+          echo "Description: 这是你的包的简短描述" >> debian/control
+          echo "  这是一个更详细的描述，可以包含多行内容。" >> debian/control
+
+      - name: Build New .deb Package
         if: success()
         run: |
-          rm -rf ./Packages*
-          dpkg-scanpackages -m ./debs /dev/null > ./Packages
-          bzip2 -v -k -9 Packages
-          xz -v -k -9 --extreme Packages
-          zstd --ultra -22 -k Packages -o Packages.zst
+          dpkg-deb --build your-package-folder
 
       - name: Save changes if local change
         if: success()
@@ -63,7 +74,7 @@ jobs:
           git config --global user.name 'GitHub Action'
           git add .
           if ! git diff --staged --exit-code 1>>/dev/null; then
-            git commit -m '更新 Depiction.json'
+            git commit -m 'Refresh Packages and Update Logs'
             git push
           fi
 
