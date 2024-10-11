@@ -9,13 +9,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "版本 0.1.0",
+          "title": "版本 0.1.0",  # 可以动态设置版本号
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "初始版本，增加基本功能",
+          "markdown": "初始版本，增加基本功能",  # 这里可以设置具体的更新日志
           "useRawFormat": true
         }
       ]
@@ -26,7 +26,7 @@
       "views": [
         {
           "class": "DepictionTableTextView",
-          "text": "这个包的描述信息",
+          "text": "备份上架，侵权联系删除",
           "title": "描述"
         }
       ]
