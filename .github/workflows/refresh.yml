@@ -51,9 +51,9 @@ jobs:
         run: |
           dpkg-deb --build path_to_your_deb_folder
 
-      # Step 5: 可选：上传新生成的 .deb 文件（可以保留你之前的上传逻辑）
+      # Step 5: 上传新生成的 .deb 文件（使用最新的 v3 版本）
       - name: Upload deb package
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # 更新到 v3
         with:
           name: my-deb-package
           path: path_to_your_deb_folder/output.deb
