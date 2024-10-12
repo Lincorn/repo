@@ -1,0 +1,10 @@
+{
+  "package": "com.lincorn.repo",
+  "updates": [
+    {
+      "version": "1.0.0",
+      "date": "2024-10-12",
+      "description": "Initial release of my package."
+    }
+  ]
+}
