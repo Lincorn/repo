@@ -44,7 +44,8 @@ jobs:
           git config --global user.email 'action@github.com'
           git add depictions/js.json DEBIAN/control
           git commit -m "Update changelog and control file for version $VERSION"
-          git push origin main
+          git pull origin main --rebase  # 拉取远程仓库最新代码
+          git push origin main  # 推送代码
 
       # Step 4: 重新打包 .deb 文件
       - name: Rebuild deb package
@@ -57,6 +58,3 @@ jobs:
         with:
           name: my-deb-package
           path: path_to_your_deb_folder/output.deb
-
-      # Step 6: 可选：其他你之前的功能
-      # 如果你之前还有其他步骤，比如通知、清理缓存等，可以在此添加。
