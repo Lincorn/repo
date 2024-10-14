@@ -181,6 +181,23 @@ Changelog:
 Name: App Lecard
 Sileodepiction: https://lincorn.github.io/repo/depictions/com.nx.appcardlite_2.2.6_iphoneos-arm64.deb.html
 
+Package: com.nx.appcardlite
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.7_iphoneos-arm64.deb
+Size: 189824
+MD5sum: c4fdbc66adaee66a2a5ab82dfc36dbe9
+SHA1: f3f0d2b39e86302038c19b50f8e485cc25dc6381
+SHA256: 0b26c27072567ebe9ef6da7fcaee5d641f0fbd39f5b30cbd389fe451ca6c2b8c
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
