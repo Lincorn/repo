@@ -37,23 +37,8 @@ jobs:
           git diff --quiet || git commit -m 'Refresh Packages and Release'
           git push
 
-      - name: Clean up old workflow runs
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const { Octokit } = require("@octokit/action");
-            const octokit = new Octokit();
-            const { data: runs } = await octokit.rest.actions.listWorkflowRunsForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              status: "completed"
-            });
-            for (const run of runs) {
-              if (run.head_branch === context.ref.replace('refs/heads/', '') && run.id !== context.runId) {
-                await octokit.rest.actions.deleteWorkflowRun({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  run_id: run.id
-                });
-              }
-            }
+      - name: Delete old workflow runs
+        run: |
+          gh api -X GET "/repos/${{ github.repository }}/actions/runs" \
+            --paginate -F status=completed -q '.workflow_runs[] | select(.head_branch == "main") | .id' \
+            | xargs -n1 -I {} gh api -X DELETE "/repos/${{ github.repository }}/actions/runs/{}"
