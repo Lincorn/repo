@@ -26,7 +26,17 @@ jobs:
         if: success()
         run: |
           rm -rf ./Packages*
-          dpkg-scanpackages -m ./debs /dev/null >./Packages
+          dpkg-scanpackages -m ./debs /dev/null > ./Packages
+
+          # 拉取 changelog 内容并添加到 Packages 文件中
+          echo "" >> ./Packages
+          echo "ChangeLog:" >> ./Packages
+          if [ -f ./changelog ]; then
+            cat ./changelog >> ./Packages
+          else
+            echo "No changelog found" >> ./Packages
+          fi
+
           bzip2 -v -k -9 Packages
           xz -v -k -9 --extreme Packages
           zstd --ultra -22 -k Packages -o Packages.zst
@@ -38,7 +48,7 @@ jobs:
           git config --global user.name 'GitHub Action'
           git add .
           if ! git diff --staged --exit-code 1>>/dev/null; then
-            git commit -m 'Refresh Packages'
+            git commit -m 'Refresh Packages with changelog'
             git push
           fi
           
