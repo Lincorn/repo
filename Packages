@@ -16,38 +16,21 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 
 Package: com.82flex.singlevpn
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/history/Single VPN.deb
-Size: 27532
-MD5sum: 0a460e107ae7f0b7b3da65c762b9e1a3
-SHA1: b028dec8c0598110f4ed961a8c437b94a26048ec
-SHA256: 1c38515cf1213b0aa50df3f0e67440d93a8f6ae90a0bacefbf9a0c25340b63b8
-Section: Tweaks
-Description: 将 VPN 状态和无线状态合并为一个图标，可在设置中自定义颜色
- * Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Name: Single VPN
-
-Package: com.82flex.singlevpn
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 416
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/Single VPN.deb
-Size: 28316
-MD5sum: ec4d4a506eac8be21489c896f16af551
-SHA1: 84fbeb491ff55e173de8ea58133aca635ea6e8b0
-SHA256: bc675c74afe7b1bc23b5c3f222dab9d0d2b058a5fdc7f7f27a12ef37ff57496c
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_1.2_iphoneos-arm64.deb
+Size: 28288
+MD5sum: 0efde08e7ca4a9f9b3a3cd56edd3e371
+SHA1: d8cc49c9a2ea016bcf80941a637dfda07b496f24
+SHA256: 8c7b8c25b3511257d584cd84045482e67c331cfa9d9e079c325c98d3956f0808
 Section: Tweaks
-Description: 将VPN 状态和无线状态合并为一个图标，可在设 置中自定义颜色
- * Combine VPN state and wireless state into one icon.
+Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
+Sileodepiction: https://lincorn.github.io/sileodepiction/SingleVPN/js.json
 
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
