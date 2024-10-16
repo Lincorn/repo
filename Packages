@@ -156,6 +156,142 @@ Author: liuf <(null)>
 Name: 系统键盘圆角
 
 Package: com.nx.appcardlite
+Version: 2.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.1.1-2_iphoneos-arm64.deb
+Size: 164756
+MD5sum: 5d7bafd8638fa9f977fbfa781574df50
+SHA1: dab19c2a604cec3c42459d445e22d19313847f2c
+SHA256: 31bde6abe7488247d6b4a3a97bac2e5753e58b073ff9930ac39838f842d93a1e
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: lCrassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.1.2-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.1.2-1_iphoneos-arm64.deb
+Size: 165700
+MD5sum: d568218da855ca7355fcafbc3dc8682a
+SHA1: a363a4f8d9f15a463e4f2fc16d69b66737a05a22
+SHA256: 92351d383b7bd7785741094b6fcd6b84081da02be4c844223b547c21f67cd932
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: lCrassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.1.3-5
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.1.3-5_iphoneos-arm64.deb
+Size: 166980
+MD5sum: a933c8157391d389f4d2fc8413a74dc0
+SHA1: 8180eb5c4e3562fb83b5292653cbf1de98857303
+SHA256: 9dd8e37376fd5bd59903443f39e471348f852a6d55929f832746b8a1656e3469
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: lCrassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.1.4-1_iphoneos-arm64.deb
+Size: 164236
+MD5sum: 7c093577075c2dcf223b8c747aeea99b
+SHA1: 3c61289aaef82549bda4055b910011ba50d49a0b
+SHA256: ad88f72b09542b2651734a37a6226b476e414a80a631bb2c76d92639c631b01a
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: lCrassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.1.6-5
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 860
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.1.6-5_iphoneos-arm64.deb
+Size: 174248
+MD5sum: 2cfc9a93107a7fcad173c946c3631b64
+SHA1: fb8661cb646fdd1d4483693d360dcf0d59830c93
+SHA256: 19a2744ca0fe84a8d9669897f6ecd82ff0363a1a3abb984f6b9aa8ee265c4e84
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.2.1-4
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 876
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.1-4_iphoneos-arm64.deb
+Size: 178608
+MD5sum: c0cea04203d2928e7c81acd4c50bc178
+SHA1: 812984204563313c2632918038ce2ebaf2bfef86
+SHA256: bb53ea5c45227e7c3a16a6b1d4207bb69291de252941e071e25909f9e0d35294
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.2.4-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.4-1_iphoneos-arm64.deb
+Size: 184544
+MD5sum: d0c9fdb5b91ba35ac4bec51ea73d7fe4
+SHA1: 066419b544195dce28b500a87f7a50f49218395d
+SHA256: a19b38a55ae115f714988140958560c1b6a6a4b6a8c54c8effd4d3f4b4957b36
+Section: Tweaks
+Description: 新分屏
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
+Version: 2.2.5-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.2.5-1_iphoneos-arm64.deb
+Size: 184772
+MD5sum: 6dc81af305de13d7e4d646f46be3372c
+SHA1: bfb06107517990ce6ce90bc5276ec251a0a57dfb
+SHA256: 77cc09ea7963734dfd8f5393eaafab6d6364d163e3407e775af8a9d339ff160b
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
+Package: com.nx.appcardlite
 Version: 2.2.5-8
 Architecture: iphoneos-arm64
 Maintainer: Crassna
