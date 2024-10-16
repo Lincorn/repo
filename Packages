@@ -68,6 +68,24 @@ Author: AlexandraAurora
 Name: Kayoko 中文版(rootless)
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: ./debs/iphoneos-arm64/com.dao.kayoko_2.3_iphoneos-arm64.deb
+Size: 118920
+MD5sum: 279a7f2403970cbfac9028a087abdaf1
+SHA1: d44be704ee61c892bbee5461e696c6f3834f003f
+SHA256: 7a3380cd3f9eaa3e15f2f51131e84a40f35701be23a08c3c19c6d57514893355
+Section: Tweaks
+Description: 剪切板，备份上架
+ * 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
