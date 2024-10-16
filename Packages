@@ -1,3 +1,21 @@
+Package: com.82flex.singlemute
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.4_iphoneos-arm64.deb
+Size: 23800
+MD5sum: e06d899b0303bffbafbe76f68c12f7fd
+SHA1: de535f8d532bc5c9e1db7fd38a840e1e99cbe2ae
+SHA256: bfd04f5d0538b0555d646be7a89c180b12fcc5a945aa31d4fb4b1486fd261c99
+Section: Tweaks
+Description: 让静音键在时间右侧显示,详细在设置界面查看
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+Sileodepiction: https://lincorn.github.io/sileodepiction/SingleMute/js.json
+
 Package: com.82flex.singlevpn
 Version: 1.2
 Architecture: iphoneos-arm64
