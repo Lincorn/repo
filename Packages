@@ -269,6 +269,23 @@ Author: Crassna
 Name: App Lecard
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
 
+Package: com.nx.appcardlite
+Version: 2.3FT
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.nx.appcardlite_2.3FT_iphoneos-arm64.deb
+Size: 193832
+MD5sum: 73ad12b03fccb35c214c609accd21671
+SHA1: 2d7d1cda3dca77d29afa35955afde00f8cc423a0
+SHA256: 42751fb5a61ff76e6635c7871174890d39df5fa540f14eeb5e307055ad2f61bd
+Section: Tweaks
+Description: 新分屏，备份上架
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.nx.appcardlite/js.json
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
