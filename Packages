@@ -1,3 +1,20 @@
+Package: codes.dao.kayoko
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.dao.kayoko_2.5_iphoneos-arm64.deb
+Size: 126236
+MD5sum: 791c5173634f367e85c7f51914f67f02
+SHA1: 25af378e64f1b340cc19df07994de76eb23fb86a
+SHA256: a2217d75abdc3c51a39a6998cd31b256fc1180cc565d7c29194c777d11a03d8a
+Section: Tweaks
+Description: 乌龙工作室Kayoyo，更多优化增强，添加支持iOS16
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
