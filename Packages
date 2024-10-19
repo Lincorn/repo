@@ -1,20 +1,3 @@
-Package: codes.dao.kayoko
-Version: 2.5
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64/codes.dao.kayoko_2.5_iphoneos-arm64.deb
-Size: 126236
-MD5sum: 791c5173634f367e85c7f51914f67f02
-SHA1: 25af378e64f1b340cc19df07994de76eb23fb86a
-SHA256: a2217d75abdc3c51a39a6998cd31b256fc1180cc565d7c29194c777d11a03d8a
-Section: Tweaks
-Description: 乌龙工作室Kayoyo，更多优化增强，添加支持iOS16
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
-
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -84,24 +67,6 @@ Description: 备份上架
  * 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: AlexandraAurora
 Name: Kayoko 中文版(rootless)
-Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: ./debs/iphoneos-arm64/com.dao.kayoko_2.3_iphoneos-arm64.deb
-Size: 118920
-MD5sum: 279a7f2403970cbfac9028a087abdaf1
-SHA1: d44be704ee61c892bbee5461e696c6f3834f003f
-SHA256: 7a3380cd3f9eaa3e15f2f51131e84a40f35701be23a08c3c19c6d57514893355
-Section: Tweaks
-Description: 剪切板，备份上架
- * 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
