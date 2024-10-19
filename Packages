@@ -1,4 +1,22 @@
 Package: codes.aurora.kayoko
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.4_iphoneos-arm64.deb
+Size: 125828
+MD5sum: 273917d6ece368d723c34de21427638c
+SHA1: ae91e1a2c6bdde66f21795259a7133631fb1e188
+SHA256: e24fa857e3c420f06ec5460b3491fd62a2e76af932c31eeaf4342ca3c31b2d3b
+Section: Tweaks
+Description: 乌龙工作室Kayoyo，更多优化增强，添加支持iOS16
+ * Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
+Package: codes.aurora.kayoko
 Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
