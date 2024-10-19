@@ -1,3 +1,20 @@
+Package: codes.aurora.kayoko
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.5_iphoneos-arm64.deb
+Size: 126232
+MD5sum: 6215169cdce32e3fc1d69b5c58511224
+SHA1: 2c230435b2249713c289a41714ff962740521c59
+SHA256: d89cc3fc0c4241bdbc5e4c9cabbb11efdb541d28c8eee9f2f013703c409f5ae6
+Section: Tweaks
+Description: 乌龙工作室Kayoyo，更多优化增强，添加支持iOS16
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -49,42 +66,6 @@ Description: CPU电池保护器电池连接状态不更改删除受监控区域�
 Author: ash
 Name: Fix Repair System Power
 Sponsor: ash
-
-Package: com.dao.kayoko
-Version: 2.0.5
-Architecture: iphoneos-arm64
-Maintainer: zqbb & 妖刀
-Installed-Size: 956
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: ./debs/iphoneos-arm64/com.dao.kayoko_2.0.5_iphoneos-arm64.deb
-Size: 83016
-MD5sum: 7614cf2ba084f87e3d83b42bd0104975
-SHA1: 4cbf2524e61cfb567994d828ed1ccf66be61c5a3
-SHA256: 1c433881573668c4fc524f918bde939131d450a2f7ed977402d5928648094177
-Section: Tweaks
-Description: 备份上架
- * 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: AlexandraAurora
-Name: Kayoko 中文版(rootless)
-Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: ./debs/iphoneos-arm64/com.dao.kayoko_2.4_iphoneos-arm64.deb
-Size: 125764
-MD5sum: 4e369d28bf79154d10ac777be6b5283a
-SHA1: 98bde10ebe35c450eae9a0b1d0252637445bfdcc
-SHA256: 70d35f6f7eeff33dbf985f145ffc68d6d03e02d477157e64ff4544715c946c19
-Section: Tweaks
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
