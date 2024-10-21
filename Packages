@@ -437,6 +437,24 @@ Description: 仅越狱可用，抖音图层2.0.6+8
 Author: x✨
 Name: 抖音图层
 
+Package: com.xx.dyhook
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 11788
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhook_2.0.7_iphoneos-arm64.deb
+Size: 4174816
+MD5sum: c5b8a953133641dbc514a0a59dc81231
+SHA1: 494f863097286787f387b3f5821dc63737a183a3
+SHA256: 3ea8914181cda16255eec9845d22f0595d6057720286c06234b0def01e16dc42
+Section: Tweaks
+Description: 仅支持越狱使用
+ * 上架备份
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: datasource
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
