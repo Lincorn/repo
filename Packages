@@ -137,6 +137,23 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.netskao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.3_iphoneos-arm64.deb
+Size: 4626012
+MD5sum: 73779862b68568d5016e3a881339c2b8
+SHA1: cf71590416b707c9fa67a5158daca1628b366ace
+SHA256: ddc2aea56651743ea993f7c71914fda30516b69df26ec36e99e4fb2320583812
+Section: Netskao-Tweaks
+Description: 从主屏幕查看和管理应用程序数据
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://lincorn.github.io/sileodepiction/Appdata/js.json
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
