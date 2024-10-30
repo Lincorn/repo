@@ -50,6 +50,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Size: 123812
+MD5sum: a26288369644350d7e5f81b64efb71cb
+SHA1: 96a729f4115c6572087a37afe8263a594f59e125
+SHA256: 7faae7aeb87dea7294b86e251a3acb61f61dee0b18ca5365fc380b2799fd7215
+Section: Tweaks
+Description: 乌龙工作室Kayoyo，更多优化增强，添加支持iOS16
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
