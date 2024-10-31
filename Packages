@@ -188,6 +188,23 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://lincorn.github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5048928
+MD5sum: 392de8c4ff77f2c3bb5f83bd873e4ba0
+SHA1: f30500dedd29087c742f2d9d9b3a79dddae6c031
+SHA256: 5fe4edd7a43bd81b91c50b9d0c0f71f46925d11723495a46a2914a6ad77c5a60
+Section: Netskao-Tweaks
+Description: 从主屏幕查看和管理应用程序数据
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://lincorn.github.io/sileodepiction/Appdata/js.json
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
