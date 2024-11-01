@@ -67,6 +67,25 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64/com.0xkuj.notificationsgroupcounts_1.0.0_iphoneos-arm64.deb
+Size: 79080
+MD5sum: 9183724ec1953d00757de0de297f52f9
+SHA1: 1845fa969fc10e62fdc792f967f85bf257aeeae4
+SHA256: 07a20b430356e1b781d83ab04ffc37f0515de4963699bba4ccf6d945f076a1f8
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Name: 通知分组计数
+Sileodepiction: https://lincorn.github.io/sileodepiction/NotificationsGroupCount/js.json
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
