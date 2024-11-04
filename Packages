@@ -243,6 +243,24 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://lincorn.github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.noappthinning
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debs/iphoneos-arm64/com.netskao.noappthinning_1.4_iphoneos-arm64.deb
+Size: 4324
+MD5sum: 211d84d3691ec56040214e620aa785e3
+SHA1: 07bcc37a4340a6e2fc462fe937e06a5b9a405595
+SHA256: 2ef8b49d8a4caa5ce9ebfa5f3eeca1a4b6fd9e09e94deacd7ccc8f478a3b2cbd
+Section: Netskao-Tweaks
+Description: 允许从AppStore下载全量包应用
+Author: Netskao
+Name: NoAppThinning
+Sileodepiction: https://lincorn.github.io/sileodepiction/NoAppThinning/js.json
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
