@@ -278,6 +278,23 @@ Author: Netskao
 Name: DumpDecrypter砸壳
 Sileodepiction: https://lincorn.github.io/sileodepiction/Dumpdecrypter/js.json
 
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 393708
+MD5sum: 0bd3c478ceefdba1cea9e0daec0e33e7
+SHA1: 10b2d1616b887c2bfb7abf7d255fbed9332f1ecb
+SHA256: eccd248c89536af25282641d27caeb7ccabb7a2fd7101b56a3aef2963faa2290
+Section: Netskao-Tweaks
+Description: 砸壳App Store应用插件
+Author: Netskao
+Name: DumpDecrypter砸壳
+Sileodepiction: https://lincorn.github.io/sileodepiction/DumpDecrypter.json
+
 Package: com.netskao.noappthinning
 Version: 1.4
 Architecture: iphoneos-arm64
