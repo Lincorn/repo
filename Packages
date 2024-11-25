@@ -613,6 +613,23 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.tiaotiao.wechatdaynightswitch
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.tiaotiao.wechatdaynightswitch_1.0.3_iphoneos-arm64.deb
+Size: 51104
+MD5sum: d15b3d4af1f9ae98193ed40e9ddbdf2b
+SHA1: ddb41fcd9ca26889ff8d07741bfb3bfc09ec8231
+SHA256: 120d35d404906e7bd16cf12ce7bc5193ca466d41771969cdfd7acdcf70475e19
+Section: Tweaks
+Description: 为开关添加一个动画风格
+Author: Finn Gaida & TiaoTiao
+Name: 微信开关美化
+Sileodepiction: https://lincorn.github.io/sileodepiction/wechatdaynightswitch/js.json
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
