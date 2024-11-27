@@ -123,6 +123,23 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 Sileodepiction: https://lincorn.github.io/sileodepiction/SingleMute/js.json
 
+Package: com.82flex.singlemute
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.5_iphoneos-arm64.deb
+Size: 24264
+MD5sum: ad30218b79c1c85fab6b1122d45e7a36
+SHA1: e509613a749e183f7bee0186f870f8e2e08f5069
+SHA256: 54b3278e732c5b37b6328943e0009e0568af66a9cd516c694f9b4578b241468e
+Section: Tweaks
+Description: 乌龙工作室出品，让静音键在时间右侧显示,详细在设置界面查看
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+Sileodepiction: https://lincorn.github.io/sileodepiction/SingleMute/js.json
+
 Package: com.82flex.singlevpn
 Version: 1.2
 Architecture: iphoneos-arm64
