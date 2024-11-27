@@ -175,6 +175,23 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://lincorn.github.io/sileodepiction/SingleVPN/js.json
 
+Package: com.82flex.singlevpn
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_1.4_iphoneos-arm64.deb
+Size: 28864
+MD5sum: 77910cc62753d1a9ffb83288eb064788
+SHA1: 569d7cac3bd53279ab798884eb0c8d0e26a4935a
+SHA256: ceada81e40658b03ed58c588d2333a2e1a0c08e54c6cd29bf767edf725e434bf
+Section: Tweaks
+Description: 乌龙工作室出品，合并VPN与 WiFi图标，自定义颜色
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+Sileodepiction: https://lincorn.github.io/sileodepiction/SingleVPN/js.json
+
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
