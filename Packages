@@ -347,6 +347,24 @@ Author: Netskao
 Name: NoAppThinning
 Sileodepiction: https://lincorn.github.io/sileodepiction/NoAppThinning/js.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 464
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloader_1.1-2_iphoneos-arm64.deb
+Size: 139964
+MD5sum: fefe30ee5f4059a1b99c76c1b4789638
+SHA1: 503b698edda487a734f8efb7e53cfbc3d5f2eba3
+SHA256: 64d142f19035bfdabbd70a14bf0623a98a2c7579ed111c12525da7d2ea51eb43
+Section: Netskao-Tweaks
+Description: 微信自定义开关UI
+ * WeChat UISwitch Loader
+Author: Netskao
+Name: 微信自定义开关UI
+Sileodepiction: https://lincorn.github.io/sileodepiction/WeChatUISwitchLoader/js.json
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
