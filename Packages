@@ -1,3 +1,17 @@
+Package: byg.iosios.net.susudaynightswitch
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/byg.iosios.net.susudaynightswitch_1.0.deb
+Size: 93564
+MD5sum: 7abf3d879c47a4c4c2d749e95981dc3d
+SHA1: d76185cc2718df4441f9c22b79faf2bf351d0908
+SHA256: f31ea63e97cdde1eca80796ea44ac800e6cb900ce6b27ba5be0ed59c34b141a1
+Section: Tweaks
+Description: 本插件有设置项，在系统设置里打开开关然后注销！功能如下：为您的开关添加一些风格，日月特效。
+Author: 苏苏
+Name: DayNightSwitch日月开关全局UI
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
