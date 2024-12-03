@@ -260,6 +260,23 @@ Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/p
 Name: InstaLauncher 2
 
 Package: com.lecard.wuyu
+Version: 1.1.10
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.lecard.wuyu_1.1.10_iphoneos-arm64.deb
+Size: 391100
+MD5sum: b44bfa35d0b7a1fc829168b65d7afc1d
+SHA1: a6edd9454e4a94e317e3ec632ca639be2e108738
+SHA256: a1758c06d92c865406e0236acf54c34f41c021c99a7dd9de97580b1a8b9d8417
+Section: Tweaks
+Description: 新分屏公测版，上架备份
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.lecard.wuyu/js.json
+
+Package: com.lecard.wuyu
 Version: 1.1.7
 Architecture: iphoneos-arm64
 Maintainer: Crassna
