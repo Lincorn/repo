@@ -310,6 +310,22 @@ Author: Crassna
 Name: App Lecard
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.lecard.wuyu/js.json
 
+Package: com.lecard.wuyu.fix
+Version: 991.1.10
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1852
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.lecard.wuyu.fix_991.1.10_iphoneos-arm64.deb
+Size: 385052
+MD5sum: ee01e8d659c0d7f316db6fa5a76bbf80
+SHA1: 1d8d2e29e3f991b11ea18c503b055ad08edd00d4
+SHA256: c087191ed37bf33b2a48ba20f0ddf283c07661f4c88fe8f29fcd23bb53d5cdeb
+Section: Tweaks
+Description: 默认值恢复工具,无限安全模式安装恢复
+Author: Crassna
+Name: App Lecard分屏恢复默认值工具
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
