@@ -344,6 +344,23 @@ Author: Crassna
 Name: aiBreak
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.lecard.wuyu/js.json
 
+Package: com.lecard.wuyu
+Version: 1.3End
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.lecard.wuyu_1.3End_iphoneos-arm64.deb
+Size: 408744
+MD5sum: 5b2809f37706de867d295648bc05e9fb
+SHA1: 57f16e5b6844da3735efb9b8e5208999d4c67e78
+SHA256: 263110ebfa06c1960df3f20edb703b15f7bd0974eb097b9eab00a3f3d945152e
+Section: Tweaks
+Description: 新分屏公测最终版，上架备份
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.lecard.wuyu/js.json
+
 Package: com.lecard.wuyu.fix
 Version: 991.1.10
 Architecture: iphoneos-arm64
