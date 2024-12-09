@@ -969,6 +969,23 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 2.0.8+1plus
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 14896
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhook_2.0.8+1plus_iphoneos-arm64.deb
+Size: 5143196
+MD5sum: 5258e79d152170ae4987b9f662a7fd79
+SHA1: d5a6cff8424cd67809aef0aca9c6cf35e8fc115d
+SHA256: 25810eb6c43c77c2c9e4bf1a8bd50f5abb2f3a5a90c52b673408ffe5947612fd
+Section: Tweaks
+Description: 让抖音更简洁
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: datasource
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
