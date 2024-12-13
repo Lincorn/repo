@@ -47,6 +47,10 @@ jobs:
         run: |
           git config --global user.email 'action@github.com'
           git config --global user.name 'GitHub Action'
+
+          # 拉取远程更改并合并
+          git pull --rebase
+
           git add .
           git diff --staged --quiet || (git commit -m 'Refresh Packages' && git push)
 
