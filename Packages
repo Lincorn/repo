@@ -1,3 +1,44 @@
+Package: byg.iosios.net.split-view-pro
+Version: 1.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, byg.iosios.net.backgrounderaction15
+Conflicts: jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64/1.0.1-4_iphoneos-arm64.deb
+Size: 218576
+MD5sum: 1adc8a875e3eb09de13bd3328b3caa0e
+SHA1: 4d3f6d73a5e683017ce087f155bf96b3dc106512
+SHA256: 2cd1d0e58cbb7469ac0e4a8ab5cad86dcf16d203e068cfa1ab10c99bd0ade8dc
+Section: Tweaks
+Description: Free splitscreen tweak currently in development by sunshinesong. Wait patiently for improvements!
+Author: sunshinesong
+Field1: 12345678901234567890123456789012
+Field2: 123456789012
+Field3: 12
+Field4: 123456789012
+Field5: 1234567890123456
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/splitviewpro.png
+Name: Split View Pro
+
+Package: byg.iosios.net.split-view-pro.new
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: byg.iosios.net.split-view-pro
+Filename: ./debs/iphoneos-arm64/1.1.5_iphoneos-arm64.deb
+Size: 5237874
+MD5sum: 2db04b7eaab16a3e2dd4edbb1c1778a4
+SHA1: f491b3630778835b08812dda228b0b8f2c39835a
+SHA256: a6303f36e16d7c8aa54a51655edd3378d15b61ee57777d8a13e7527b6a483c3b
+Section: 系统增强
+Description: 这是新版split分屏，本源仅作备份！源里还有个旧版，使用如果经常安全模式有问题可以下载旧版本。由大神sunshinesong免费开发的分屏插件，非常的酷拉炫，而且是免费的，据说是吊打O2，免费好用，推荐使用，目前是测试期，耐心等待完善，很多好玩免费插件，尽在搬运工源！如果安全模式可以尝试打开 Filza，进入/var/jb/var/mobile/Library/Preferences/， 删除插件配置再安装！
+Author: sunshinesong
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 新split-view-pro分屏-Rootless
+Sponsor: 搬运工
+
 Package: byg.iosios.net.susudaynightswitch
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -860,6 +901,74 @@ Section: Tweaks
 Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
 Author: sunshinesong
 Name: split-view-pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 820
+Depends: mobilesubstrate (>= 0.9.5000), jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64/1.0.0-1_iphoneos-arm64.deb
+Size: 246972
+MD5sum: a4efaa79d382fb04f2c9531e0ce0198d
+SHA1: 859095b02e4bdbf2f306d0c0c27baab5f802bf34
+SHA256: 801cef7014e48d7d2058178381562d6527fc5d8dd0c861fac71bcfe4000cbcd3
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 820
+Depends: mobilesubstrate (>= 0.9.5000), jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64/1.0.0-2_iphoneos-arm64.deb
+Size: 246086
+MD5sum: 5bd128a1bfa1789349481e3bf5874a97
+SHA1: 6252e37e291c202ffe280fe04cf731b2b149904a
+SHA256: 8370253bc2b086eab017024f880bf02c10950bad02e62e28207439b4a560c64a
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13760
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/1.1.3_iphoneos-arm64.deb
+Size: 3503108
+MD5sum: 8781cc06da12986b3fc8f66ccbdebc59
+SHA1: 44e8b47604ae440685fe14bed703619327104b4e
+SHA256: 3fd7aac806d95a64eb4b7f845b0d3efc292961a702aae5f0d114f633047da0ca
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/1.1.4_iphoneos-arm64.deb
+Size: 5235286
+MD5sum: 33f77310f5bdd834c42317f85c4090fa
+SHA1: 7b1196127b2e7e3a70e10b5355f44930ef7e0a49
+SHA256: 459050045ebc1120ac4d642e57410840110c1c5263e2473460a89cf095b8f821
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
 
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
