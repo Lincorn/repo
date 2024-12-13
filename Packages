@@ -781,6 +781,86 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.sunshinesong.split-view-pro
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1036
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/0.0.2-3+debug_iphoneos-arm64.deb
+Size: 282948
+MD5sum: cc7d8dea3f7659dff85a2bdd7bca2cba
+SHA1: f5ecfb58e724fbbf84486d1b1117620fdbf28c0c
+SHA256: 373f2e2337652f5f770910dad0a676d838c9ef5a75fb9fb4c78e6953a1ada2f5
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 0.0.2-323+debug
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 824
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/0.0.2-323+debug_rootless.deb
+Size: 214544
+MD5sum: 0b49a9773f7299a5a036b27570b5e87e
+SHA1: 29531323865d3ae45e829cb9ae65c7f4a5a3773c
+SHA256: c3acc892a7f43c9a490ba9bfc456f0e5e3d80fad1ef2a54cccc68289964d40e3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: sunshinesong
+Name: split-view-pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 0.0.2-503
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 644
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/0.0.2re_iphoneos-arm64.deb
+Size: 167380
+MD5sum: adfdb816a8a6f10e99e1d6210bc9e4dc
+SHA1: cd2dc2798b94304c9ad8acbe820f1df787e24167
+SHA256: 4817381bcd9dba724a4006bd85aa099a5bacf567373edc2f1aa559aad62478e3
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 0.0.2-8+debug
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1036
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/0.0.2-8+debug_iphoneos-arm64.deb
+Size: 282936
+MD5sum: 5836c1bbc31cd952897a698ec65f2224
+SHA1: 7f2895b67ef72f05acd16bc8a3ab30b07138078c
+SHA256: 84cd64596fab16c7649241d481deecb30c982322ccb3e911ccd0df89f3a20f0d
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 0.0.3-1-47+debug
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/0.0.3-1-47+debug_iphoneos-arm64.deb
+Size: 289766
+MD5sum: 31e5c43fed81b9063bedf60da13ca3ba
+SHA1: 70401b09abac8c11221d4f9609a0a525756900bb
+SHA256: 977b387aa6ca8fc2da25533c4da240ff2a0a949fbac1ee566ab94586d4dd0bca
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64
