@@ -970,6 +970,125 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 17800
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.3.deb
+Size: 6826924
+MD5sum: b997b33109a54c4bb46da114174d66cc
+SHA1: b3e6ce1d9bb5a443d2e01c14dc26b3e0817f7d2c
+SHA256: e8594b829a9fbd4f5f642d387d85d8ecc8e4b01d66dd48eec8797b0084d667d9
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 17800
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.4.deb
+Size: 6813848
+MD5sum: f62d7496791a4f12975e5855adfc810b
+SHA1: a5225a4a7d71d7d8050843a57ea7d5a63a6feea5
+SHA256: d14540a96d65e99451a29a8e3517dc81c2ebbb0dee1a28130f5c5badfc460474
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 17920
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.5.deb
+Size: 4899920
+MD5sum: 297c46a8d092ef4d63d7f4b11d65113f
+SHA1: 1536e5a82ca4f8a31b1c6b19158e680a4a3be900
+SHA256: 519e6b659857c4c2f08393961eba5a2fab0563b2b0fa57d16f96311d934130d3
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 17952
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.6_.deb
+Size: 6905186
+MD5sum: aad7fd796efee8d2103577bf33968404
+SHA1: 83bc6621d442a27478f8b9f369e1499354dac6f8
+SHA256: 3677c6a76f5aeac5a54228ced387f21d35a037cab184ff5c05175a69e35be244
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 18032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.7.deb
+Size: 6932294
+MD5sum: 7ece3414cddf9c66d74ca895e25d4f37
+SHA1: 069bf22a7985a7ca27268a45b6df5a7a9625fbb6
+SHA256: 05818924e7271632df57a907c6af6d6457c80159357dae5a2850bcc9e2cd3a41
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.8
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 4480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.8.deb
+Size: 1929596
+MD5sum: 998f2c05b0932aac6606d61d4184073a
+SHA1: 7eb7050ae42c6e501865bbe356f8b00849a59ece
+SHA256: df5701c05993b9a1fddee4ebcd8173d611f23a798152ddf3cf063e7bb269ee87
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.2.9
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 4448
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.2.9.deb
+Size: 1930712
+MD5sum: 82dad8131b0064f135f776b433b38505
+SHA1: 0e063fed34f08028d6e311f82d66cce1a2d09d25
+SHA256: 77139fead5ba9975ce126df30ec4849dcf50061ecd56c865ec5b8b16669e2b2c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64
