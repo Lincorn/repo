@@ -1310,6 +1310,210 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.8
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5720
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.8.deb
+Size: 2350806
+MD5sum: 44a725f4f381a7c5dc8de193d5736e26
+SHA1: 55edae6f55ebabfe6e9f8faaa8604e1c1b6ff5df
+SHA256: a45dc3d53830c23d16321361543aa622a31c581ffc0344152363037be97d07d8
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.8-1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.8-1.deb
+Size: 2341764
+MD5sum: 25285d024bf1db4d0e2b30669c50baee
+SHA1: 8d596a39bd1b396c557eeb9bcfdba46e7363de3d
+SHA256: 5656845b01b41f33df65e2e50d89da259bfbca687dfe17d9e022c9ccce8b82a7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.8-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.8-2.deb
+Size: 2352210
+MD5sum: b04ab4bd76cacc96737e481d655f870d
+SHA1: 45ef1db2c14a6086ba3b959045da6a0c3a0fe6e6
+SHA256: f1d6e615171554c4cf4cc3a36c5811cbd614f3160387e0b6fd098c431a6f57d5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5436
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9.deb
+Size: 2296710
+MD5sum: 18861f4f3b5debd38efee8f82b2def87
+SHA1: c8d3998a06e50a9cae267a9bb2e2358ff1137b1d
+SHA256: 10937428c6a644a75db9455af3eb7074dd900cd43dea7d2c66372f6aa461fc26
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-1.deb
+Size: 2303388
+MD5sum: 3e9e0496402557bea33dc63441f08a2e
+SHA1: b75668cdf4e0a4fb4354e6ff0627d809e5b75977
+SHA256: f7666b034e73b8f08a2d34691d3c0223042c8cf5b868644726c5c4dbb1eb8571
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-2.deb
+Size: 2307008
+MD5sum: 56ee1bd18bc83c2f04fc0c398752da22
+SHA1: bcc270e4e57f4040962ea0afc24e84860b0fb360
+SHA256: b5f7266e169fff74b5923cc88735f02a3d1a3cd603d74675f8a86e7dfb1177f4
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-3.deb
+Size: 2305812
+MD5sum: 15df480191a4825001b3997882fd755d
+SHA1: 95ef410c085de2314e594facdada70e5ce41c529
+SHA256: 011a8d6fcf7258f20391f2bda727df9974c14e5274aa210c7a4c3ace81e68b7b
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-4.deb
+Size: 2298802
+MD5sum: 1e2457dc9fe2603122ed16497266aa9f
+SHA1: 2a576d789853ea347f4008081ce050b75ef69ac0
+SHA256: 82633f68dcf3c060eea20a3272b980649ce1a1427225bab27c2f0f5933308707
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-5.deb
+Size: 2307520
+MD5sum: c977672f47b46712bebbf7d8d3857003
+SHA1: 6425df95f65704bde04b857434b21898d9216120
+SHA256: 2ad9073eb188f790f92c934a188623c2f1a2faffe63fae98613987590eec83ef
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5516
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-6.deb
+Size: 2306302
+MD5sum: 1a07097a264464dbbf263028786e10f8
+SHA1: f9436c7ce5a2dd552d0cd07921753d056c9db346
+SHA256: 52762a765ff0d81179dfdc4bc90f218c3dead157e5274bcc9fff2b78a4140e39
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5500
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.3.9-7.deb
+Size: 2308296
+MD5sum: 17fb41b09c701125a438696720bc294c
+SHA1: 0f01ac7b921f9a7363da4bf43c02f0b8724f34e8
+SHA256: 42486280c5723210257970fec516d5590162df0dcb423969cc967157fe718772
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/1.4.0.deb
+Size: 2310454
+MD5sum: 8e6e00e09a29f9ab2a44a0b2a28324a4
+SHA1: f03e0b4dbcdaf1df32ae16d5f35d4087c3fa0f89
+SHA256: ac181f883a45053674b2ee0c5d6b33d5e8ff3218623aa188339ed88cf003b88f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64
