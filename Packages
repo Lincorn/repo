@@ -1686,6 +1686,23 @@ Name: split-view-pro
 Sileodepiction: https://raw.githubusercontent.com/Lincorn/sileodepiction/refs/heads/main/com.sunshinesong.split-view-pro/js.json
 Ts: sp-sss
 
+Package: com.tencent.themebox
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.0.1-1_iphoneos-arm64.deb
+Size: 1687852
+MD5sum: 3dd942cd57890a3b5414fa7e1c87201f
+SHA1: 0dd16ffb1f0d9111ca1b4368a8ed51bd21e30523
+SHA256: 77cabc9377b1dc1898e74ce9a507589e86736b3460d26019fdba6fda096de036
+Section: Tweaks
+Description: 微信主题插件
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://raw.githubusercontent.com/Lincorn/sileodepiction/refs/heads/main/com.tencent.themebox/js.json
+
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64
