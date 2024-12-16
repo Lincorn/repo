@@ -623,6 +623,22 @@ Author: Netskao
 Name: NoAppThinning
 Sileodepiction: https://lincorn.github.io/sileodepiction/NoAppThinning/js.json
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenter_1.1-2_iphoneos-arm64.deb
+Size: 34016
+MD5sum: 3cfeeaca5c7ff890b1448b767f788717
+SHA1: 1f1a1641f1c52df6aefd26a15360e21fd8bee7c7
+SHA256: 1b16295fc32222ecfdfd313b591e43561f742bd44720444aeece0bb60d8d95b8
+Section: Tweaks
+Description: 微信我的页面头像居中显示，支持微信 8.0.51 及以上
+Author: Netskao
+Name: 微信头像居中
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-2
 Architecture: iphoneos-arm64
