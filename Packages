@@ -1925,6 +1925,22 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.qqhook
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2560
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.qqhook_1.1.2_iphoneos-arm64.deb
+Size: 759116
+MD5sum: e1df0b65e427cb837ed00dfbeb1c726d
+SHA1: f1346777139d98070f1b7837fc273f41f9680335
+SHA256: 419c833ea60f8f51d5260a04601507b1d35521bc7058441027c1f58773d8965f
+Section: Tweaks
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
+Author: x✨
+Name: QQ·TIM 新版防撤回
+
 Package: datasource
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
