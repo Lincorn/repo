@@ -709,6 +709,24 @@ Author: Netskao
 Name: WCMyPageInfoCenter
 Sileodepiction: https://lincorn.github.io/sileodepiction/WCHideChatAvatars/js.json
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenter_1.1-7_iphoneos-arm64.deb
+Size: 52684
+MD5sum: ebe043fc5d4703b0e9aec4103d95c3e0
+SHA1: 6485238e39837ab40adb711d1449f286b04dd497
+SHA256: dce334610c50a8f7b65764777f46b8ca3299d495f993616ec7744a2125d64b03
+Section: Tweaks
+Description: 微信头像居中显示
+ * WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+Sileodepiction: https://lincorn.github.io/sileodepiction/WCHideChatAvatars/js.json
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-2
 Architecture: iphoneos-arm64
