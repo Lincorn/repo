@@ -781,6 +781,24 @@ Author: Netskao
 Name: WeChatUISwitchLoader
 Sileodepiction: https://lincorn.github.io/sileodepiction/WeChatUISwitchLoader/js.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
+Size: 120976
+MD5sum: 69b855f4990968f3b499feed5ca7a924
+SHA1: ae3978ad6ce9d7d6ffa230f07f6e9cceb32df2d1
+SHA256: 44a5b4ce7701a38e36b8d13ce8b8f73b5b74889df57dd2d49dc6664d87c4e089
+Section: Netskao-Tweaks
+Description: 微信自定义开关UI
+ * WeChat UISwitch Loader
+Author: Netskao
+Name: WeChatUISwitchLoader微信自定义开关UI
+Sileodepiction: https://sileodepiction.8235467.xyz/WeChatUISwitchLoader/js.json
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
