@@ -1911,6 +1911,23 @@ Author: WeChat
 Name: 主题盒子
 Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
 
+Package: com.tiaotiao.wcaddborders
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.tiaotiao.wcaddborders_1.2_iphoneos-arm64.deb
+Size: 8816
+MD5sum: 566ecbfe975185624a37d833728af04f
+SHA1: aed1ec4b90ee625a1dba99a4e06c96454c00280a
+SHA256: fe1a1205fde4c52eb80b42ef59dcc588ea9617788fdf0ada5ca93d1a9fc637b4
+Section: Tweaks
+Description: 为微信长按菜单和输入框添加边框, 自定义边框色值需要在weui_color_new.xml中按对应格式添加MenuBorderColor和InputBorderColor
+Author: TiaoTiao
+Name: WCAddBorders微信长按菜单和输入框添加边框
+Sileodepiction: https://sileodepiction.8235467.xyz/WCAddBorders/js.json
+
 Package: com.tiaotiao.wechatdaynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64
