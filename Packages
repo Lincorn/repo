@@ -2079,6 +2079,25 @@ Author: Finn Gaida & TiaoTiao
 Name: 微信开关美化
 Sileodepiction: https://lincorn.github.io/sileodepiction/wechatdaynightswitch/js.json
 
+Package: com.wechat.themepro
+Version: 3.5.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.5.7_iphoneos-arm64.deb
+Size: 5679424
+MD5sum: 192331bbcb2d4d4544402a30ff065fb1
+SHA1: 9dc7a4b0980ce066e2cc888fb896b74bc4198750
+SHA256: 63b47315a05579a169fd704114120a80e68194ea651d2220f19d33fc98fd6faf
+Section: Tweaks
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Name: ThemePro 微信主题
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
