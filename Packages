@@ -19,6 +19,26 @@ Author: MustangYM
 Name: ThemePro-3.1.7-Rootless
 
 Package: ThemePro
+Version: 3.1.7
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/iphoneos-arm64/ThemePro-3.1.7-iphoneos-arm64.deb
+Size: 6397944
+MD5sum: e89a78b3c34291915b53a1b286a3b506
+SHA1: df3f65c35c3afa0c5427a123540c6132bf969abe
+SHA256: 59103091465c373c8cb448f0a745057445c8cf3a9d4fcaabb74d2ce89fb2bf8c
+Section: custom
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Name: ThemePro-3.1.7-Rootless
+
+Package: ThemePro
 Version: 3.3.5
 Architecture: iphoneos-arm64
 Essential: no
@@ -37,6 +57,26 @@ Priority: optional
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM
 Name: ThemePro-3.3.5-Rootless
+
+Package: ThemePro
+Version: 3.4.4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/iphoneos-arm64/ThemePro-3.4-4_arm64.deb
+Size: 7151308
+MD5sum: 12a280990859262b216ecafb32f01849
+SHA1: 3f1ac1e23a4f444ed0eb564360e93eadb392b3a8
+SHA256: 8676278405e41f9870ec94546b6045f6f8ef5e9035514b343c01727134775a83
+Section: custom
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Name: ThemePro-3.4.4-Rootless
 
 Package: byg.iosios.net.susudaynightswitch
 Version: 1.0.5
