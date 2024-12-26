@@ -2299,14 +2299,15 @@ Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
 Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-316-rootless_3.5.7_iphoneos-arm64.deb
-Size: 5674400
-MD5sum: 5c2c8ea0c95ec1829d4fe9701dec4316
-SHA1: 8daddc26ca44c2c243d9462dba5d8be044e2a129
-SHA256: f96a0095de5e61b8f313b4c77b555343731f5d691f54f9a9b2dfbce1925fd2bb
+Size: 5680636
+MD5sum: b0f52c91c38d04ec6ead592959aaef20
+SHA1: fd2a7ef61a25eae0185aa08bbac0e03a72469514
+SHA256: 2ab0644a07da42033d642038b63dd7f6a46d69de0a6c73fc40d0239e9fdabffd
 Section: Tweaks
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-3.5.7-Rootless
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
 
 Package: datasource
 Version: 1.0-2+debug
