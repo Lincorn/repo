@@ -1962,6 +1962,23 @@ Author: WeChat
 Name: 主题盒子
 Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
 
+Package: com.tencent.themebox
+Version: 1.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 5824
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.0.8-1_iphoneos-arm64.deb
+Size: 2591156
+MD5sum: 70198a3229087af3bd10a582634760ea
+SHA1: 95d7c16cbe8f4d988eae384ea629f4e60db00908
+SHA256: 88bfe28d6bff0e562fa2d85b67d1e2c0e8e3cfd057cd16f0c3f6e2d34867fcee
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
 Package: com.tiaotiao.wcaddborders
 Version: 1.2
 Architecture: iphoneos-arm64
