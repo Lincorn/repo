@@ -2318,6 +2318,23 @@ Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支�
 Author: x✨
 Name: QQ·TIM 新版防撤回
 
+Package: com.xybp888.lockbuttons
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.xybp888.lockbuttons_0.1-2_iphoneos-arm64.deb
+Size: 30668
+MD5sum: 9f2d898416db1f6e1bb62cece941e940
+SHA1: 01f5dbf8e60085e5135e9dd3ec6366040472f147
+SHA256: ec0090e72ae29b80d93b5529f00568324cbe7efc809273cfaa52a303c663ebf2
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Author: xybp888
+Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Name: 一键锁屏
+
 Package: com.yourepo.themepro.themepro-316-rootless
 Version: 3.4.4
 Architecture: iphoneos-arm64
