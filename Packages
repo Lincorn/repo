@@ -206,6 +206,22 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://lincorn.github.io/sileodepiction/SingleVPN/js.json
 
+Package: com.Doki.wxkeyboarduihook
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Doki
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.Doki.wxkeyboarduihook_1.6_iphoneos-arm64.deb
+Size: 60640
+MD5sum: 6c5c71c02f8861add6872c558225f13c
+SHA1: e5e412df55376b36673c829262aaf038230e8a02
+SHA256: c12db8957a5e50d48cd23fee6fde718d9577c7e48bc83e1ed446dc13b853fb90
+Section: Tweaks
+Description: 微信键盘自定义
+Author: Doki
+Name: 微信键盘自定义
+
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
