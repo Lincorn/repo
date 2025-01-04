@@ -2320,6 +2320,23 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 8652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhook_2.0.8+8_iphoneos-arm64.deb
+Size: 2667656
+MD5sum: f293588c7d78f6228e0813362b185449
+SHA1: 73ed9a62e12062fb49e924082b8a84d7508eae72
+SHA256: 736825c5d193f8b98dc3df49e3b65f1e0c3a1a66a2ea34961df6b272023bd190
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: com.xx.qqhook
 Version: 1.1.2
 Architecture: iphoneos-arm64
