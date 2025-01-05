@@ -206,6 +206,24 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://lincorn.github.io/sileodepiction/SingleVPN/js.json
 
+Package: com.Axs.staypro
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.Axs.staypro_0.0.1_iphoneos-arm64.deb
+Size: 3624
+MD5sum: 96736a133089acf1c308aff15352c652
+SHA1: 45ea4a4add716566d2933f6b290670e03ab80989
+SHA256: 63c1ef9806448201f5209555f18426c8af4bc3c07daf37891d48b37e98a0ca81
+Section: Axs-Tweaks
+Description: 启用 Safari 扩展的专业版。必须退出登录才能使用专业版功能。
+ * Enable Pro for Stay for Safari extension. Must be signed out to use Pro features.
+Author: 0xkuj
+Depiction: Axs
+Name: Stay Pro
+
 Package: com.Doki.wxkeyboarduihook
 Version: 1.6
 Architecture: iphoneos-arm64
