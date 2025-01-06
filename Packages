@@ -240,6 +240,24 @@ Description: 微信键盘自定义
 Author: Doki
 Name: 微信键盘自定义
 
+Package: com.Oxkuj.staypro
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Oxkuj
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.Oxkuj.staypro_0.0.1_iphoneos-arm64.deb
+Size: 3620
+MD5sum: 3140f83c7e138b32b2b2a6ac6f661676
+SHA1: 5f4943f41fc586398c1f0e4f32a46602e7bcb85d
+SHA256: d6035dc4c5addcf60a03ad45a5fbc2e6b0536c2582e9b6be240ace56ec2eff5f
+Section: Tweaks
+Description: 启用 Safari 扩展的专业版。必须退出登录才能使用专业版功能。
+ * Enable Pro for Stay for Safari extension. Must be signed out to use Pro features.
+Author: 0xkuj
+Depiction: Oxkuj
+Name: Stay Pro
+
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2042,6 +2060,23 @@ Size: 2618640
 MD5sum: 783af95cdbcc65a2acd9f537669f822c
 SHA1: e470f2713cdb1dd15dd8fe3550db6276a9fd7207
 SHA256: a4d836c7a7df7f758ec39cda7bbb9fc3fff48fa0aef2f544579ee5a29443f9a8
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
+Package: com.tencent.themebox
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.1.0-1_iphoneos-arm64.deb
+Size: 2735492
+MD5sum: 6d74725d2f83018ad003d77736e10181
+SHA1: 9942ef07cdee137ca19cf8f5346b89a81b6383bf
+SHA256: ddf38dd12f13c81745a4cf39be737465e82d14113aa37983e09ef19224d87682
 Section: Tweaks
 Description: 微信主题盒子
 Author: WeChat
