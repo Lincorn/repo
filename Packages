@@ -2055,10 +2055,10 @@ Maintainer: WeChat
 Installed-Size: 6132
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.1.0-1_iphoneos-arm64.deb
-Size: 2735492
-MD5sum: 6d74725d2f83018ad003d77736e10181
-SHA1: 9942ef07cdee137ca19cf8f5346b89a81b6383bf
-SHA256: ddf38dd12f13c81745a4cf39be737465e82d14113aa37983e09ef19224d87682
+Size: 2731688
+MD5sum: 506e11560cc2e55a01f6cc40f51743b0
+SHA1: 7d4a0ca470d9b0bdd25575921a99a12b1b45ddee
+SHA256: ec3d68bbe32428a28a0972a24b8ffd2c062ccfec263f1e5831edb796de0da0d7
 Section: Tweaks
 Description: 微信主题盒子
 Author: WeChat
