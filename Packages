@@ -435,6 +435,111 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Lincorn/sileodepiction/refs/heads/main/com.be-huge.floating-view/js.json
 
+Package: com.couhege.CopyFaster
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 7abib0 <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.CopyFaster_0.0.1_iphoneos-arm64.deb
+Size: 2404
+MD5sum: 8b55db73e0cc6d6e06ca9e6a5f977ff8
+SHA1: fb26d1e68995894a0f9aa98f002a7d43db2c8f10
+SHA256: 873cf0b8418e55db582c0f6b4c3392bc8567468362b0bf3b4ca1e39927fe2111
+Section: CHG-Tweaks
+Description: 消除编辑菜单、复制，粘贴时的延迟。
+Author: 7abib0 凑合哥 Repack <(null)>
+Name: CopyFaster
+
+Package: com.couhege.PowerSave
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: DeerSpotter <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.PowerSave_0.0.1_iphoneos-arm64.deb
+Size: 3592
+MD5sum: 07b82519d49e2631b4ed26b3ed4a6d38
+SHA1: d61967a0bf3644037fabaac2d15477ea7b1d7693
+SHA256: 224e3ba2990fb4ffa41b83885754790bf3b07885fa5ce2f36849bfc1d1ce1864
+Section: CHG-Tweaks
+Description: 系统范围：禁用诊断和使用信息。应可提高电池使用时间并减少对网络的使用
+Author: DeerSpotter 凑合哥repack <(null)>
+Name: PowerSave
+
+Package: com.couhege.SuperNetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Dragonmichael69 <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.SuperNetwork_0.0.1_iphoneos-arm64.deb
+Size: 2576
+MD5sum: 8a23779dfe64959fd386227d09454564
+SHA1: e5b617e319692bbd8d54b654047789ed8bb22392
+SHA256: 1811ed5acfaf1055d3de5ee96be8f8eca68fc010a3c1427f00f6b5a95571dbb7
+Section: CHG-Tweaks
+Description: 优化网络框架，提高网络速度。像在Windows上一样禁用Nagle算法，网络使用和优先级平衡。可以改善流媒体，提升下载速度。
+Author: Dragonmichael69 凑合哥 Repack <(null)>
+Name: SuperNetwork
+
+Package: com.couhege.UltraVideos
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: tyiiirfvjjkjjj <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.UltraVideos_0.0.1_iphoneos-arm64.deb
+Size: 2740
+MD5sum: 29faa3382a9d27435a330d7578dfed15
+SHA1: 6727a67055656775bd04e942d177651e5bb601ba
+SHA256: a062f7fcdbfe55324efea5f7d2b69847e78cac6165911c301eef555f95612de7
+Section: CHG-Tweaks
+Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放器。在三方应用程序工作，强制使用iOS的原生播放器。全局播放效果Ultra
+Author: tyiiirfvjjkjjj 凑合哥 Repack <(null)>
+Name: UltraVideos
+
+Package: com.couhege.WebkitAcceleratork
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: kms <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.WebkitAcceleratork_0.0.1_iphoneos-arm64.deb
+Size: 2468
+MD5sum: 8999d69793cc038aa364c0b5c00a3850
+SHA1: 43e3a438e6b1d8bef03afb1e62bc2ac472c21ba8
+SHA256: 8d73095de2e0ef44bbc1f1c13f1a33d9405b91aa82cd5e8fb1f7adf99b29fde4
+Section: CHG-Tweaks
+Description: 它清除了一个简单的WebKit调用，但却产生了巨大的效果。加载的暂停几乎为零！通用Webkit浏览器加速器
+Author: kms 凑合哥 Repack <(null)>
+Name: WebkitAcceleratork
+
+Package: com.couhege.goodbattery
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 1inchpunch <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege.goodbattery_0.0.1_iphoneos-arm64.deb
+Size: 3892
+MD5sum: 4b87376fcffb0dfc36aef436d3b1f67d
+SHA1: b9477466a2cd6d24c4ce59c3c72a02f748ef29ee
+SHA256: 8638cd3f6d022365b501f7795f34f62e544b43a36f81cfda68d1a9fbbc83ddc8
+Section: CHG-Tweaks
+Description: 电池优化：关闭低级别热量、内存和应用程序使用监控，同时优化WiFi和无线电，以降低设备闲置时的电池消耗。在末尾添加了一些值，以降低DataAccessd进程的使用率
+Author: 1inchpunch 凑合哥repack <(null)>
+Name: goodbattery
+
+Package: com.couhege1380.BatteryMaster
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: @Spor0nix <(null)>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.couhege1380.BatteryMaster_0.0.1_iphoneos-arm64.deb
+Size: 39512
+MD5sum: 9e5ccfcccaab3d75401510d6347eacee
+SHA1: ab25c8ef598e5684f4056488a42788ec0e5c995b
+SHA256: a9b25617853f8cb14cea40434f641681ea90a4e885360aceef1018812a2cf463
+Section: CHG-Tweaks
+Description: 添加值以保护您的电池寿命，配合1380CPU节流功能效果更佳。凑合哥1380安装可实现！省电模式越狱然后关闭省电模式即可
+Author: @Spor0nix 凑合哥 Repack <(null)>
+Name: BatteryMaster1380
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
