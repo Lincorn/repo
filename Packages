@@ -2052,6 +2052,26 @@ Name: split-view-pro
 Sileodepiction: https://raw.githubusercontent.com/Lincorn/sileodepiction/refs/heads/main/com.sunshinesong.split-view-pro/js.json
 Ts: sp-sss
 
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/iphoneos-arm64/com.susu.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 5400
+MD5sum: bbf6a50ba02790bcd33f19ee4a305e60
+SHA1: 509375aa375e06952b3b33d5e979e44023e0a512
+SHA256: 99b76b973f50b80de48f0dcaa64180d712588e28a7dd68dad3918b3b8f7933d7
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持 iOS15-iOS16
+   * 移除“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Name: NoPreferencesTips
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
