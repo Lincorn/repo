@@ -2665,6 +2665,22 @@ Description: Surge Pro 仅支持5.14.2版本
 Author: x✨
 Name: Surge Pro
 
+Package: com.xx.wccallkit
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.wccallkit_1.0.0_iphoneos-arm64.deb
+Size: 7224
+MD5sum: 0056971eb6cb9db79c397cbf65d84244
+SHA1: 9a183d2db3af61d3500bf1bba09d0ae84d2031de
+SHA256: 7c28318eb5648380496e25d9993dacd65aa22ee022671f00285573c1833520b6
+Section: Tweaks
+Description: 默认开启CallKit·仅新版微信测试·支持注入
+Author: x✨
+Name: WeChatCallKit
+
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
 Architecture: iphoneos-arm64
