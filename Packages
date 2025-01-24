@@ -223,6 +223,22 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://sileodepiction.8235467.xyz/SingleVPN/js.json
 
+Package: com.Doki.kbstyle
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Doki
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm64/com.Doki.kbstyle_1.1_iphoneos-arm64.deb
+Size: 33076
+MD5sum: 14457f5e27dd4005bb677abfb9a0a4e6
+SHA1: e55bb8f0454a3dafbc2b7a737cf6c0118b8765d3
+SHA256: ca170a3a55ebf62e3dabcbc67bdb3317e9214ae6e9219ddd83a1058e5c2870f8
+Section: Tweaks
+Description: 让你的键盘更加花里胡哨！
+Author: Doki
+Name: 键盘DIY颜色
+
 Package: com.Doki.wxkeyboarduihook
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -238,6 +254,22 @@ Section: Tweaks
 Description: 微信键盘自定义
 Author: Doki
 Name: 微信键盘自定义
+
+Package: com.Doki.wxkeyboarduihook
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Doki
+Installed-Size: 416
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.Doki.wxkeyboarduihook_1.8_iphoneos-arm64.deb
+Size: 99240
+MD5sum: ecd38835c34229ca9e8835dbc2b9bd22
+SHA1: 3e4a3579e975b5a0db06426defd6829672c966a5
+SHA256: 3d5046a60502662cc4690fcc843445c386b5e037c41e6ae88bc419e8eff5bf38
+Section: Tweaks
+Description: 微信输入法自定义
+Author: Doki
+Name: 微信输入法自定义
 
 Package: com.Oxkuj.staypro
 Version: 0.0.1
