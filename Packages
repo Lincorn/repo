@@ -2581,6 +2581,40 @@ Author: WeChat
 Name: 主题盒子
 Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
 
+Package: com.tencent.themebox
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6784
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.1.7-1_iphoneos-arm64.deb
+Size: 3028540
+MD5sum: d0b21561c7c841720478a142199cb62b
+SHA1: 54b5a786aaa4b7770aa4b9e4b15ff346140fbe2e
+SHA256: 28c2e8149413fb91d7a1315f1837025a93ff6b0110d3842827a106c2b4a72eb3
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
+Package: com.tencent.themebox
+Version: 1.1.8-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6800
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_1.1.8-1_iphoneos-arm64.deb
+Size: 3025820
+MD5sum: d0ed3e65624c5cd8b926cdfd38891318
+SHA1: bc7de04e84bc599cb7d58a4995ceb1072f79b4a0
+SHA256: 57f03f6d662c9919e80b3f9c959a6987a8fe54d4bf960c455337fffebf4ebfbd
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
 Package: com.tiaotiao.wcaddborders
 Version: 1.2
 Architecture: iphoneos-arm64
