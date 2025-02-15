@@ -1245,6 +1245,22 @@ Author: Netskao
 Name: WeChatUISwitchLoader
 Sileodepiction: https://sileodepiction.8235467.xyz/WeChatUISwitchLoader/js.json
 
+Package: com.nwzj.hookdytc
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Maintainer: NWZJ
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nwzj.hookdytc_2.0.8+8_iphoneos-arm64.deb
+Size: 163384
+MD5sum: 37818215c390d6bed942bada4f65cc61
+SHA1: d8975609de614b66a8e946eb07fff564a8088447
+SHA256: c6d3cfed4c6d9878dc8e011b290d55c7ef06432307f60c00dcb994795ecf0083
+Section: Tweaks
+Description: 去除抖音图层时间限制
+Author: NWZJ
+Name: Fuck·抖音图层
+
 Package: com.nx.appcardlite
 Version: 2.1.1-2
 Architecture: iphoneos-arm64
