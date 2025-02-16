@@ -119,6 +119,22 @@ Author: 0xkuj
 Name: NotificationsGroupCount 通知分组计数
 Sileodepiction: https://lincorn.github.io/sileodepiction/NotificationsGroupCount/js.json
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64.deb
+Size: 9025808
+MD5sum: ce0fa5274e711024c7448f23b1d0ebf5
+SHA1: c6f4744e0991fa165b3c37fbea5c921b10327beb
+SHA256: bc8547d7dc540343cba4087671b74463e4b12a5483cdf3fbc25b0ae02efc82a1
+Section: Tweaks
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
