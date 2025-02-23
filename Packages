@@ -965,6 +965,24 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.lns.pogr
+Version: 0.4.0~prerelease3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.0~prerelease3_iphoneos-arm64.deb
+Size: 74296
+MD5sum: e3d6ca09ead03646f848f57c77bc8ce9
+SHA1: 18167096bd725bb46b14bb2d858a864f2315c5f7
+SHA256: b7c5a28a94a5aa149e6bc1d25f08d588714e709b30367843e4a3d2d8ec18d74e
+Section: Tweaks
+Description: 增强耳机对低版本系统的兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Name: AirPods PodsGrant
+Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
+
 Package: com.netskao.appdata
 Version: 1.4.3
 Architecture: iphoneos-arm64
