@@ -18,6 +18,26 @@ Description: MikotoHelper
 Author: Mikoto
 Name: MikotoHelper
 
+Package: MisakaHelper
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64/MisakaHelper_2.1.1_iphoneos-arm64_rootless.deb
+Size: 13205580
+MD5sum: c0dae4c0f666a36e34ef65305650c081
+SHA1: e4b82e6166c78714ab4d088ddb2da4226c514b9a
+SHA256: 631533da0c8a2f1188f558da157e992dc49123ddf91c9322e7d14fc5bb96b996
+Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: byg.iosios.net.susudaynightswitch
 Version: 1.0.5
 Architecture: iphoneos-arm64
