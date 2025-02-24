@@ -1,3 +1,23 @@
+Package: MikotoHelper
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Provides: MikotoHelper
+Filename: ./debs/iphoneos-arm64/MikotoHelper_1.3.6_无根_官方体验版.deb
+Size: 20604072
+MD5sum: cb60bc3156b4928283a4fd2d81a92ea7
+SHA1: fdf3301a350e187a3fcf5502af6e690d7c204707
+SHA256: 805e6f70daaa415aaeedac59ec02dd505c285ec64770a5582a043bb652e65bfd
+Section: Tweaks
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Name: MikotoHelper
+
 Package: MisakaHelper
 Version: 2.1.1
 Architecture: iphoneos-arm64
