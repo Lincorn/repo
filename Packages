@@ -1724,6 +1724,25 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Name: Choicy
 
+Package: com.ps.githubweblegacycompat
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 15.4)
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_1.0.3_iphoneos-arm64.deb
+Size: 19304
+MD5sum: 194f72beb5aa879fe876af60be6aaf48
+SHA1: c4ad7c97f56c4604d9291ca006262570f104c540
+SHA256: d56e7f90efd3869c47d258bd31b263766ee6c5aad6585e795f9420b263d915e8
+Section: Tweaks
+Description: 使GitHub网站在iOS<15.4上更好的访问
+ * Make GitHub website more accessible on iOS <15.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+Name: GitHubWebLegacyCompat
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
