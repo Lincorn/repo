@@ -3269,22 +3269,6 @@ Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支�
 Author: x✨
 Name: QQ·TIM 新版防撤回
 
-Package: com.xx.surgepro
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 284
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.surgepro_1.0.0_iphoneos-arm64.deb
-Size: 77364
-MD5sum: 4a1a3b20ca03bbe9d9c311c1baf5a5fe
-SHA1: b469e763802ec414e01b0850b1e2a037dfee0af4
-SHA256: a771ca8e085c536d116811d318e1b1c9cbd1a605eaa3b2030c16ec8583cf20f1
-Section: Tweaks
-Description: Surge Pro 仅支持5.14.2版本
-Author: x✨
-Name: Surge Pro
-
 Package: com.xx.wccallkit
 Version: 1.0.0
 Architecture: iphoneos-arm64
