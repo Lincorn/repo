@@ -1794,6 +1794,22 @@ Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.htm
 Name: GitHubWebLegacyCompat
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
 
+Package: com.pxx917144686.surge
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/Surge++_0.6_iphoneos-arm64-Rootless.deb
+Size: 150430
+MD5sum: 15817fc1f14bd0b03d929ba8fa3a8676
+SHA1: 5a634ae80548a679e388d87acecd80becb1815f9
+SHA256: 39d44470fe6d67ffffb81f9ba79805fe7100e3fe123f6594541ef33d4623910f
+Section: Tweaks
+Description: 修复 “已知问题”
+Author: pxx917144686
+Name: Surge++
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
