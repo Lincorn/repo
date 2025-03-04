@@ -1499,15 +1499,16 @@ Maintainer: Nets
 Installed-Size: 304
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
-Size: 119228
-MD5sum: 47dfc433c020dd10aafe18172b2eaab2
-SHA1: a2b67eba80f795b9bdb28fb9a5db19afd33bad22
-SHA256: e6cda8923ef8969ab19c4a8f74a254ae7bae5cf030d04f658101452430563c63
+Size: 119284
+MD5sum: 381020e332974139b696363eba7a33e5
+SHA1: 80e518178337015a570f5c9161f1be6378aaf36d
+SHA256: 96534ef42b3c2b096b42f33529f4731f45b30ee551ad9cfdb43505e446fa8077
 Section: Netskao-Tweaks
-Description: WeChat UISwitch Loader
+Description: 微信自定义开关UI
+ * WeChat UISwitch Loader
 Author: Netskao
-Name: WeChatUISwitchLoader
-Sileodepiction: https://sileodepiction.8235467.xyz/WeChatUISwitchLoader/js.json
+Name: 微信自定义开关UI
+Sileodepiction: https://lincorn.github.io/sileodepiction/WeChatUISwitchLoader/js.json
 
 Package: com.nwzj.hookdytc
 Version: 2.0.8+8
