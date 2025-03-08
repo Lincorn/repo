@@ -900,6 +900,23 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2956
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0_iphoneos-arm64.deb
+Size: 570640
+MD5sum: 1f625823710484eb3f592fc29df8b6e5
+SHA1: 99d05aedd245afc8081d2ed457e4be5f4b0e7764
+SHA256: 3176f3c560d23ecfd67f95b8ac6bc3232bfbe60e7f79debde2e7d7eb77097feb
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
 Package: com.couhege.CopyFaster
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1828,6 +1845,23 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 Name: GitHubWebLegacyCompat
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+
+Package: com.ps.githubweblegacycompat
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), firmware (<< 15.4)
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_1.0.4_iphoneos-arm64.deb
+Size: 19276
+MD5sum: 1eec957b1aab795acc6ddf7c4401f87b
+SHA1: ff9dd69c4621132e9762fb1aa473c9e6a1c10296
+SHA256: 640dae0ee7d68de9b85dc7f8a10c879cef02cbd48c98e169f73847cd4a67258e
+Section: Tweaks
+Description: 使GitHub网站在iOS <15.4上更访问
+ * Make GitHub website more accessible on iOS <15.4
+Author: PoomSmart
+Name: GitHubWebLegacyCompat
 
 Package: com.pxx917144686.surge
 Version: 0.6
