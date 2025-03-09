@@ -1461,10 +1461,10 @@ Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64.deb
-Size: 54956
-MD5sum: 375a253ab5ae8dc7a2d01830708e6ec5
-SHA1: 026874eadf472e267071d220a770812bfb3bc382
-SHA256: ebeee2e1e2a3ceb9bb9e3cd2fdd11ac142d01ccfa8163f2cdb2956036404aff8
+Size: 55360
+MD5sum: 71dabba6b464c1648658992326869e1b
+SHA1: 746aa176c5b67e9d08707c5a8d33c794a66e899d
+SHA256: 92b0328e0b7c2f69d635e32586bfc769ae06539a6d65ca6b0f2d2bba37c24f62
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
