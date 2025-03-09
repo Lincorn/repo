@@ -1092,6 +1092,23 @@ Author: lclrc(SquidForce)
 Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
+Package: com.lclrc.hidepagedots
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce <lclrc.3@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lclrc.hidepagedots_0.0.1_iphoneos-arm64.deb
+Size: 2972
+MD5sum: 47ddd25fa8c99e3d0169e5bc70e2e454
+SHA1: 0d478826d3cd894999a5ae8b610453289a88f237
+SHA256: 64b82f415194b4f8a5ad9fd7e57839235d508f6977b371f2987974cc38a47c9d
+Section: Tweaks
+Description: 隐藏桌面翻页小白点
+ * Same as the title
+Author: SquidForce <lclrc.3@gmail.com>
+Name: HidePageDots
+
 Package: com.lecard.wuyu
 Version: 1.1.10
 Architecture: iphoneos-arm64
