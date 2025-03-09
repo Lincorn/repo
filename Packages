@@ -1107,6 +1107,25 @@ Description: 添加值以保护您的电池寿命，配合1380CPU节流功能效
 Author: @Spor0nix 凑合哥 Repack <(null)>
 Name: BatteryMaster1380
 
+Package: com.huami.dyyy
+Version: 2.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64.deb
+Size: 54956
+MD5sum: 375a253ab5ae8dc7a2d01830708e6ec5
+SHA1: 026874eadf472e267071d220a770812bfb3bc382
+SHA256: ebeee2e1e2a3ceb9bb9e3cd2fdd11ac142d01ccfa8163f2cdb2956036404aff8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+Sileodepiction: https://sileodepiction.8235467.xyz/DYYY/js.json
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
