@@ -1094,23 +1094,6 @@ Name: InstaLauncher 2
 
 Package: com.lclrc.hammerit
 Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: lclrc(SquidForce)
-Installed-Size: 3840
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm64/com.lclrc.hammerit_1.7.1_iphoneos-arm.deb
-Size: 986814
-MD5sum: 54227ed6d73116e44e0ee7a251198fa6
-SHA1: a34d0fbc194c0fd267728b9707b2ec66643b9435
-SHA256: f0423350bc53c1595ffebc79f3c87ca39608f1e993d8b024d340a74bd599b64f
-Section: Tweaks
-Description: Control your text or translate as you wish.
-Author: lclrc(SquidForce)
-Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer It
-
-Package: com.lclrc.hammerit
-Version: 1.7.1
 Architecture: iphoneos-arm64
 Maintainer: lclrc(SquidForce)
 Installed-Size: 3808
