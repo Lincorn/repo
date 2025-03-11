@@ -4171,3 +4171,23 @@ Dev: netskao
 Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: zp.dopamine.blacklist
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/zp.dopamine.blacklist_0.0.1-1_iphoneos-arm64.deb
+Size: 27376
+MD5sum: e6c0faaee3f21fdc0c7356753492eab2
+SHA1: 8a39b0e915f2f1a9fcbf6da3ed044d962ee4ca7f
+SHA256: 6dfbb78bc0844cf24c3407db5d0df1821e8704ad295fbdd8329c8785643081e2
+Section: Tweaks
+Description: 皮版Dopamine屏蔽注入.
+ - 暴力修改XinaA15注入黑名单.(●'◡'●)
+ - 浪哥v587
+ - 浪哥v587
+ - 浪哥v587
+Author: zqbb
+Name: DopamineBlackList
+Sileodepiction: https://rootless.002599.xyz/web/zp.dopamine.blacklist
+
