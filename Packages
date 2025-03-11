@@ -3275,6 +3275,25 @@ Description: 此插件偏向于更换非官方电池的用户(一“件”全包
 Author: 苏苏
 Name: NoPreferencesTips
 
+Package: com.susu.suawemehook
+Version: 1.3.8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehook_1.3.8_iphoneos-arm64.deb
+Size: 45896
+MD5sum: 18d8dac34d195bc83d80e1d934b8acde
+SHA1: 909a1e9004436af3cc50ec95e26fd283329a8b58
+SHA256: e6264304e4769fd6fca9350b71dd0096249d4a7621417f54ef9b259a6e948b49
+Section: Tweaks
+Priority: optional
+Description: 抖音可隐藏移除Aweme多项无用功能任意界面双指双击呼出调整菜单
+ * 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
