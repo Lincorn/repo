@@ -2528,6 +2528,26 @@ Author: PoomSmart
 Name: RecordPause 录像暂停
 Sileodepiction: https://sileodepiction.8235467.xyz/Recordpause/js.json
 
+Package: com.ps.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/iphoneos-arm64/com.ps.recordpause_2.0.7_iphoneos-arm64.deb
+Size: 11880
+MD5sum: ef2e6b0aea759da596d4b27653916080
+SHA1: 2ae48abc1680e21393549e0234338e85c9369e2d
+SHA256: 3d66f767b67609c491643b40b818bc556d7cfef48409fbec6d1c0c34d832f6b2
+Section: Tweaks
+Description: Pauses/resumes video recording in iOS Camera app.
+Author: PoomSmart
+Name: RecordPause 录像暂停
+Sileodepiction: https://sileodepiction.8235467.xyz/Recordpause/js.json
+
 Package: com.pxx917144686.surge
 Version: 0.6
 Architecture: iphoneos-arm64
