@@ -299,6 +299,21 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://sileodepiction.8235467.xyz/SingleVPN/js.json
 
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/豆包助手无根1.0-4.deb
+Size: 637884
+MD5sum: 04842dda2b422f70b04c0652b602b772
+SHA1: 9769a2988fa74b223123dafe1a088131f28f7344
+SHA256: 1015fc8d772f3452a2ce1b459238f60ab05b6c677b90f9a84039e81063c89414
+Section: Tweaks
+Description: 豆包助手(DouYin)抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能
+Author: Beanbuns
+Name: 豆包助手-Rootless
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1728,6 +1743,23 @@ Description: 从主屏幕查看和管理应用程序数据
 Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://lincorn.github.io/sileodepiction/Appdata/js.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 400
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreen_1.2-6_iphoneos-arm64.deb
+Size: 167900
+MD5sum: c743832c2fb0e01bb7afddf3393ee576
+SHA1: 0a82e84549fa04d08e1b938f63c1885fc1d8c8e6
+SHA256: ae9f62b154785c5b4a77d072f4962cf66dbb17272ba1615957dacc90c9df5b29
+Section: Netskao-Tweaks
+Description: 抖音全屏显示
+ * Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
 
 Package: com.netskao.dumpdecrypter
 Version: 1.4-9
