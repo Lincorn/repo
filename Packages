@@ -4010,6 +4010,22 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://lincorn.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.picsewpro_1.0.0_iphoneos-arm64.deb
+Size: 24660
+MD5sum: 893f32094de75232c08f4be1b86e6f5f
+SHA1: 5b08091f6ccf192b725626e9329ac40e6913bcb0
+SHA256: ca8d6d236ede69a944627954e0bd6997ce594e549cdcaed7c36a2259369c5950
+Section: Tweaks
+Description: Picsew Pro 如无效重置或重进程序
+Author: x✨
+Name: PicsewPro
+
 Package: com.xx.qqhook
 Version: 1.1.2
 Architecture: iphoneos-arm64
