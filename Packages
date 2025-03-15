@@ -1643,6 +1643,25 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://sileodepiction.8235467.xyz/DYYY/js.json
 
+Package: com.huami.dyyy
+Version: 2.1-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 484
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-2_iphoneos-arm64.deb
+Size: 70328
+MD5sum: be3f48c78079f2472a4852060fd0612e
+SHA1: ea997c8002de2590660292b21c82e5b77d449feb
+SHA256: b48495643bc3dc8df11ce5e7b63d0e7790f40cbf214ad1a5b2f1bb0e4fd52d16
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+Sileodepiction: https://sileodepiction.8235467.xyz/DYYY/js.json
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
