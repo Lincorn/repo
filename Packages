@@ -141,6 +141,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.8_iphoneos-arm64.deb
+Size: 127040
+MD5sum: b762d6afcec1981af2e90fa6a2f203f5
+SHA1: 9ed1da865d03ea9e4aba8642f5f493ada94da6a3
+SHA256: f2e9a67fff87a9d03db5f97727eb2c9469c266f5a51ddb770b3eff595fb9aed7
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -977,6 +994,23 @@ Size: 540724
 MD5sum: 570be7a41772ce5787a4b53007ec8acb
 SHA1: 761c0d7fbe0b74b713e540353a536ec47ed7b07f
 SHA256: 02320123e5b9f640fc6f0f230ef5da3bafec8beb3950283b532bfd35c222641d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.0-12
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2736
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.0-12_iphoneos-arm64.deb
+Size: 541948
+MD5sum: 00bb8fd1655b1b842d74486fe6ad665e
+SHA1: 6162546c98b8b34e0c2573cb25a6bad1a048579f
+SHA256: c287dc1921dfc8f1b6aac2b4eae8561633a23bf3f7169b80d7e8a84bc18a1ca1
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
