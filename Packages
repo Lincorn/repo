@@ -212,6 +212,22 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/微信助手_3.8-2_无根.deb
+Size: 12412664
+MD5sum: 2fd7ceb817823272be4de826e3f65fb0
+SHA1: 6c39c61dbc3630b9bacc4f63679519f0dceb9f34
+SHA256: 6e6ff9704b68faca70cf886654b9fd2ce034af31351b4aaba8fba28dda151afd
+Section: Tweaks
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -3979,6 +3995,23 @@ Size: 3025820
 MD5sum: d0ed3e65624c5cd8b926cdfd38891318
 SHA1: bc7de04e84bc599cb7d58a4995ceb1072f79b4a0
 SHA256: 57f03f6d662c9919e80b3f9c959a6987a8fe54d4bf960c455337fffebf4ebfbd
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 8116
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.0.0-1_iphoneos-arm64.deb
+Size: 3584512
+MD5sum: 97906e295fb3014468568d2d81f15402
+SHA1: 19c64d0d26048f16fb9ef202a83a480e15e8f766
+SHA256: 347d36ea5e7675f38b4360dd98594bfb216fc92cd91d79d6785b926e75991aa4
 Section: Tweaks
 Description: 微信主题盒子
 Author: WeChat
