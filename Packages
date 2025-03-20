@@ -4052,6 +4052,22 @@ Author: Finn Gaida & TiaoTiao
 Name: 微信开关美化
 Sileodepiction: https://lincorn.github.io/sileodepiction/wechatdaynightswitch/js.json
 
+Package: com.tiaotiao.wxkeyboarduihook
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 480
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.tiaotiao.wxkeyboarduihook_2.0_iphoneos-arm64.deb
+Size: 106694
+MD5sum: 8a86becf2f19175d598fa85e6bbc99f5
+SHA1: 25e581e355b85ebadac33a6ac1ad48c6e423e150
+SHA256: 4aa518a56122fa3fad420256335ad714a44e97c4835c9ae69d022536e6e1959e
+Section: Tweaks
+Description: WXKeyboardUIHook
+Author: TiaoTiao
+Name: WXKeyboardUIHook
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
