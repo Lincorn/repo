@@ -2025,6 +2025,24 @@ Author: Ruphane
 Name: AirPods PodsGrant
 Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
 
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64/com.mikotohelper.wechat_1.3.6-V1_iphoneos-arm64.deb
+Size: 20761636
+MD5sum: a81d0e52352f0bb5d52bdcbabb480759
+SHA1: f9269251e6373b5100e247bdc03510196cbb3992
+SHA256: 7bdebf18c4af6019f87662585f4c87aedaf7d4786b173f72d2d2a1578558f7b3
+Section: Tweaks
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Name: Mikoto 助手
+
 Package: com.netskao.appdata
 Version: 1.4.3
 Architecture: iphoneos-arm64
