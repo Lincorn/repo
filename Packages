@@ -228,6 +228,22 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/微信助手_3.8-3_无根.deb
+Size: 12508000
+MD5sum: 1ed767113dc98e96d3c2d958fcf8f43c
+SHA1: 10cb6053602262beee1edf0795e701def50a5a9f
+SHA256: 9cce61cdd4028bcd236b1ab57564cbba54bfec3f14cc3bbacb1a7c927f24c351
+Section: Tweaks
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -1812,6 +1828,25 @@ Size: 91324
 MD5sum: 071abe9bb3b2465831f6ea5494d94abb
 SHA1: b69f0256f2c653d64989e2418a43019db0491d1c
 SHA256: 3525964b51d7b4dae2a64b1fd2fdc33639d53dad831d152fb17f7985920b7d92
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+Sileodepiction: https://sileodepiction.8235467.xyz/DYYY/js.json
+
+Package: com.huami.dyyy
+Version: 2.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 648
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-7_iphoneos-arm64.deb
+Size: 107952
+MD5sum: 26e5a5a8c8fcb78f851c58a77b6fac5d
+SHA1: 8193becaa15d74e71da7035bb6ddc3bbef81c0e9
+SHA256: 4157a87ac8c6cbd6635321d977479cca56b468792e3afe1ec45cfbf4a833d9f1
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
