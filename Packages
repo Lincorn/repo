@@ -1270,6 +1270,23 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.2-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2852
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-3_iphoneos-arm64.deb
+Size: 567436
+MD5sum: 91f324922ad38e119de598521ff05b15
+SHA1: 89c21db4f7fa468d31a9c192bb477e48f2da4fe8
+SHA256: 6c729c53c47925a28a9c399f511cccdf85c4a77bfc159e955b2ecbd5cbbde16e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
 Package: com.couhege.CopyFaster
 Version: 0.0.1
 Architecture: iphoneos-arm64
