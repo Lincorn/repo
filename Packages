@@ -1338,6 +1338,22 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.1_iphoneos-arm64.deb
+Size: 23088
+MD5sum: 90f06e95f73eced4d5c604b3130f3e60
+SHA1: 8bcb2abba4b4b3a9caf92a25f835f5d236891452
+SHA256: b7f14f0a0053270365326817356dc0f0ac49fd79d9c97664be79d30f3d3418ee
+Section: Tweaks
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Name: WechatPushMsgPage微信直达
+
 Package: com.couhege.CopyFaster
 Version: 0.0.1
 Architecture: iphoneos-arm64
