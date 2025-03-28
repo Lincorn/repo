@@ -4700,6 +4700,23 @@ Description: 备份上架
 Author: z
 Name: 屏蔽设置重要提醒
 
+Package: dev.mineek.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64.deb
+Size: 15756
+MD5sum: b2e325b1211876291d61a98aa269360f
+SHA1: bcdc6928c3e860dc0045df7e137049f1dad7338e
+SHA256: 0db5622b10acc0c4007f2a92bdafb38701accd50191e542a46502cfb7e562e6b
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用ID购买高版本应用并安装,软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
 Package: misakahelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
