@@ -2162,6 +2162,24 @@ Author: Ruphane
 Name: AirPods PodsGrant
 Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
 
+Package: com.lns.pogr
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.3_iphoneos-arm64.deb
+Size: 70356
+MD5sum: 5ad4d1d710253f6647d45c770e8a00b1
+SHA1: 6a1d14f0c87ac2c787c8358136f7c875a32ce953
+SHA256: b1502279c5976a2d64e4826d9a6450105d0949351267d882c12cdfc5b06111fb
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性
+ * Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: AirPods PodsGrant
+Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
+
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
 Architecture: iphoneos-arm64
