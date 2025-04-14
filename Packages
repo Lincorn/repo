@@ -2941,6 +2941,26 @@ Author: Netskao
 Name: 微信自定义开关UI
 Sileodepiction: https://lincorn.github.io/sileodepiction/WeChatUISwitchLoader/js.json
 
+Package: com.nightwind.rootless-patcher
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 116
+Depends: odcctools, ldid
+Filename: ./debs/iphoneos-arm64/com.nightwind.rootless-patcher_0.0.1_iphoneos-arm64.deb
+Size: 24164
+MD5sum: 9719019007c29893630353f936ead023
+SHA1: 7ea94c5ff27b0bee09815fdec97de12cd5b9bef0
+SHA256: 7f380ffcb243a15c0593665e545c7ffb6784fdb9770da40582b8a2ca7792b036
+Section: System
+Description: 把有根插件转换成无根插件！并非所有的有根转成无根后，都能正常使用。
+ * 安装终端，执行：rootless-patcher <path/to/deb>
+ * A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Author: Nightwind and staturnz
+Name: rootless-patcher
+
 Package: com.nwzj.hookdytc
 Version: 2.0.8+8
 Architecture: iphoneos-arm64
