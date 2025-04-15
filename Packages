@@ -452,15 +452,14 @@ Maintainer: Apple
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.apple.wechat.noads_1.2.0_iphoneos-arm64.deb
-Size: 22244
-MD5sum: 43cae8650cccd7cfc9da0b192ed4ccd1
-SHA1: 79a59cfee57c21bf765ac47e07975c3ca819f689
-SHA256: d7a4c2c66a9df0e956f42b5b1a2d55bad3eed38baf1abc7dbda38a866dc4d714
+Size: 22192
+MD5sum: c5fe6e6ee481be2d0cab978403f02a7b
+SHA1: e10c5666e108938331e529c4244f753b76d88539
+SHA256: 76124724c5d5c51cce512363520974e445ecd4dbcc6c3e936677bcd7b9546632
 Section: Tweaks
 Description: 插件开关已纳入微信插件管理页面。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  插件仅供本人测试使用，下载后请于24小时内删除!
 Author: Apple
 Name: 微信广告净化助手_Crack
-Sileodepiction: https://sileodepiction.8235467.xyz/com.apple.wechat.noads/js.json
 
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
