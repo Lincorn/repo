@@ -1712,6 +1712,22 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.1_iphoneos-arm64.deb
+Size: 20560
+MD5sum: 571c7f3280c4c24cb12cd3f09b6a7ee7
+SHA1: de9b21d27e44f4e424dbb33f7e145e391c65a580
+SHA256: 0b46769dbc00503fb13f73bbdf8ceccfcc81cbd82618b129044067574542732f
+Section: Tweaks
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Name: WeChatPopVC微信全局左滑返回
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
