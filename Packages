@@ -1712,6 +1712,23 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.4-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3268
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-6_iphoneos-arm64.deb
+Size: 603548
+MD5sum: 64b9aeaf3fad3f48201379a03132b2cd
+SHA1: ad5423959d18ed3dfaf0236b2fc3057c1a38b5ef
+SHA256: e61efc8463219c9280db4ac8dd08c6428308edf002980da92c9fe463349f0630
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
