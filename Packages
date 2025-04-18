@@ -427,6 +427,21 @@ Description: 强制关注公众号，搭配微信净化426 使用
 Author: wkk
 Name: WeChat强制关注
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/黄白助手1.8-2_无根.deb
+Size: 11114712
+MD5sum: 3b3c78c9ec8f29de2dc5813810554d90
+SHA1: b24261ba447b965a02c85e9a674ac5763d66d17e
+SHA256: dee3db6d27c1a0a9304ed117619ad73191a524b5c050dba4ce05a8609b10754f
+Section: Mao
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
 Package: com.Oxkuj.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
