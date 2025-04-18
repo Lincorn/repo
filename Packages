@@ -5281,6 +5281,24 @@ Description: 强制低系统版本越狱设备使用ID购买高版本应用并�
 Author: Mineek
 Name: appstoretroller
 
+Package: dev.mineek.appstoretroller
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.1_iphoneos-arm64.deb
+Size: 16292
+MD5sum: 9a37ac145705768c54544b9d42f94f04
+SHA1: 990c1b671dac7891748e424925e79af319285c86
+SHA256: d07684d15b41a910a976c26df1cb40a49ea4146f02a696763c3b241051c2f541
+Section: Tweaks
+Description: 强制低系统版本的越狱设备使用ID购买高版本应用并安装兼容版本(不存在兼容版本的则会闪退)
+ * 修改版，非原版由Mineek制作，由Cypwn修改
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
 Package: misakahelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
