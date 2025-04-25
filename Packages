@@ -2628,6 +2628,22 @@ Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；�
 Author: huami
 Name: 抖音魔术师
 
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0425End_无根.deb
+Size: 376834
+MD5sum: 5a70a513edea75d40e76bcca8d1f829c
+SHA1: e509bd41188a5a556e957d659f9c05718bbd415f
+SHA256: 1782ff4f213b935f75981d056b50d385f318e5616fe864d92db4184a24aedfc4
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: 抖音魔术师
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
