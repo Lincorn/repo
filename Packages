@@ -5536,6 +5536,22 @@ Description: 默认开启CallKit·仅新版微信测试·支持注入
 Author: x✨
 Name: WeChatCallKit
 
+Package: com.xx.xhshook
+Version: 1.1.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.xhshook_1.1.6-3_iphoneos-arm64.deb
+Size: 1518620
+MD5sum: 7fa2120b7d911c7347956a9b1afe36c3
+SHA1: 80ac7556e2b723b572e49a8656a1ca79222606d3
+SHA256: dd648822b1507b94e58010302cedcbef5200402a59f5dc9361827eb43bb2cfca
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
 Architecture: iphoneos-arm64
