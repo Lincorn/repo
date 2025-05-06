@@ -5264,6 +5264,23 @@ Description: WXKeyboardUIHook
 Author: TiaoTiao
 Name: WXKeyboardUIHook
 
+Package: com.wangdonghua.backgroundretainer
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: Your Name
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debs/iphoneos-arm64/com.wangdonghua.backgroundretainer_0.0.1-7_iphoneos-arm64.deb
+Size: 78520
+MD5sum: 0382b14966bab713ee88861f888e41bb
+SHA1: d9780e2a84b8591f1cadb4eeb810872058665ffd
+SHA256: aecf28c74d7c83cca48f3b91bff34073b2e5ad0ca5cdf89c56c3b698bf9c9695
+Section: Tweaks
+Description: 基于iOS墓碑机制的后台应用留存增强插件,基于 ios 的 墓碑机制写的，添加应用   id 到白名单，可以冻结应用，防止被杀后台。【 应用 id 获取可以使用 App data 插件获取 】
+Author: Your Name
+Name: BackgroundRetainer
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
