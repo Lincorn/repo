@@ -2167,6 +2167,23 @@ Description: 添加值以保护您的电池寿命，配合1380CPU节流功能效
 Author: @Spor0nix 凑合哥 Repack <(null)>
 Name: BatteryMaster1380
 
+Package: com.den.blur
+Version: 1.0-8+debug
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.den.blur_1.0-8+debug_iphoneos-arm64.deb
+Size: 10484
+MD5sum: 92065fc7319bfe864a6bd9d2ee3bc55a
+SHA1: 8e54b3c729a32ddbc32a1197d4737a64be528a73
+SHA256: 2625c7535b8f636bcaf505b655c07b065ed522844212b4415ce6342b33be694b
+Section: Tweaks
+Description: 在资料库中隐藏私人照片使用 Face ID、Touch ID 或密码解锁
+ * Hide private photos in your library. Unlock with Face ID, Touch ID, or passcode
+Author: MrDeNsor
+Name: Blurify6 相册内隐私加锁
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.6
 Architecture: iphoneos-arm64
