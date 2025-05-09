@@ -5858,6 +5858,24 @@ Description: 备份上架
 Author: z
 Name: 屏蔽设置重要提醒
 
+Package: de.finngaida.daynightswitchs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/iphoneos-arm64/de.finngaida.daynightswitchs_1.1_iphoneos-arm64.deb
+Size: 68488
+MD5sum: 806c2c90977f61d98a80e889d44b4637
+SHA1: 281dbf747289cea94e4b927ea1b50744fb47fd8a
+SHA256: 3ad72650263bf1cb7f787e93a4c87972a93fd0ba170af77589a2abda3ca0fcaf
+Section: 乌龙工作室
+Description: 为您的设置开关添加一些日月风格
+ * Add some style to your switches
+Author: Finn Gaida
+Name: DayNightSwitch 日月开关
+
 Package: dev.mineek.appstoretroller
 Version: 0.0.9
 Architecture: iphoneos-arm64
