@@ -158,6 +158,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://lincorn.github.io/sileodepiction/kayoko/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.9_iphoneos-arm64.deb
+Size: 128416
+MD5sum: 91979226fd2baacd7123de115303fc15
+SHA1: 20fa4ead41a7ce9b6dba877f7a1b5572a42e3706
+SHA256: e9a78f09c37d96bfdd3306f256f1aede04b07212972f0851d56592de1d847dd5
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://sileodepiction.8235467.xyz/kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
