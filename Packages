@@ -3159,6 +3159,23 @@ Description: 默认值恢复工具,无限安全模式安装恢复
 Author: Crassna
 Name: App Lecard分屏恢复默认值工具
 
+Package: com.lhh.lockplayer
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: lhh
+Installed-Size: 2748
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.lhh.lockplayer_2.9_iphoneos-arm64.deb
+Size: 183300
+MD5sum: 72e49399fcc604cd9c25c7c9cd165372
+SHA1: 8d5b2acfa89f2ab373f915bedf446f879f351af1
+SHA256: 7cc9f47fed11a438a5300e4c76dbdbb6ac194b66ab0ac83a35261e968d03ed0b
+Section: Tweaks
+Description: 锁屏播放器，想隐藏原生自带的播放器，可以在源里面的搜索：隐藏锁屏音乐控件
+Author: lhh
+Icon: https://imgs.8235467.xyz/file/1747955219460_305B7E9F-EC39-4533-BFE2-AD4B5AB4C0D3.png
+Name: LockPlayer锁屏播放器
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
