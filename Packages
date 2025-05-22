@@ -5447,6 +5447,24 @@ Description: 维他出品，插件入口在设置；轻量便捷，可设置时�
 Author: vita
 Name: Yuki抖音防撤回
 
+Package: com.vita.yuki
+Version: 0.0-4
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.vita.yuki_0.0-4_iphoneos-arm64.deb
+Size: 27800
+MD5sum: 300b6eaa698dde1b0aaf8815578d47c2
+SHA1: 860cf33fd1e9d3988192c1da9fad019c0630e1eb
+SHA256: ea569036a569f8c1d526bb0510e91425fadadbd1f48cbceafd5644ab1bfce950
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: Yuki抖音防撤回
+
 Package: com.wangdonghua.backgroundretainer
 Version: 0.0.1-7
 Architecture: iphoneos-arm64
