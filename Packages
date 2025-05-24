@@ -3971,6 +3971,24 @@ Description: 使GitHub网站在iOS <15.4上更访问
 Author: PoomSmart
 Name: GitHubWebLegacyCompat
 
+Package: com.ps.githubweblegacycompat
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 15.4)
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_1.0.5_iphoneos-arm64.deb
+Size: 19624
+MD5sum: 0c48c6fe56005273120a5370090c81db
+SHA1: 82595caa691fd9ce4797a0326699be0c7002b66c
+SHA256: 31269321e3fe576f4d5dac383b2b393b818641b179fba7a2dd0b59eca2fbc641
+Section: Tweaks
+Description: 让 iOS <15.4 版更容易访问 GitHub 网站
+ * Make GitHub website more accessible on iOS <15.4
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+Name: GitHubWebLegacyCompat
+
 Package: com.ps.recordpause
 Version: 1.4.0
 Architecture: iphoneos-arm64
