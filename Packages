@@ -2131,6 +2131,23 @@ Author: be-huge
 Name: WechatPushMsgPage微信直达
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.5_iphoneos-arm64.deb
+Size: 23440
+MD5sum: bf2133ed8fa4167c4ebd6b6aa2c3f612
+SHA1: 5bb9e337ba9d089a3f1f897aa031971118a50942
+SHA256: b80c1e07f1e3fba58d6021273a7c89705455538728f46c85aae0dea605bc5612
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Name: WechatPushMsgPage微信直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
 Package: com.couhege.CopyFaster
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -3034,6 +3051,22 @@ Size: 458636
 MD5sum: 7673e980d10aaa0fa6d272688cc04590
 SHA1: dc41a535a1ab814fa8ced532d8e2a51cbdc6078f
 SHA256: 78877afa903bc07f81a288009fe56827a1802e309596472d3efc195438b3c3cd
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-7-0528
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2324
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-7-0528_iphoneos-arm64.deb
+Size: 458060
+MD5sum: d0f0507859f4302b682f047b75125c8c
+SHA1: 41b017b821d08b275eb20abb83df3b760ac9d901
+SHA256: 3fc3e83bed9ffc63f1e039708f5cb59bcc20fae169100956d70e701d13ad7ca8
 Section: 抖音插件
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
@@ -5562,6 +5595,24 @@ Size: 32088
 MD5sum: bc4d98f8e4bb39485a50a4fd1b3f9e23
 SHA1: 3faa35cd8c22c325847c4781692b919d1bedb71e
 SHA256: 21dea29bbd22a3f4dac94fb39b593e792b3fc26cd52830bdd853523f6a83dc8d
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: Yuki抖音防撤回
+
+Package: com.vita.yuki
+Version: 0.0-6
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.vita.yuki_0.0-6_iphoneos-arm64.deb
+Size: 39208
+MD5sum: 17ed1da11389255cedce082d2bccf395
+SHA1: 0fd8893b961d4f988af89d1a6102412e80ae4a25
+SHA256: 8e50f57bb24f2fb18c8cef4ab2643cecfad763f5cf2c575e8841b3fc3c8c898c
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/wtrwx
