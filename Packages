@@ -4177,6 +4177,41 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 Name: GitHubWebLegacyCompat
 
+Package: com.ps.githubweblegacycompat
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 15.4), com.ps.polyfills
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_1.0.6_iphoneos-arm64.deb
+Size: 19328
+MD5sum: 0d624a7d78ba59e9eda39c011d5d8b4c
+SHA1: 04909d56900dae81ab2ed18abbd1836c77ebf318
+SHA256: eaff268e39307322c3271084ebbdeeae2bace9b8449dc325dd61b476310ce467
+Section: Tweaks
+Description: 让 iOS <15.4 版更容易访问 GitHub 网站
+ * Makes GitHub website more accessible on iOS <15.4
+Author: PoomSmart
+Icon: https://imgs.8235467.xyz/file/github.png
+Name: GitHubWebLegacyCompat
+
+Package: com.ps.polyfills
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.0.0_iphoneos-arm64.deb
+Size: 4768
+MD5sum: f55dc0c8a000e15d88d4d5577e60383a
+SHA1: e4d89a24887ea175e6c3a13f25c37b5bbdecbd54
+SHA256: 83a674c350a13b746399ccd2b578a7281e49dca19ce42f7d746584f51face30e
+Section: Tweaks
+Description: 为 iOS 网页视图注入 JavaScript Polyfills。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
 Package: com.ps.recordpause
 Version: 1.4.0
 Architecture: iphoneos-arm64
