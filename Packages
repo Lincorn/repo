@@ -2069,6 +2069,24 @@ Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102092
+MD5sum: fc0b36c21bf724ef35611718358f5399
+SHA1: 34e238a27702dbc1a02d7ef761d34fb5e53086bd
+SHA256: 0bb1b9758f2ddef5b997e4201b54efdc424a5b3152ebd94c053f794fcbe4b51a
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/1749014615933_shoushi.png
+Name: TieGesture
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.tie-gesture/js.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
