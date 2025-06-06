@@ -2076,16 +2076,33 @@ Maintainer: be-huge
 Installed-Size: 672
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
-Size: 102092
-MD5sum: fc0b36c21bf724ef35611718358f5399
-SHA1: 34e238a27702dbc1a02d7ef761d34fb5e53086bd
-SHA256: 0bb1b9758f2ddef5b997e4201b54efdc424a5b3152ebd94c053f794fcbe4b51a
+Size: 102056
+MD5sum: 6284e88b11a4985b0b72cf04bbfdcf11
+SHA1: f3c494c705d4dc8409f139096a6aa22c40073f68
+SHA256: dad73f61808af58b669d263d1778b56cc4a34fcbda9dab520df04f21323c92b0
 Section: Tweaks
 Description: 手势插件，一切从简即可。
 Author: be-huge
-Icon: https://imgs.8235467.xyz/file/1749014615933_shoushi.png
+Icon: https://imgs.8235467.xyz/file/ss.png
 Name: TieGesture
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.tie-gesture/js.json
+
+Package: com.be-huge.tie-gesture-advance
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1224
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.6_iphoneos-arm64.deb
+Size: 237364
+MD5sum: f66030e4eb9bddd2859560c686efc2a3
+SHA1: c7fff562291d4528fb8bff8e52532cd2b78b7cce
+SHA256: c812ab95b485e6e2f6803e50566f0d204cbc4dea802aec56a1187f492c8164f1
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/ss.png
+Name: TieGesture(收费版)
 
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
