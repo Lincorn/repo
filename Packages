@@ -2104,6 +2104,23 @@ Author: be-huge
 Icon: https://imgs.8235467.xyz/file/ss.png
 Name: TieGesture(收费版)
 
+Package: com.be-huge.tie-gesture-advance
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.7_iphoneos-arm64.deb
+Size: 240712
+MD5sum: 852a0fb3d4ddceb1c1ce4eff34e33386
+SHA1: 4235289a88cf3e955351f919d910ec9ad9d75f8a
+SHA256: b996b2480141c2b8512dd3c0432a0c3b6234e2fdbe5f6af0973a6235292e1d26
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/ss.png
+Name: TieGesture-rootless(收费版)
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4246,6 +4263,23 @@ Description: 为 iOS 网页视图注入 JavaScript Polyfills。
 Author: PoomSmart
 Name: Polyfills
 
+Package: com.ps.polyfills
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.2.0_iphoneos-arm64.deb
+Size: 5492
+MD5sum: 441f30b0e3700bba4f14095f828870a5
+SHA1: 13b892b05b9ac5e932e121fd3bdee36b8ae79351
+SHA256: fc6348b099a5ca861dc5e8039b30aae0f7e935e8812c71fc1f7ab4ede91136f1
+Section: Tweaks
+Description: 为 iOS 网页视图注入 JavaScript Polyfills。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
 Package: com.ps.recordpause
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -6338,6 +6372,24 @@ Section: Tweaks
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-3.8.7-Rootless
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
+Package: com.yourepo.themepro.themepro-316-rootless
+Version: 3.8.9
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-316-rootless_3.8.9_iphoneos-arm64.deb
+Size: 5791988
+MD5sum: 2f70f2626f23f9855d07ae27ac46d01a
+SHA1: 4a85bb535bf1d595cd235e34f188b010cbe3b821
+SHA256: 347ba2e1aa5cc3ab0ac55969ac9c4a7288a705d4983c9d25c5a173d472c03aee
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-3.8.9-Rootless
 Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
 
 Package: datasource
