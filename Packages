@@ -2121,6 +2121,24 @@ Author: be-huge
 Icon: https://imgs.8235467.xyz/file/ss.png
 Name: TieGesture-rootless(收费版)
 
+Package: com.be-huge.tie-gesture-advance
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.8_iphoneos-arm64.deb
+Size: 241176
+MD5sum: 1f066e5ce67e126b6bf4c655e9c1f15f
+SHA1: 297f330ed1e0aa7417f51cb8dc407f53a34d3d7b
+SHA256: d7e215d6ed0823c6fae01a6a0ee731c074869d883a2244f2d4ab2844006a552c
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/ss.png
+Name: TieGesture-rootless(收费版)
+Sileodepiction: https://sileodepiction.8235467.xyz/sssf/js.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4239,6 +4257,24 @@ Size: 19328
 MD5sum: 0d624a7d78ba59e9eda39c011d5d8b4c
 SHA1: 04909d56900dae81ab2ed18abbd1836c77ebf318
 SHA256: eaff268e39307322c3271084ebbdeeae2bace9b8449dc325dd61b476310ce467
+Section: Tweaks
+Description: 让 iOS <15.4 版更容易访问 GitHub 网站
+ * Makes GitHub website more accessible on iOS <15.4
+Author: PoomSmart
+Icon: https://imgs.8235467.xyz/file/github.png
+Name: GitHubWebLegacyCompat
+
+Package: com.ps.githubweblegacycompat
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 15.4), com.ps.polyfills
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_1.0.7_iphoneos-arm64.deb
+Size: 19256
+MD5sum: 5165d2adb3cf3953a92564d0f7fc28f6
+SHA1: b9f19594f235443bc4849714ae7dd395eaeffda9
+SHA256: 01aa827f745c9af0fcbd3497ebde06a6c745af8fef240cdf582b07666c4a6fbd
 Section: Tweaks
 Description: 让 iOS <15.4 版更容易访问 GitHub 网站
  * Makes GitHub website more accessible on iOS <15.4
