@@ -2069,6 +2069,42 @@ Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-1_iphoneos-arm64.deb
+Size: 614588
+MD5sum: 7179746fd73b8a6002502e1c20e2b87c
+SHA1: 075386c2f321a8af9b33b1fce19e952201d87b03
+SHA256: cc25271833eb8f3bfa91f1677ea40c6634643dae6e46c42bd6f405dc10e55a63
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3192
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-2_iphoneos-arm64.deb
+Size: 615336
+MD5sum: 346e1c4446c5d55cc61c9bf8a2f5287f
+SHA1: 98c5e8501970f5f5d845b74802b7c3d7ec4fffb7
+SHA256: cce94700525f897daf5b2c11e8d1ff62f9cda9827457988fd6cebda1beb89365
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4466,6 +4502,24 @@ Description: Pauses/resumes video recording in iOS Camera app.
 Author: PoomSmart
 Name: RecordPause 录像暂停
 Sileodepiction: https://sileodepiction.8235467.xyz/Recordpause/js.json
+
+Package: com.pxx917144686.gps
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: pxx917144686
+Installed-Size: 1340
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.pxx917144686.gps_0.1_iphoneos-arm64.deb
+Size: 268044
+MD5sum: 9f33007a4970c5744ebba7b16ba3bf28
+SHA1: bd56270f7b08c14441c5538d043ad2c9b7b19b85
+SHA256: 16260121526eb5f7c2a6b93ee0d41e2505943b1dbc2805ae33718f8332126576
+Section: Tweaks
+Description: 功能强大的iOS位置工具
+Author: pxx917144686
+Icon: https://imgs.8235467.xyz/file/1749296192915_GPS.png
+Name: GPS++
+Sileodepiction: https://sileodepiction.8235467.xyz/GPS+++/js.json
 
 Package: com.pxx917144686.surge
 Version: 0.6
