@@ -297,6 +297,22 @@ Description: 微信助手
 Author: Mao
 Name: 微信助手
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-5_iphoneos-arm64.deb
+Size: 8990952
+MD5sum: 86716fae2bb3075b4ba1c2f78360701e
+SHA1: 4e8b9d7b5e6b1bddd0ab0e2a82675ef2ffdc27e8
+SHA256: bb8c2622e7486ea3beb43041674fe6ee08ba32f31e20ba5504a4b4a4445457bc
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
