@@ -2446,6 +2446,24 @@ Description: 添加值以保护您的电池寿命，配合1380CPU节流功能效
 Author: @Spor0nix 凑合哥 Repack <(null)>
 Name: BatteryMaster1380
 
+Package: com.curtin.pkc.rootless
+Version: 0.7-8
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.7-8_iphoneos-arm64.deb
+Size: 919088
+MD5sum: 3bfe5609a728a6d5ed38771eb235acbc
+SHA1: 06c8127baeaaf87138eb5b9553a8b7ea83223c64
+SHA256: faf70db6c4d6815b5c1f11898740a8784b185d117850bdba2ea1b33decdc9e56
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.den.blur
 Version: 1.0-8+debug
 Architecture: iphoneos-arm64
@@ -4481,6 +4499,23 @@ Size: 30636
 MD5sum: 18e40e37cb10ec08e589d3ec088bc8c8
 SHA1: 4994c5a47fc611bd4c3c5e15b51a52d5a4458c40
 SHA256: 38cfe3134f482143c2a7200d965d8438dbd4fdc221deefcea8f61c4ae07092f8
+Section: Tweaks
+Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
+Package: com.ps.polyfills
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.7.0_iphoneos-arm64.deb
+Size: 35460
+MD5sum: edbadcefa3ff1450fbf70a08583505a4
+SHA1: e5fb6d5b1592e9493032ad58bbc706e8c5fc30fb
+SHA256: 2378af5042b58f0f9604206967232374f5b17017e8cda56a151c0511ff7b2801
 Section: Tweaks
 Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
  * Injects JavaScript Polyfills to iOS web views.
