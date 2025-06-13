@@ -3331,6 +3331,23 @@ Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；�
 Author: huami
 Name: 抖音魔术师
 
+Package: com.huami.dyyy
+Version: 2.2-8-0612
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2420
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8-0612_iphoneos-arm64.deb
+Size: 476676
+MD5sum: d78445bb0e70e9bdd3d7adcbd523e993
+SHA1: cae65e387efef3e39b56a218994bdfcd502711ce
+SHA256: 1b7107e3d8d3acf86c79a4675eab9190b217af80ba83a47b2690e38385ff0159
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://imgs.8235467.xyz/file/dy.png
+Name: 抖音魔术师
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4447,6 +4464,23 @@ Size: 29068
 MD5sum: 968711ee52c4541e2e3c262a8500c389
 SHA1: 171a8edde0222cdf7f320d02c137c2fef3aa70be
 SHA256: 697141459ed8ccd88edcdeb938c2a5a940992b7d3bad3f2794a41f50c7573ac7
+Section: Tweaks
+Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
+Package: com.ps.polyfills
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.6.0_iphoneos-arm64.deb
+Size: 30636
+MD5sum: 18e40e37cb10ec08e589d3ec088bc8c8
+SHA1: 4994c5a47fc611bd4c3c5e15b51a52d5a4458c40
+SHA256: 38cfe3134f482143c2a7200d965d8438dbd4fdc221deefcea8f61c4ae07092f8
 Section: Tweaks
 Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
  * Injects JavaScript Polyfills to iOS web views.
