@@ -542,6 +542,21 @@ Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.8_iphoneos-arm64.deb
+Size: 11590828
+MD5sum: 539c2da6236b0ca2621b01fdfc414627
+SHA1: e4276d2db355d525e0cbed6e8632bd41133a8377
+SHA256: cde5c81c4ab2ee7011a88fdcbbd1e52972e1e9694577d937306cec9af3aea139
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
 Package: com.Oxkuj.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4532,6 +4547,23 @@ Size: 35460
 MD5sum: edbadcefa3ff1450fbf70a08583505a4
 SHA1: e5fb6d5b1592e9493032ad58bbc706e8c5fc30fb
 SHA256: 2378af5042b58f0f9604206967232374f5b17017e8cda56a151c0511ff7b2801
+Section: Tweaks
+Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
+Package: com.ps.polyfills
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.7.1_iphoneos-arm64.deb
+Size: 34792
+MD5sum: 8f717f87231896932311361b125207bc
+SHA1: 81c30fb73b6041f7ae31080b1ad17c602ed4635e
+SHA256: 946f77b55af67254660a747bfbe321f3a3449531aa396658e5b42bec95367149
 Section: Tweaks
 Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
  * Injects JavaScript Polyfills to iOS web views.
