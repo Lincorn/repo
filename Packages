@@ -4570,6 +4570,23 @@ Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多�
 Author: PoomSmart
 Name: Polyfills
 
+Package: com.ps.polyfills
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.8.1_iphoneos-arm64.deb
+Size: 34948
+MD5sum: 302e40b8ba62648be0230884916a103c
+SHA1: c08f111592795c4930de04d5dab4393c682ea928
+SHA256: 736132c65ae69a8a2cb10261d0ea912c820949f5e3cc59369f52081e3d604164
+Section: Tweaks
+Description: 为旧版本 iOS 无法使用的某些 JavaScript 功能提供多填充功能。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于不再提供必要的 polyfills，许多网站将直接停止在这些版本上运行。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
 Package: com.ps.recordpause
 Version: 1.4.0
 Architecture: iphoneos-arm64
