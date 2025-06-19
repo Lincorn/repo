@@ -2240,6 +2240,24 @@ Icon: https://imgs.8235467.xyz/file/ss.png
 Name: TieGesture-rootless(收费版)
 Sileodepiction: https://sileodepiction.8235467.xyz/sssf/js.json
 
+Package: com.be-huge.tie-gesture-advance
+Version: 1.0.9-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.9-1_iphoneos-arm64.deb
+Size: 241912
+MD5sum: 50c73382a7e3b76489853e2be750db54
+SHA1: d7b6abb2a04bd555ed79d84281dcb9df15e926ab
+SHA256: c2a48991ec2d603c4485117602b6ca5ff020115989a227d4c32acca28dae1e49
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/ss.png
+Name: TieGesture-rootless(收费版)
+Sileodepiction: https://sileodepiction.8235467.xyz/sssf/js.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -3637,6 +3655,24 @@ Author: Ruphane
 Name: AirPods PodsGrant
 Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
 
+Package: com.lxcloud.WCEhance
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhance_1.1-8_iphoneos-arm64.deb
+Size: 1450076
+MD5sum: 71acb7f1b1db651c474ea4ed524257bc
+SHA1: 6602aa4e5eaf3d2a9680746484074eb9630992e1
+SHA256: b190c22687f6a5099854935a55458e14e140e7648f9a71c6856dab1a65f6b7e9
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122.png
+Name: 微信增强
+Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
+
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
 Architecture: iphoneos-arm64
@@ -4594,15 +4630,17 @@ Maintainer: PoomSmart
 Installed-Size: 364
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
 Filename: ./debs/iphoneos-arm64/com.ps.polyfills_1.9.2_iphoneos-arm64.deb
-Size: 33408
-MD5sum: 7cd85d25ba4e9d81007b62b5e48e5eab
-SHA1: 150ef798578a27dd27934d81a55f80a153a8ad38
-SHA256: 9826ee5f228c9023aa19420ca0a9b5d551313d4c3022e25e83cdd1586c5d7d0a
+Size: 33464
+MD5sum: 0f8e56ed6da4ae8a83f2d637a0b17e02
+SHA1: ba717bbfc6542227dd1c4412e3e1e5ec89f7d56f
+SHA256: 7b636ffce6fe5245368981ee3c2aad6f43444070deacb20605ca6b1c50bc3dd4
 Section: Tweaks
 Description: 为旧版本 iOS 上无法使用的某些 JavaScript 功能提供多填充。查看本页，了解建议启用的 WebKit 实验性功能，以进一步增强网络兼容性。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于这些版本不再提供必要的 polyfills，很多网站都会直接停止在这些版本上运行。避免安装 1.5.0 至 1.9.0 版本，因为其中存在一个 CPU 占用率较高的 bug。
  * Injects JavaScript Polyfills to iOS web views.
 Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/polyfills.html
 Name: Polyfills
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/polyfills.json
 
 Package: com.ps.recordpause
 Version: 1.4.0
