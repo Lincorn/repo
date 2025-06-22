@@ -4486,6 +4486,24 @@ Author: PoomSmart
 Icon: https://imgs.8235467.xyz/file/github.png
 Name: GitHubWebLegacyCompat
 
+Package: com.ps.githubweblegacycompat
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 16.0), com.ps.polyfills
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_2.0.0_iphoneos-arm64.deb
+Size: 21588
+MD5sum: 3fe1c37a18262e2bd13a74db0a11143d
+SHA1: b065f3f8d171c7d3d78fd5296bd7c774c1fed094
+SHA256: 8fc04c4b78cee05d87db1561a9cbd1b1e02bf2346211330d5516263b0dcc6767
+Section: Tweaks
+Description: 通过注入已移除不支持语法的 CSS，使 GitHub 网站在 iOS 15.8 及更低版本上更易于访问。
+ * Makes GitHub website more accessible on iOS < 16.0
+Author: PoomSmart
+Icon: https://imgs.8235467.xyz/file/github.png
+Name: GitHubWebLegacyCompat
+
 Package: com.ps.polyfills
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4657,6 +4675,23 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/polyfills.html
 Name: Polyfills
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/polyfills.json
+
+Package: com.ps.polyfills
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_2.1.0_iphoneos-arm64.deb
+Size: 58804
+MD5sum: 2716783e07c87dcbc8ed535e8c42b6f0
+SHA1: ed510d4a85a9869fc08a857ed5d009b1407ccbb3
+SHA256: 30c38a8c1580dfcd81aedf239f3118f1790685cd313d89fa364d285a4023af8e
+Section: Tweaks
+Description: 为旧版本 iOS 上无法使用的某些 JavaScript 功能提供多填充。查看本页，了解建议启用的 WebKit 实验性功能，以进一步增强网络兼容性。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于这些版本不再提供必要的 polyfills，很多网站都会直接停止在这些版本上运行。避免在 iOS 15 及更低版本上安装 1.5.0 至 1.9.0 版本，因为存在 CPU 占用率高的错误。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
 
 Package: com.ps.recordpause
 Version: 1.4.0
