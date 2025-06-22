@@ -4504,6 +4504,24 @@ Author: PoomSmart
 Icon: https://imgs.8235467.xyz/file/github.png
 Name: GitHubWebLegacyCompat
 
+Package: com.ps.githubweblegacycompat
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 16.4), com.ps.polyfills (>= 2.1.0)
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_2.1.1_iphoneos-arm64.deb
+Size: 83516
+MD5sum: 2172cc5dee4ad030594a2fba25f06820
+SHA1: 45a149caf31d77f2c44e877fb8c8b99f136eb1b4
+SHA256: e5ddb47c85e9d7537b6eec0310812d789e6f300fcadc60099e14a8676746a9f3
+Section: Tweaks
+Description: 通过注入已移除不支持语法的 CSS，使 GitHub 网站在 iOS 15.8 及更低版本上更易于访问。
+ * Makes GitHub website more accessible on iOS < 16.4
+Author: PoomSmart
+Icon: https://imgs.8235467.xyz/file/github.png
+Name: GitHubWebLegacyCompat
+
 Package: com.ps.polyfills
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4687,6 +4705,23 @@ Size: 58804
 MD5sum: 2716783e07c87dcbc8ed535e8c42b6f0
 SHA1: ed510d4a85a9869fc08a857ed5d009b1407ccbb3
 SHA256: 30c38a8c1580dfcd81aedf239f3118f1790685cd313d89fa364d285a4023af8e
+Section: Tweaks
+Description: 为旧版本 iOS 上无法使用的某些 JavaScript 功能提供多填充。查看本页，了解建议启用的 WebKit 实验性功能，以进一步增强网络兼容性。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于这些版本不再提供必要的 polyfills，很多网站都会直接停止在这些版本上运行。避免在 iOS 15 及更低版本上安装 1.5.0 至 1.9.0 版本，因为存在 CPU 占用率高的错误。
+ * Injects JavaScript Polyfills to iOS web views.
+Author: PoomSmart
+Name: Polyfills
+
+Package: com.ps.polyfills
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ps.polyfills_2.2.0_iphoneos-arm64.deb
+Size: 60128
+MD5sum: d8cce56e474b293228bf4393f2687471
+SHA1: 95d48c888568e1d322b69e5d8fd24874286f0ba9
+SHA256: b48ed4020e1dcc0c272f1fc454b03250cdf4cdef1faa63b6a5159d8233991939
 Section: Tweaks
 Description: 为旧版本 iOS 上无法使用的某些 JavaScript 功能提供多填充。查看本页，了解建议启用的 WebKit 实验性功能，以进一步增强网络兼容性。直到 2025 年，iOS 15 及更低版本都被视为 "旧版本"。由于这些版本不再提供必要的 polyfills，很多网站都会直接停止在这些版本上运行。避免在 iOS 15 及更低版本上安装 1.5.0 至 1.9.0 版本，因为存在 CPU 占用率高的错误。
  * Injects JavaScript Polyfills to iOS web views.
