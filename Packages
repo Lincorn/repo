@@ -3689,6 +3689,42 @@ Author: Ruphane
 Name: AirPods PodsGrant
 Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
 
+Package: com.lns.pogr
+Version: 0.5.0
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.5.0_iphoneos-arm64.deb
+Size: 75176
+MD5sum: 52ee0f8c161e1b66486739d79fdd36e6
+SHA1: c7a24ead3988cb5e0faf8d83fa0bce8856cf0055
+SHA256: c1f800deb1828a5d21c18c790eab560670670041eef83b65d28b763a22825448
+Section: Tweaks
+Description: Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://imgs.8235467.xyz/file/AirPods.png
+Name: PodsGrant
+Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
+
+Package: com.lns.pogr
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.5.1_iphoneos-arm64.deb
+Size: 75164
+MD5sum: 20945634901feccc09a4e8b524d131ec
+SHA1: 4f15535db5c62c8499d0a01ce7038e40f1359753
+SHA256: 4f8f711983e93c90fdf55cb148721ad73d6e1c68ecc764c032bf59b67fdab3f5
+Section: Tweaks
+Description: Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://imgs.8235467.xyz/file/AirPods.png
+Name: PodsGrant
+Sileodepiction: https://sileodepiction.8235467.xyz/PodsGrant/js.json
+
 Package: com.lxcloud.WCEhance
 Version: 1.1-8
 Architecture: iphoneos-arm64
