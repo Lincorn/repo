@@ -6400,6 +6400,23 @@ Description: 基于iOS墓碑机制的后台应用留存增强插件,基于 ios �
 Author: Your Name
 Name: BackgroundRetainer
 
+Package: com.wechat.enhance
+Version: 1.4-8
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.wechat.enhance_1.4-8_iphoneos-arm64.deb
+Size: 489868
+MD5sum: 49696b4ed874dbfc75665ba98ca27828
+SHA1: 78868095504ec44dc578f3f015a0e028a32063a2
+SHA256: 5eea377b8efec4780cdbdb4615b8809c663b66fe3bc03d6b7483e9beb7e5311c
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Name: 微信增强Enhance
+Sileodepiction: https://sileodepiction.8235467.xyz/Enhance/js.json
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
