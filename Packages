@@ -4611,6 +4611,24 @@ Author: PoomSmart
 Icon: https://imgs.8235467.xyz/file/github.png
 Name: GitHubWebLegacyCompat
 
+Package: com.ps.githubweblegacycompat
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 2144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 16.4), com.ps.polyfills (>= 2.1.0)
+Filename: ./debs/iphoneos-arm64/com.ps.githubweblegacycompat_2.3.0_iphoneos-arm64.deb
+Size: 318876
+MD5sum: ea1772aef77fe3fb4dd125e61e6b8810
+SHA1: 8b2d09810c67517353d0f7a637a548bc2abf4a92
+SHA256: b8ec84f04f06ea82b95dc621184b5154189ff667d1e246e389096c0a0c160d5a
+Section: Tweaks
+Description: 通过注入已移除不支持语法的 CSS，使 GitHub 网站在 iOS 16.3 及更低版本上更易于访问。
+ * Makes GitHub website more accessible on iOS < 16.4
+Author: PoomSmart
+Icon: https://imgs.8235467.xyz/file/github.png
+Name: GitHubWebLegacyCompat
+
 Package: com.ps.polyfills
 Version: 1.0.0
 Architecture: iphoneos-arm64
