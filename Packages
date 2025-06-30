@@ -6486,6 +6486,23 @@ Author: 愫 茶
 Name: 微信增强Enhance
 Sileodepiction: https://sileodepiction.8235467.xyz/Enhance/js.json
 
+Package: com.wechat.enhance
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.wechat.enhance_1.4-9_iphoneos-arm64.deb
+Size: 499008
+MD5sum: cb7c1dc4bbaf35b734283d34f488d24c
+SHA1: e7786eda5b9666cc97118f716bd7bb4ecbc5e910
+SHA256: edbacf69499548ce7604c09fe49ffbfe9b4849207bc27893bfa3a91d8938845b
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Name: WeChatEnhance
+Sileodepiction: https://sileodepiction.8235467.xyz/Enhance/js.json
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
