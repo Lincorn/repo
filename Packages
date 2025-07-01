@@ -3482,6 +3482,23 @@ Author: huami
 Icon: https://imgs.8235467.xyz/file/dy.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy
+Version: 2.2-8-0701
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2484
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8-0701_iphoneos-arm64.deb
+Size: 492844
+MD5sum: 0ef22cf65f28aa2ec95fff6922c9cccc
+SHA1: 1f4a930c639d4d41392e8e36c0e1e87f1a5c5279
+SHA256: 8f652aa5a99f329c6606946c8196e0fd4d74d5d92dd7210df494a148e66aafee
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://imgs.8235467.xyz/file/dy.png
+Name: 抖音魔术师
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -7156,6 +7173,25 @@ Description: 强制低系统版本的越狱设备使用ID购买高版本应用�
  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
 Name: appstoretroller
+
+Package: dev.traurige.batterybuddy
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: ./debs/iphoneos-arm64/dev.traurige.batterybuddy_1.3.5_iphoneos-arm64.deb
+Size: 36744
+MD5sum: 31fce8267982487c65b2927fa56d5671
+SHA1: 14eaf3eb7686da636b27c338d393d1e536432b5a
+SHA256: 9b087fc45f714d7832c595c0a0d3721cc7f4f64d59d58125e1d0781fc5fd21c1
+Section: Tweaks
+Description: 电池电量指示器，但很可爱
+ * Battery indicator, but cute
+Author: Traurige & neilsardesai <hello@traurige.dev>
+Icon: https://imgs.8235467.xyz/file/bby.png
+Name: BatteryBuddy
 
 Package: misakahelper
 Version: 2.1-0
