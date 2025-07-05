@@ -3433,6 +3433,23 @@ Author: huami
 Name: 抖音魔术师
 
 Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2536
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 498436
+MD5sum: fee9fb776af419613b5bb02a69456ad0
+SHA1: 8236745b43e28c7365a6ec13448bd4b65ab0b7a3
+SHA256: 2faa9ffdefe262d375c223f4f16ab5610e49a5054a26e0ad7899f6999c98f49c
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://imgs.8235467.xyz/file/dy.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
 Version: 2.2-8-0612
 Architecture: iphoneos-arm64
 Maintainer: huami
@@ -6340,6 +6357,24 @@ Size: 4007472
 MD5sum: d24373ef38b10b7ddb1d4f35b7fae036
 SHA1: a90866034701570d090c4a5f83d75fb53ed2f4bf
 SHA256: 58c48e3477d33b9352ee3d85967b600364d1437475eb0a1681078695bd0e1b6b
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://imgs.8235467.xyz/file/zthz.png
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.8235467.xyz/com.tencent.themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.0.9-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 9516
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.0.9-1_iphoneos-arm64.deb
+Size: 4175644
+MD5sum: 35699034cecde379f7cb28c28ff8f1f5
+SHA1: c8f3987b1560b8558438cb08c44cbfddaf7eb66d
+SHA256: 53d170cd5a6b1def0ab21c91e000ba33343a2b522fa2fea1892388eedca0e092
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
