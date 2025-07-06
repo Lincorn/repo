@@ -3810,6 +3810,24 @@ Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122
 Name: 微信增强
 Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
 
+Package: com.lxcloud.WCEhance
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhance_1.1-9_iphoneos-arm64.deb
+Size: 2050988
+MD5sum: ee98798f889618ca480810ad948c0a2d
+SHA1: 6c3e5d6261b2e3d981a17ec5fe1f132ebed30a60
+SHA256: 683ee201cfeba0f47135836d4b6a223afed55e7cf7599f98e4d56b04a1afc55c
+Section: Tweaks
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122.png
+Name: 微信增强
+Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
+
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
 Architecture: iphoneos-arm64
