@@ -2220,6 +2220,24 @@ Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
 Name: floatingView
 Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3188
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-5_iphoneos-arm64.deb
+Size: 622808
+MD5sum: 1fbb3bd34549e235197425e244b10068
+SHA1: a7674b08e27865e9fc4980df16be52843c209ead
+SHA256: bf1b56975b4aa58449b38aa31d25d962afc0505d1c18890929b865fea910a4a8
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.8235467.xyz/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
