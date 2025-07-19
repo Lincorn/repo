@@ -3642,6 +3642,23 @@ Author: huami
 Icon: https://imgs.8235467.xyz/file/dy.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy
+Version: 2.2-8-0719
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2536
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8-0719_iphoneos-arm64.deb
+Size: 507736
+MD5sum: d78891eb4960c054199c192a60374e02
+SHA1: 51166086339dc193796724cade0f728ad3d2ad01
+SHA256: 07855be6bda5ff543b1299ae0085d768240f8d6e50d0d3f82ba548217a85b4f8
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: 抖音魔术师
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -6677,6 +6694,24 @@ Size: 50128
 MD5sum: 5e488fd622888e7da2fdbef5d2415077
 SHA1: bcc3d67087a2b59bea1c3bf4f9bc99d6787fdeb3
 SHA256: 497a56463422da4d742a958c8c1fb3f324f21b84bc6d195c235b87642015118f
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: Yuki抖音防撤回
+
+Package: com.vita.yuki
+Version: 0.0-8-1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.vita.yuki_0.0-8-1_iphoneos-arm64.deb
+Size: 54164
+MD5sum: 1e86b6b7f6d837c580fde532757b1ace
+SHA1: 19dc40162f8ef649b556863bce28d722f6fd3133
+SHA256: 218b867975e042fbf54386fd807d1584404cdd1f2cfc18979a4656ca8dea6340
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/wtrwx
