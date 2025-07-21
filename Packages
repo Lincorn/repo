@@ -118,6 +118,27 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: ThemePro
+Version: 3.9.8
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/iphoneos-arm64/ThemePro_3.9.8_iphoneos-arm64.deb
+Size: 5785528
+MD5sum: 62fb412d8ab77cb23b193d59c9607f0b
+SHA1: 28af2b170d2bbec5d9b5d57c54506f5c69036df8
+SHA256: b894b1a3dccad2aff9086836a8a37869387b12aa6c337567c1b2ef971a8a3c7d
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Name: ThemePro
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
 Package: byg.iosios.net.susudaynightswitch
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -7385,6 +7406,24 @@ Section: 微信插件
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-3.9.1-Rootless
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
+Package: com.yourepo.themepro.themepro-316-rootless
+Version: 3.9.8
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-316-rootless_3.9.8_iphoneos-arm64.deb
+Size: 5795688
+MD5sum: 997e60b49f1bf64d43770b4b057e6b5b
+SHA1: b79025a1ba8fd5600a80f522313159b04e9cb6a7
+SHA256: b9d9fa61794cc804ac591235bd3d03481c720c49c7a90df4a1c7d7d4e920ddd3
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro
 Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
 
 Package: datasource
