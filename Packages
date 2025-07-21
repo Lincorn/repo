@@ -2677,6 +2677,24 @@ Description: 在资料库中隐藏私人照片使用 Face ID、Touch ID 或密�
 Author: MrDeNsor
 Name: Blurify6 相册内隐私加锁
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 28576
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.0.8_iphoneos-arm64.deb
+Size: 10523772
+MD5sum: 8132309e551523d86d16d2ef8bb29b22
+SHA1: 195ff2d26c559d3ded24c0c917970d97ad12a055
+SHA256: 2320b1ba860be229b768c8d29775f7fd20062724c4fac481e258d27c871879e7
+Section: Tweaks
+Description: 锤子助手插件
+ * 1:1复刻“微信净化”插件,保留红包功能注意
+ * 不可与“微信净化”共存
+Author: DumpApp
+Name: 锤子助手
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.6
 Architecture: iphoneos-arm64
