@@ -2674,6 +2674,24 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 28608
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.0.9_iphoneos-arm64.deb
+Size: 10521528
+MD5sum: 6a08223d7fdd667b85b4d113d9621233
+SHA1: 20819b168fc30f8f0855f6440503b7678f86632e
+SHA256: 8ab9dee36afc813303e1ebb4442a6138549ae4434e3cd9909e121d4b7df9cf1b
+Section: 微信插件
+Description: 锤子助手插件
+ * 1:1复刻“微信净化”插件,保留红包功能注意
+ * 不可与“微信净化”共存
+Author: DumpApp
+Name: 锤子助手
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.6
 Architecture: iphoneos-arm64
