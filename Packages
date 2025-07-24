@@ -2710,6 +2710,21 @@ Description: 微信多功能插件
 Author: DumpApp
 Name: 锤子助手
 
+Package: com.hk.copylog.cn.rl
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hk.copylog.cn.rl_1.deb
+Size: 7040
+MD5sum: 6de36de24aad4f82b13d6826a851177a
+SHA1: dd628a29ff6f948536d7e3ca8c7df676a010ad30
+SHA256: f63b6a0ab4548fe81e9f7e9d4b5f36f0a633ddc223c77591cf2d3f811507df98
+Section: 嗨-汉化
+Description: CopyLog 简体中文包(rootless)。
+Author: 刀刀
+Name: CopyLog 简体中文包
+
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -7563,6 +7578,25 @@ Description: 电池电量指示器，但很可爱
 Author: Traurige & neilsardesai <hello@traurige.dev>
 Icon: https://imgs.8235467.xyz/file/bby.png
 Name: BatteryBuddy
+
+Package: me.tomt000.copylog
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 5880
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/iphoneos-arm64/me.tomt000.copylog_1.7_iphoneos-arm64.deb
+Size: 2277368
+MD5sum: d5d2f428370929bed85305ae946f5ba1
+SHA1: e076119340cce2ce1982fb4db5c35d7dc3adfa59
+SHA256: b21febe62453dbb03b9e3335e9f0f27b5b052b2306dd314079990e8fd3102812
+Section: Tweaks
+Description: 剪切板作者免费发布，备份上架
+ * Clipboard history manager for iOS!
+Author: TomT000
+Icon: https://imgs.lemonas.us.kg/file/copylog.png
+Name: CopyLog
 
 Package: misakahelper
 Version: 2.1-0
