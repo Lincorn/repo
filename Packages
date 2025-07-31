@@ -2785,6 +2785,41 @@ Description: 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Name: DYYY
 
+Package: com.huami.WCPulse
+Version: 1.1-5+fix2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.1-5+fix2_iphoneos-arm64.deb
+Size: 105588
+MD5sum: 27f6537e14c7fd09b16002dd2baf9da0
+SHA1: 0f979f42208c51a5bfaf7c985ce99bb93ea10801
+SHA256: 66e441b3f0338e85786f0dffc102cc0bbc732ddaedd6953761afd191eb4a08e3
+Section: 微信插件
+Description: WCPulse
+ * 作者 huami
+ * 新增分组类tg的标签栏
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse.low
+Version: 1.1-5+fix2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse.low_1.1-5+fix2_iphoneos-arm64.deb
+Size: 105612
+MD5sum: e065ca2895f947a444375102af21d4d1
+SHA1: 18911948d6b6ab20e25207e2898584b5653f8b72
+SHA256: 723b51509c693e72c4b295a559a69956448e204d3b026daac87bbda2db1053c6
+Section: 微信插件
+Description: WCPulse
+ * 低版本微信特供包8.0.(31、49)特供版,点击聊天闪退的食用,原因是因为访问了一个高版本才有的方法导致异常
+Author: huami
+Name: WCPulse（支持低版本微信）
+
 Package: com.huami.dyyy
 Version: 1.6-2
 Architecture: iphoneos-arm64
