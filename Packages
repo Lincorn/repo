@@ -2803,6 +2803,24 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.1-6_iphoneos-arm64.deb
+Size: 118436
+MD5sum: 86005ff165cc53555ff95e04d92e840c
+SHA1: f2b8095167bac866757232a688079e0705ab414c
+SHA256: bd716db6895071d5ce35f039609fef36bd5700d6d0173ff8f9a5d19c92ba1a9b
+Section: 微信插件
+Description: WCPulse
+ * 作者 huami
+ * 新增分组类tg的标签栏
+Author: huami
+Name: WCPulse
+
 Package: com.huami.WCPulse.low
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64
@@ -3792,6 +3810,23 @@ Section: 抖音插件
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-8-0801
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2600
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8-0801_iphoneos-arm64.deb
+Size: 512696
+MD5sum: 35643ab7bfbd21305a1c1b0bf100ceb4
+SHA1: c22a5389683f9541267843973517d5b44a51202c
+SHA256: c5d16ba9dfd56e3b426a0b3f16b731063256266aa1a91dba5ca8bb20f5b29e0d
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://imgs.lemonas.us.kg/file/dy.png
 Name: 抖音魔术师
 
 Package: com.hui.instalauncher2.zh-hans
