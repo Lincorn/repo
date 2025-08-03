@@ -2837,6 +2837,22 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 760
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.1-9_iphoneos-arm64.deb
+Size: 141440
+MD5sum: 1e658ff18c8b515cd2c44569bc6d9826
+SHA1: e210c0c0f32c374435b61482219addc9f303a3c9
+SHA256: f063c48eb0d0b56d68d28aa73cda2d79760d03390d3650e1213fd56656cee1db
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.WCPulse.low
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64
@@ -4167,6 +4183,24 @@ Size: 1491376
 MD5sum: ff9ed801c8f6c2cfebb6b40bf1ba87f5
 SHA1: 12481b08198f2b1f883529c146a5cb843dbb81dc
 SHA256: c532bcb930f4a36b5b96254dcbef9bb95475b91540b231a55347317c1d07103f
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122.png
+Name: 微信增强
+Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
+
+Package: com.lxcloud.WCEhance
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhance_1.2-1_iphoneos-arm64.deb
+Size: 1651840
+MD5sum: d8d3eea28f39a65914d6f534676e0989
+SHA1: 7f838a2c47b472879a7c45ccc1077c51cbd3737d
+SHA256: b0ac6589ed7c023e63ca19c2b6a01c76a1ab5a42f7f25cef24a89812adb08013
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
