@@ -505,6 +505,23 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 Sileodepiction: https://sileodepiction.8235467.xyz/SingleVPN/js.json
 
+Package: com.82flex.singlevpn
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_1.6_iphoneos-arm64.deb
+Size: 28968
+MD5sum: fc8d3ffecb9afb3ae17c58a9dda4ab58
+SHA1: 6bebbed452c4cc2cfc28d58b78d6fa0167b2529d
+SHA256: 4248f502f2f3b88f13219dcda24b348aca93638b7ff7e99fbc6b7a101ba6c8cc
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+Sileodepiction: https://sileodepiction.8235467.xyz/SingleVPN/js.json
+
 Package: com.BeanbunsHelpers.DB
 Version: 1.0-4
 Architecture: iphoneos-arm64
