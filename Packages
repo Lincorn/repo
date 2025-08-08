@@ -2870,6 +2870,22 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 892
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.2-2_iphoneos-arm64.deb
+Size: 170444
+MD5sum: a3e93b4a4e6ba3d7fc6ce834cdd05e23
+SHA1: 6bd775f562c563f8ac79ec2a52176854065631c5
+SHA256: e249e088fb0251ba65df1697c5ec759de733ca8b333a6ed8076b76d3522e80a8
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.WCPulse.low
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64
