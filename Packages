@@ -6965,6 +6965,23 @@ Icon: https://imgs.lemonas.us.kg/file/zthz.png
 Name: 主题盒子
 Sileodepiction: https://sileodepiction.lemonas.us.kg/com.tencent.themebox/js.json
 
+Package: com.tencent.themebox
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.1.5_iphoneos-arm64.deb
+Size: 4703460
+MD5sum: 245be9acc6d406c04b9aa45b0aa8e1d7
+SHA1: 587b875a0613e0ccef9b0bcef01f6f3b505e60d8
+SHA256: b277c5cacfe118474fe846f6a1d14835f7f74ba16b6835df8e2f1796ec462eb3
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://imgs.lemonas.us.kg/file/zthz.png
+Name: 主题盒子
+Sileodepiction: https://sileodepiction.lemonas.us.kg/com.tencent.themebox/js.json
+
 Package: com.tiaotiao.wcaddborders
 Version: 1.2
 Architecture: iphoneos-arm64
