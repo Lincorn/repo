@@ -2973,6 +2973,27 @@ Description: WCPush2Chat
 Author: huami
 Name: WCPush2Chat微信消息直达
 
+Package: com.huami.WCPush2Chat
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPush2Chat_1.0-2_iphoneos-arm64.deb
+Size: 35816
+MD5sum: bd7be68767949eb1f8856093105811cd
+SHA1: a3d3739d0e7c25f2a4d402bb847ecb86a44d3850
+SHA256: 75aed8dfb91399fc3ba342fb852643731534a524863c46271a382b21c3746b0b
+Section: 微信插件
+Description: WCPush2Chat微信消息直达
+ * 微信消息直达
+ * 无后台/后台直达通知对应的消息界面
+ * 前台不会重复跳转，初版有问题自测
+ * 无需 Orion Swift 依赖
+ * 仅在8.0.61 测试 理论上支持 31+
+Author: huami
+Name: WCPush2Chat
+
 Package: com.huami.dyyy
 Version: 1.6-2
 Architecture: iphoneos-arm64
