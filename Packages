@@ -5642,6 +5642,25 @@ Description: 修复 “已知问题”
 Author: pxx917144686
 Name: Surge++
 
+Package: com.shtm.neowave16
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 8756
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.shtm.neowave16_1.0.0_iphoneos-arm64.deb
+Size: 8311144
+MD5sum: e31886a2d5fce1abcda01d85a6a33917
+SHA1: 3e2138e617ba5c3b2557d441db34fb84f01d79fa
+SHA256: dbfefa806b3666b853d00770bdd87acdb07bbc60761f1814388e0837ead5baf5
+Section: Tweaks
+Description: Siri唤醒显示色彩渐变边缘动画
+Author: SHTM
+Depiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
+Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
+Name: NeoWave16
+Sileodepiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
