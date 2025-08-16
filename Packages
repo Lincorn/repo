@@ -2950,6 +2950,22 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 924
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.2-4_iphoneos-arm64.deb
+Size: 175348
+MD5sum: 348ea8b8dba34585425653f108621c6c
+SHA1: a9f64303bef0d721f083fe70cc4542971ab0e93d
+SHA256: 7317088a27b33775f97af25acf8ad75b08ac1c2dafcd39898542f35e84de475e
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.WCPulse.low
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64
@@ -7935,6 +7951,24 @@ Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro
 Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
+Package: com.yourepo.themepro.themepro-316-rootless
+Version: 4.0.9
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-316-rootless_4.0.9_iphoneos-arm64.deb
+Size: 6219292
+MD5sum: 7f80137a0ed1b65496cc35832bb9d22e
+SHA1: 4905314f6a411bde5b11cc191ebc2b22a8bbb636
+SHA256: 6c3f9ea94c8d5421482d2f2a0de8be52119867a8a4fb370cf65cff3ff4f855fa
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro
+Sileodepiction: https://sileodepiction.lemonas.us.kg/Themepro/js.json
 
 Package: datasource
 Version: 1.0-2+debug
