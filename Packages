@@ -6545,6 +6545,23 @@ Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 酸果 - Rootless
 
+Package: com.sutuplus.releasefugu15
+Version: 5.9.9-4-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1780
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15_5.9.9-4-1_iphoneos-arm64.deb
+Size: 516552
+MD5sum: dff92810b35b04c738768ca335611b58
+SHA1: e0f7c3858953840e3b56b783a1d6d62cb8ebfaac
+SHA256: 6e1369a0328b1c63f0336015f95ed9dbbb34ca17d78baf74360769fb91e12a54
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - Rootless
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
