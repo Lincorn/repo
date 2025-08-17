@@ -8022,6 +8022,24 @@ Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro
 Sileodepiction: https://sileodepiction.lemonas.us.kg/Themepro/js.json
 
+Package: com.yourepo.themepro.themepro-316-rootless
+Version: 4.1.0
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-316-rootless_4.1.0_iphoneos-arm64.deb
+Size: 6261776
+MD5sum: c4f13dccbc98de7231bec5663a45202d
+SHA1: 87af21329437827360bbe5fdf7689daf42fecfb2
+SHA256: 17b058fa5cf789044498cfe8b51786c2009c931e8ae8a3d5af723c88d5990fa4
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-4.1.0-Rootless
+Sileodepiction: https://sileodepiction.8235467.xyz/Themepro/js.json
+
 Package: datasource
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
