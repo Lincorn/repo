@@ -401,6 +401,23 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手
 
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootless_0.deb
+Size: 19648
+MD5sum: 90cf0f768e2621f219ed1b856497ea5f
+SHA1: 1f6af069d6bc0ab6da47f318f959e522b5687bc8
+SHA256: ecbc7732e4134e95dc2b000e25ffcd52ddab47eadf5a81ec7ba8bf0cfeb5240e
+Section: 微信插件
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.82flex.singlemute
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -6492,6 +6509,23 @@ Description: 抖音可隐藏移除Aweme多项无用功能任意界面双指双�
 Author: susu
 Icon: https://www.susubaby.top/images/douyin.png
 Name: SuAwemeHook
+
+Package: com.sutuplus.releasefugu15
+Version: 5.9.9-3-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1780
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15_5.9.9-3-1_iphoneos-arm64.deb
+Size: 516504
+MD5sum: e2b8ca7c7b2a8bf915cbbf8ef8a51778
+SHA1: ed077218c8c28b9344fc93067d67dea52209c62d
+SHA256: 921e1771ddfca59742e351679e8f91d46223b2eeecae3cf14b542292c250ca85
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - Rootless
 
 Package: com.tencent.themebox
 Version: 1.0.1-1
