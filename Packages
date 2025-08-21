@@ -7370,6 +7370,25 @@ Description: 免费插件，随缘更新。
 Author: vita
 Name: Yuki抖音防撤回
 
+Package: com.vita.yuki
+Version: 0.0-8-1.1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.vita.yuki_0.0-8-1.1_iphoneos-arm64.deb
+Size: 54108
+MD5sum: a930b3186bee8c621322c388cd2aa2b8
+SHA1: 9f7bb3678dfa79fd988446a86b6d91629a31d573
+SHA256: df0f1485ecd28cd948937cb0480c82ad0dc94768a9cfcb8b1471f498d186c50c
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: Yuki抖音防撤回
+
 Package: com.wangdonghua.backgroundretainer
 Version: 0.0.1-7
 Architecture: iphoneos-arm64
