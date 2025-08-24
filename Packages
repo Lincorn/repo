@@ -708,6 +708,21 @@ Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
+Package: com.HBWechatHelper.ailun
+Version: 1.9.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.2_iphoneos-arm64.deb
+Size: 12099164
+MD5sum: 206b541c4b1048476bba272c815fbeb8
+SHA1: 292ef14bf633b4c714efd171975706c871567f4a
+SHA256: a2afdcfa29aae774975663251766f33925955173ef8a4f7874823e513e5898cf
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
 Package: com.Oxkuj.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
