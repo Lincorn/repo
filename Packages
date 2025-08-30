@@ -7,14 +7,14 @@ Depends: mobilesubstrate
 Conflicts: MikotoHelper
 Replaces: MikotoHelper
 Provides: MikotoHelper
-Filename: ./debs/iphoneos-arm64/MikotoHelper_1.3.6_无根_官方体验版.deb
-Size: 20604072
-MD5sum: cb60bc3156b4928283a4fd2d81a92ea7
-SHA1: fdf3301a350e187a3fcf5502af6e690d7c204707
-SHA256: 805e6f70daaa415aaeedac59ec02dd505c285ec64770a5582a043bb652e65bfd
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64/MikotoHelper_1.3.6_iphoneos-arm64.deb
+Size: 21111612
+MD5sum: cfdc42919ca904a50b069680ba7470d2
+SHA1: 0d3683ae373ce681da895edef1976534f76053ae
+SHA256: 3548a4faa6e4c91146af48a24921fd64d5f7e10f07df669985230d0879b9121f
+Section: 微信插件
 Priority: optional
-Description: MikotoHelper
+Description: Mikoto插件不能与Misaka插件共存,需要卸载Misaka插件使用,但是插件设置可以通用。本插件不允许注入任何修改插件信息的插件。本插件不允许修改插件名字。以上都会有可能使得微信闪退。部分功能也有可能与其它插件冲突,一切问题需要自己解决!!也不会更新!!扩展功能:DeepSeek,转发朋友圈,自动跟圈,行星布局修改,美化功能,日月开关,视频套壳,视频背景,禁用热更新,朋友小尾巴,等等等等....
 Author: Mikoto
 Name: MikotoHelper
 
@@ -27,14 +27,14 @@ Depends: mobilesubstrate
 Conflicts: MikotoHelper
 Replaces: MikotoHelper
 Provides: MikotoHelper
-Filename: ./debs/iphoneos-arm64/MikotoHelper_1.3.6_iphoneos-arm64.deb
-Size: 21111612
-MD5sum: cfdc42919ca904a50b069680ba7470d2
-SHA1: 0d3683ae373ce681da895edef1976534f76053ae
-SHA256: 3548a4faa6e4c91146af48a24921fd64d5f7e10f07df669985230d0879b9121f
-Section: 微信插件
+Filename: ./debs/iphoneos-arm64/MikotoHelper_1.3.6_无根_官方体验版.deb
+Size: 20604072
+MD5sum: cb60bc3156b4928283a4fd2d81a92ea7
+SHA1: fdf3301a350e187a3fcf5502af6e690d7c204707
+SHA256: 805e6f70daaa415aaeedac59ec02dd505c285ec64770a5582a043bb652e65bfd
+Section: Tweaks
 Priority: optional
-Description: Mikoto插件不能与Misaka插件共存,需要卸载Misaka插件使用,但是插件设置可以通用。本插件不允许注入任何修改插件信息的插件。本插件不允许修改插件名字。以上都会有可能使得微信闪退。部分功能也有可能与其它插件冲突,一切问题需要自己解决!!也不会更新!!扩展功能:DeepSeek,转发朋友圈,自动跟圈,行星布局修改,美化功能,日月开关,视频套壳,视频背景,禁用热更新,朋友小尾巴,等等等等....
+Description: MikotoHelper
 Author: Mikoto
 Name: MikotoHelper
 
@@ -1859,23 +1859,6 @@ Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.
 
 Package: com.be-huge.floating-view
 Version: 1.5.4
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 3176
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4_iphoneos-arm64.deb
-Size: 582036
-MD5sum: 8027b6b8ea164b0167b9d787f7c3247a
-SHA1: 4a6698a04417b8ee8d67b99386bff122d8679bf3
-SHA256: 9430f207070c156a83601b64e06cb29591e4c9750cd8e1bbfd2d2532ce5c558a
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
-
-Package: com.be-huge.floating-view
-Version: 1.5.4
 Architecture: iphoneos-arm64e
 Maintainer: be-huge
 Installed-Size: 3176
@@ -1892,6 +1875,23 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
+Version: 1.5.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4_iphoneos-arm64.deb
+Size: 582036
+MD5sum: 8027b6b8ea164b0167b9d787f7c3247a
+SHA1: 4a6698a04417b8ee8d67b99386bff122d8679bf3
+SHA256: 9430f207070c156a83601b64e06cb29591e4c9750cd8e1bbfd2d2532ce5c558a
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
+Package: com.be-huge.floating-view
 Version: 1.5.4-1
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -1902,23 +1902,6 @@ Size: 575104
 MD5sum: 2629a3b737c72831df614c33f7e36295
 SHA1: ec1e255c6f4d109f0f7b3b1a48d119d99bedcaea
 SHA256: 3cc372543ec5a04c8091d1c05a66b09daed4c82bd0a2dc323d557b9bd61e93e1
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
-
-Package: com.be-huge.floating-view
-Version: 1.5.4-2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 3212
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-2_iphoneos-arm64.deb
-Size: 588820
-MD5sum: 69ad039a207e9f46efa67586855351d6
-SHA1: 83b655ca9bf9708b0bd89180e0eba70293fa9ac9
-SHA256: 0af516caa35a5e1127eb90022785ae983d81a12c822ddb904b9834318df402a4
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -1943,16 +1926,16 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
-Version: 1.5.4-3
+Version: 1.5.4-2
 Architecture: iphoneos-arm64
 Maintainer: be-huge
-Installed-Size: 3228
+Installed-Size: 3212
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-3_iphoneos-arm64.deb
-Size: 592180
-MD5sum: 2352c71147432d763a056d8958327cdf
-SHA1: fa7a25a70019ddc17fb4050ee61d3a105000542c
-SHA256: e652098eef24b51e197afdb07205fb5c2487768d5584eec18b34948d62154f92
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-2_iphoneos-arm64.deb
+Size: 588820
+MD5sum: 69ad039a207e9f46efa67586855351d6
+SHA1: 83b655ca9bf9708b0bd89180e0eba70293fa9ac9
+SHA256: 0af516caa35a5e1127eb90022785ae983d81a12c822ddb904b9834318df402a4
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -1977,16 +1960,16 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
-Version: 1.5.4-4
+Version: 1.5.4-3
 Architecture: iphoneos-arm64
 Maintainer: be-huge
-Installed-Size: 3212
+Installed-Size: 3228
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-4_iphoneos-arm64.deb
-Size: 591036
-MD5sum: fe6aa57e31ccf82795c7448f50ab2f3c
-SHA1: 72aaa6d92220869343eba69329997a5cf1af5656
-SHA256: 0d310276c05bbbbb401ca8153e8779738c8393050d559375cb90c3c59d4868ea
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-3_iphoneos-arm64.deb
+Size: 592180
+MD5sum: 2352c71147432d763a056d8958327cdf
+SHA1: fa7a25a70019ddc17fb4050ee61d3a105000542c
+SHA256: e652098eef24b51e197afdb07205fb5c2487768d5584eec18b34948d62154f92
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -2005,6 +1988,23 @@ Size: 594560
 MD5sum: c953a381793040d2bf72d759384ed9c4
 SHA1: c3fca6590ca1f22247262a06b5b8a78dd74a13a1
 SHA256: 101522f9fa887a983e176790c0359ce06c5d14e69a6fe2d7888fec76a45d0b61
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://sileodepiction.8235467.xyz/com.be-huge.floating-view/js.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.4-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.4-4_iphoneos-arm64.deb
+Size: 591036
+MD5sum: fe6aa57e31ccf82795c7448f50ab2f3c
+SHA1: 72aaa6d92220869343eba69329997a5cf1af5656
+SHA256: 0d310276c05bbbbb401ca8153e8779738c8393050d559375cb90c3c59d4868ea
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -2421,6 +2421,24 @@ Size: 626560
 MD5sum: a0951277569cea4f3fa48b36e63a7981
 SHA1: 40ed3986da16215c8794bce203fdcae3fcf5f4a3
 SHA256: 65b7d279ee9f0c98dc159e8465f3c85eb8e252aef3c07a560175d0b0a05ac4e4
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.lemonas.us.kg/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.lemonas.us.kg/com.be-huge.floating-view/js.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-8
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-8_iphoneos-arm64.deb
+Size: 628520
+MD5sum: 0c49892c6f53e4699d214682002e6ad0
+SHA1: 14c9854d062144da0fdfa408e33e69a57564c176
+SHA256: a35cc933ae936a6ff24f806e0e846531134229366769a2d9cd0d3bee8cc65a0e
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -3534,29 +3552,13 @@ Package: com.huami.dyyy
 Version: 2.2-5
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 1980
+Installed-Size: 1944
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0430_无根.deb
-Size: 376998
-MD5sum: e8f5a38ff3414f1cdfaffb20ab12f8e8
-SHA1: 2d825d3ab3db6d14aed43a98b79ac1d4ef986c20
-SHA256: fbe15e46db6233cbf7954744a43458b39e4f057065f73c7064bd0b47638c0f00
-Section: Tweaks
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: 抖音魔术师
-
-Package: com.huami.dyyy
-Version: 2.2-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 1996
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0429_无根.deb
-Size: 380510
-MD5sum: bb35e155b961402070f4a3403c6c6d9e
-SHA1: 99091b679000e3f5a8478e164196f2f0293b1eb4
-SHA256: 6b4ee656a7b36f4a69912a8fd07d837b19e2a19770a77a2b1d51f5aa67ca0ebc
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0418End_无根.deb
+Size: 367414
+MD5sum: a884f6212ca60297c56be571f0dfaba6
+SHA1: 43582af965290f97b7de76709519c7c216495129
+SHA256: f6e0e9d9b4ca7cab463ef4639f22acfc1ac37e65e5ab14c8bbb3c9be9c67c973
 Section: Tweaks
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
@@ -3584,43 +3586,11 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 1980
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0428End_无根.deb
-Size: 374040
-MD5sum: aa83672e5d1108f1303869971cbffaf2
-SHA1: 067ec4bc032501ff45b8cf68d5b3bc32e00c2cfb
-SHA256: ea2d7921d0d46d75bbd92535a6f5f56429fbf09cf8eb4e275ca0c67480ce59ea
-Section: Tweaks
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: 抖音魔术师
-
-Package: com.huami.dyyy
-Version: 2.2-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 1996
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0429-1_无根.deb
-Size: 379580
-MD5sum: b108b16f0a1c0028f9482e67a5e52a16
-SHA1: f1a8933b68f248c93e7e6e81d36413c8460bab5e
-SHA256: edcccd68a5ae71b3310291968c8f14d32a582fbd225d26d2e48128f0ebfbb434
-Section: Tweaks
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: 抖音魔术师
-
-Package: com.huami.dyyy
-Version: 2.2-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 1944
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0418End_无根.deb
-Size: 367414
-MD5sum: a884f6212ca60297c56be571f0dfaba6
-SHA1: 43582af965290f97b7de76709519c7c216495129
-SHA256: f6e0e9d9b4ca7cab463ef4639f22acfc1ac37e65e5ab14c8bbb3c9be9c67c973
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0430_无根.deb
+Size: 376998
+MD5sum: e8f5a38ff3414f1cdfaffb20ab12f8e8
+SHA1: 2d825d3ab3db6d14aed43a98b79ac1d4ef986c20
+SHA256: fbe15e46db6233cbf7954744a43458b39e4f057065f73c7064bd0b47638c0f00
 Section: Tweaks
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
@@ -3653,6 +3623,54 @@ Size: 370484
 MD5sum: 8074a21daa1ec902a0e6cd01cfdfaa22
 SHA1: 6e07c92963c2ea39ccd9433dde7738fd85f1217e
 SHA256: 0fbc8f8946f25741bc39a07b72ff0647101035431a25658d44c7d4926ce983c2
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0429-1_无根.deb
+Size: 379580
+MD5sum: b108b16f0a1c0028f9482e67a5e52a16
+SHA1: f1a8933b68f248c93e7e6e81d36413c8460bab5e
+SHA256: edcccd68a5ae71b3310291968c8f14d32a582fbd225d26d2e48128f0ebfbb434
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0429_无根.deb
+Size: 380510
+MD5sum: bb35e155b961402070f4a3403c6c6d9e
+SHA1: 99091b679000e3f5a8478e164196f2f0293b1eb4
+SHA256: 6b4ee656a7b36f4a69912a8fd07d837b19e2a19770a77a2b1d51f5aa67ca0ebc
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1980
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/抖音魔术师2.2-5-0428End_无根.deb
+Size: 374040
+MD5sum: aa83672e5d1108f1303869971cbffaf2
+SHA1: 067ec4bc032501ff45b8cf68d5b3bc32e00c2cfb
+SHA256: ea2d7921d0d46d75bbd92535a6f5f56429fbf09cf8eb4e275ca0c67480ce59ea
 Section: Tweaks
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
