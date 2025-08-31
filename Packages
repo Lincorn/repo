@@ -3054,6 +3054,22 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 988
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.2-5_iphoneos-arm64.deb
+Size: 192724
+MD5sum: 8605ca48be8ad1566eec574dc0a7b93f
+SHA1: 8da1f06200a19ce758f8b1d7c7224710a5459384
+SHA256: 81746b53c09ad28b4813a41054996f7406191043ed7eea46ee0bfbf644ce843d
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
 Package: com.huami.WCPulse.low
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64
@@ -4659,6 +4675,23 @@ Author: Netskao
 Name: NoAppThinning
 Sileodepiction: https://lincorn.github.io/sileodepiction/NoAppThinning/js.json
 
+Package: com.netskao.qqnotiavatar
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 204
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+Size: 25640
+MD5sum: f491ab288635f9ca9d9c894b2603967a
+SHA1: 0e1b38c87681843e2f1ba5463d3dbe6de6148a74
+SHA256: 46a4784cfb5068e36e7b23a74eaeb6621421eb8046137b33d5e55cb04b143e5b
+Section: Netskao-Tweaks
+Description: 使用 iOS15+ API 为 QQ 应用程序显示通知头像
+ * Display Notification Avatars for QQ App using iOS15+ APIs
+Author: Netskao
+Name: QQ通知头像
+
 Package: com.netskao.wcmypageinfocenter
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -4852,6 +4885,23 @@ Description: 朋友圈小尾巴自定义
 Author: Netskao
 Name: 微信朋友圈小尾巴自定义
 Sileodepiction: https://sileodepiction.8235467.xyz/WCTimeLineMessageTail/js.json
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1244
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64.deb
+Size: 241916
+MD5sum: 052332af7d267f595a200ae7851216f0
+SHA1: 03c34c4b68a1a652d32286a3c9c515cf1d0fb71d
+SHA256: c35ecbd19380a69ac83978fb7524b8162b3b1ad15be1d5bc2b0af594ddc1aa4f
+Section: Netskao-Tweaks
+Description: 使用 iOS15+ API 为微信应用程序显示通知头像
+ * Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: 微信通知头像
 
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-2
