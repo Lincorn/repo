@@ -4887,6 +4887,22 @@ Name: 微信朋友圈小尾巴自定义
 Sileodepiction: https://sileodepiction.8235467.xyz/WCTimeLineMessageTail/js.json
 
 Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 523032
+MD5sum: 64b52074b27377e44632f1d26c15bc07
+SHA1: d8ca33fa44a56296b7f78c3f64b4470bd1a46867
+SHA256: ed7e1ce404db3a5c00dcacff16c5f3030785330c095475826c16d74fe74acbc5
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
 Version: 1.2-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
@@ -4897,6 +4913,23 @@ Size: 241916
 MD5sum: 052332af7d267f595a200ae7851216f0
 SHA1: 03c34c4b68a1a652d32286a3c9c515cf1d0fb71d
 SHA256: c35ecbd19380a69ac83978fb7524b8162b3b1ad15be1d5bc2b0af594ddc1aa4f
+Section: Netskao-Tweaks
+Description: 使用 iOS15+ API 为微信应用程序显示通知头像
+ * Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: 微信通知头像
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1228
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64.deb
+Size: 243624
+MD5sum: dd7606106977c72be5897ff3a993fc67
+SHA1: ff50d3445b5038f4c146b326bf715c4493ff1f11
+SHA256: 0b3ce611369dc952291dd6e54d12fd2133c6484abd8234a73935542991c81d38
 Section: Netskao-Tweaks
 Description: 使用 iOS15+ API 为微信应用程序显示通知头像
  * Display Notification Avatars for WeChat App using iOS15+ APIs
