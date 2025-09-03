@@ -2860,6 +2860,22 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 29936
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.1.1_iphoneos-arm64.deb
+Size: 10882232
+MD5sum: 4f3ffd026aa16c647e3bf6fef4ce3dc4
+SHA1: 2a85571415a0cd84b8560e4e17a5c182b2048cca
+SHA256: 134af70438864dc093df9fb9d1d87bcdfff1dc71985aead54f6a6a5aa24dd59d
+Section: 微信插件
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.6
 Architecture: iphoneos-arm64
