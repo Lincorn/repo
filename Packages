@@ -8494,6 +8494,24 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Name: 微信净化-Rootless
 
+Package: netskao.wechatnotiavatar
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1140
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/netskao.wechatnotiavatar_1.1-7_iphoneos-arm64.deb
+Size: 222188
+MD5sum: b8be091d83a61d07891a6c0da3f38486
+SHA1: 7efac8df646d260eb504e323a7ebf7080e7c1982
+SHA256: c3f09a2f05dd8fa69bee3dd9596b5e3113c3c67b5036e506cb3c40f2fd7218ea
+Section: 微信插件
+Description: 无bug版
+ * 使用 iOS15 API 为微信应用程序显示通知头像
+ * Display Notification Avatars for WeChat App using iOS15 APIs
+Author: Netskao
+Name: WeChatNotiAvatar微信通知头像
+
 Package: netskao.wechatpurification
 Version: 4.2-7
 Architecture: iphoneos-arm64
