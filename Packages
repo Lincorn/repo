@@ -7774,6 +7774,22 @@ Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
 Name: WeChatEnhance
 
+Package: com.wechat.enhance
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: 茶 愫
+Installed-Size: 1196
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.wechat.enhance_1.6-3_iphoneos-arm64.deb
+Size: 308824
+MD5sum: 96552780e35c83091922a7394e5b5336
+SHA1: 9082a8fae8283c4c1cb815fbb4a8f4b0adbb9287
+SHA256: 7bac3616ee9375c106d4ede82312a5763f0b6b1e58893799e816669aa64ed9b2
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 茶 愫
+Name: WeChatEnhance
+
 Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
