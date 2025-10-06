@@ -4268,6 +4268,23 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy
+Version: 2.2-8-1006
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2696
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.2-8-1006_iphoneos-arm64.deb
+Size: 573796
+MD5sum: 8dcd1b3d0ceeb491cc2311aa0765e85a
+SHA1: 404a17168e843ee223481a3a54fd2daf7798482b
+SHA256: 50e3e87907cedab0b10346678454ec8c40dac3984c8693ea9ae00482cefae693
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: 抖音魔术师
+
 Package: com.hui.instalauncher2.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -7785,6 +7802,22 @@ Size: 308824
 MD5sum: 96552780e35c83091922a7394e5b5336
 SHA1: 9082a8fae8283c4c1cb815fbb4a8f4b0adbb9287
 SHA256: 7bac3616ee9375c106d4ede82312a5763f0b6b1e58893799e816669aa64ed9b2
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 茶 愫
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.6-4
+Architecture: iphoneos-arm64
+Maintainer: 茶 愫
+Installed-Size: 1196
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.wechat.enhance_1.6-4_iphoneos-arm64.deb
+Size: 308376
+MD5sum: 412e256e2a9a7909b83e987c5fb5fe71
+SHA1: c167ce922cabdd3059b89864b73a0ff5652ebfe1
+SHA256: 0606c88852c881e5a2ab1ae4c4aa099f8fe6cc0ef4c9cacf47572eacf2ab038e
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 茶 愫
