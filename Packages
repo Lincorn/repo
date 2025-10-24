@@ -2888,6 +2888,24 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.curtin.pkc.rootless
+Version: 0.8-0
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.8-0_iphoneos-arm64.deb
+Size: 927324
+MD5sum: 1e3e2f316653509af7a200a17124fddb
+SHA1: 6c4c0fcc0cd1ecdfb7f8f23d20d492574d5183ef
+SHA256: 6e4b56e6e8035515f49448e2eb4430d3cc44af060b0ccf058e211477013f78b5
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.den.blur
 Version: 1.0-8+debug
 Architecture: iphoneos-arm64
@@ -3176,6 +3194,22 @@ Size: 207988
 MD5sum: 9f96b315a7877d63fd4e5b5698f5f083
 SHA1: 26f18e3e97a2a9917813d62c9801e55249a73d8f
 SHA256: 2c6778a4fce71c9d8c5d3b87aa1ea9ff9f4070080762f552ac66bff3e8d276cb
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.WCPulse_1.2-8_iphoneos-arm64.deb
+Size: 208264
+MD5sum: 9d28c769b0d6d59c5b697ea70e19143e
+SHA1: 124343f8ef6d4fa34380dfa3bcb10a19b211ac38
+SHA256: d5ee3861b02ab10b93bc6e628bf0edadef17e1cb9176b5c46b0f327f520e48c8
 Section: 微信插件
 Description: WCPulse
 Author: huami
