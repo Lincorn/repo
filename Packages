@@ -6873,6 +6873,24 @@ Author: sunshinesong
 Name: split-view-pro无验证版
 Ts: sp-sss
 
+Package: com.susu.ios18batteryestimate
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/iphoneos-arm64/com.susu.ios18batteryestimate_1.1.5_iphoneos-arm64.deb
+Size: 50372
+MD5sum: b1fe5e8ee7864c8b9a2cbc9c4c9b7c54
+SHA1: 392ef00cf7d16c0f1410b551f4f5a7fe72ff341f
+SHA256: d1ababfdf57682ae71c8376a1c2d18fbb5bded49b6d92b430609059e8d2a9cfd
+Section: susu
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
 Package: com.susu.nopreferencetips
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -6892,6 +6910,23 @@ Description: 此插件偏向于更换非官方电池的用户(一“件”全包
    * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
 Author: 苏苏
 Name: NoPreferencesTips
+
+Package: com.susu.springanimation
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.susu.springanimation_1.1.1_iphoneos-arm64.deb
+Size: 18004
+MD5sum: ca0509c6f55c01fd578e208e10bab0e9
+SHA1: 216d324bce652156a0449873aa95c56f0c180523
+SHA256: a1477a8349b4c5653e2291c1c66f3de7bdb885bf7911f76efeb4871baeb446ec
+Section: susu
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
 
 Package: com.susu.suawemehook
 Version: 1.3.8
