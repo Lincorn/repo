@@ -421,6 +421,22 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64.deb
+Size: 5147156
+MD5sum: 275f278fd0d9d84836cc358cc57e4ad2
+SHA1: 35f62cf9bb6d39d926d8560e26106a38e5116f0f
+SHA256: 9777592d4c7eb16ed363642ea57235efcaafd77067215d8095fe29f4a04e8e64
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手-Rootless
+
 Package: com.25mao.wcplugins.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -786,6 +802,22 @@ SHA256: d130f80fa6a75e991298af0d1bec1edebcb3e8256f518f4911d2af135dab70b2
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手
+
+Package: com.HBWechatHelper.ailun
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.1_iphoneos-arm64.deb
+Size: 12781488
+MD5sum: c6874058c64cdae9cace97250c8d4eab
+SHA1: 47d8c1c78539b4c799e42bde37704b676197e27b
+SHA256: bd4f437941dc7841cd90893f8b797b3934fb57058020ffe414447db0668ba4c1
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
 Package: com.Oxkuj.staypro
@@ -2509,6 +2541,24 @@ Icon: https://imgs.lemonas.us.kg/file/1748935715163_ftv.png
 Name: floatingView
 Sileodepiction: https://sileodepiction.lemonas.us.kg/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-7_iphoneos-arm64.deb
+Size: 654508
+MD5sum: 2b4233a1a5e4677d630bbc4e5665deb5
+SHA1: 986c807c89281b0b381e146f9ef3fb67bc54bc80
+SHA256: d8805dc9c2c0abab0e04276e76ddb99b7cd39807e2a5bb878db52a7d1db62eb1
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.lemonas.us.kg/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.lemonas.us.kg/com.be-huge.floating-view/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2906,6 +2956,24 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.curtin.pkc.rootless
+Version: 0.8-7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.8-7_iphoneos-arm64.deb
+Size: 974848
+MD5sum: 41ed2b3214f00225d6aa1d0ceb9e1f4a
+SHA1: fdfbb0c910c2cc51abe873cb3808958d19545f13
+SHA256: 05bcee4a2aa0cab7c5f900783e09843d72814d8440ac9ed0cd3654bb70a808a5
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.den.blur
 Version: 1.0-8+debug
 Architecture: iphoneos-arm64
@@ -2987,6 +3055,22 @@ MD5sum: b64c1ad4550f8f302c39a4087fd4c48e
 SHA1: 4e8ce458ea6bd7cf9711b4d0b875d102a936ddea
 SHA256: 6893ae349ecc2ca9c57daacc4511a4ede6edde879da0f7b0401babcc06fcf16d
 Section: 微信键盘
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 14436
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.3.0_iphoneos-arm64.deb
+Size: 5625028
+MD5sum: 39a974d543500d365a1311a14faab141
+SHA1: e1a90ae8dc108bd11eb6b641bb67a2482aa5835a
+SHA256: f7719c44d841b1436146c661c4665a22262ce4c3876dec28aca237541ca3d878
+Section: 微信插件
 Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
@@ -6981,6 +7065,23 @@ Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 酸果 - Rootless
 
+Package: com.sutuplus.releasefugu15
+Version: 6.0.4-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1848
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15_6.0.4-1_iphoneos-arm64.deb
+Size: 532512
+MD5sum: 5e8f63b82070415740923fcffd19baed
+SHA1: b1392d8231914bb556eda1b3b5fbe0038f274725
+SHA256: 3b9671a0f65db521e2dea9d1c9f3e0e75080743a7b7546463d9c98ac2e19a5ea
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - Rootless
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
@@ -7613,6 +7714,24 @@ Icon: https://imgs.lemonas.us.kg/file/zthz.png
 Name: 主题盒子
 Sileodepiction: https://sileodepiction.lemonas.us.kg/com.tencent.themebox/js.json
 
+Package: com.tencent.themebox
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.tencent.themebox_2.2.deb
+Size: 5024332
+MD5sum: 61b40c29391d1c48a1085bda0495662c
+SHA1: 44b56b2b179f4e2522f530cf13e4eae2aff92c87
+SHA256: 99ebc52a071e73fe91432fe532a3bcf94e909956d79b575e91bb42e32ca21086
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://imgs.lemonas.us.kg/file/zthz.png
+Name: 主题盒子-无根
+Sileodepiction: https://sileodepiction.lemonas.us.kg/com.tencent.themebox/js.json
+Sponsor: admin@25mao.com
+
 Package: com.tiaotiao.wcaddborders
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -7956,6 +8075,40 @@ Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 茶 愫
 Name: WeChatEnhance
+
+Package: com.wkk.WCEhance
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.wkk.WCEhance_2.0-1_iphoneos-arm64.deb
+Size: 1807648
+MD5sum: b35421e305754b26ad433f65ad2ab1bc
+SHA1: 3d285beac1bb5fe1b42194a2aaeffcb4b617347a
+SHA256: e79fa7231a0c398ea80fce0ed5ed10b4eb3354e466dcfad16d16a65228facb75
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCPulse
+Version: 1.3-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.wkk.WCPulse_1.3-6_iphoneos-arm64.deb
+Size: 352744
+MD5sum: 94cb1b421faf015065c946e4af4d16ca
+SHA1: b608c3f9fdc5ba12991964961fe56c3dae6aa9c5
+SHA256: 5d6bd1b33cfb24dd64eb69524a183138e235c89cffbaa238c5168102d75115ce
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
 
 Package: com.xx.dyhook
 Version: 2.0.6+8
