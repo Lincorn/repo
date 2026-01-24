@@ -2634,6 +2634,24 @@ Icon: https://imgs.lemonas.us.kg/file/1748935715163_ftv.png
 Name: floatingView
 Sileodepiction: https://sileodepiction.lemonas.us.kg/com.be-huge.floating-view/js.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-9_iphoneos-arm64.deb
+Size: 665540
+MD5sum: f4fb076556c319fc2ac53cd779d62df2
+SHA1: 716193d51907f349e3c7c278e0826bb73e725588
+SHA256: df0954e9c1caa35757b9bd4abc1c0367999cd42ef2e7157ad06659a609842780
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://imgs.lemonas.us.kg/file/1748935715163_ftv.png
+Name: floatingView
+Sileodepiction: https://sileodepiction.lemonas.us.kg/com.be-huge.floating-view/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4901,6 +4919,24 @@ Size: 1730768
 MD5sum: 9aa9a9194c49359f89d58dab569916f3
 SHA1: 1a7e01abdb6f249e678cd8539829e2040d6db00d
 SHA256: 16684ae5e36134cc0678467689b45bb106c604c480ecd2598cfce6ff7e0cb6ae
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122.png
+Name: 微信增强
+Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
+
+Package: com.lxcloud.WCEhance
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhance_2.0-1_iphoneos-arm64.deb
+Size: 1806480
+MD5sum: 34133d087140facbc40b4ae7990fa954
+SHA1: df6c3db1c14ea7973af92e65da72ff91d354dbfe
+SHA256: 8b6382fd1fe5173ec509173504fb431fda17b0458ac7ec2ee982eac3e87641ec
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
